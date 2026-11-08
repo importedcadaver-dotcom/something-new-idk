@@ -1,5 +1,7 @@
 # Acorn HoneyDweller — Six Art Directions
 
+> **Q55 subsequent decision (2026-11-08):** Acorn's **anatomical RIGHT ear** is the single deep reddish-cinnamon ear; his **anatomical FRONT LEFT paw** still has the lighter sock. The reference sheet is now [v0.3](../ACORN_VISUAL_CANON_SHEET_v0.3.md). Earlier discussions treating ear side as open were superseded.
+
 > **Q54 subsequent decision (2026-11-08):** Owner selected criteria **A/C/D/E/F**, with **anatomy and character fidelity highest priority**. See [Q54 approved decision](../decisions/Q54_ART_COMPARISON_PRIORITIES_APPROVED.md) and [Q54 evaluation rubric](ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md). The Q53 proposals and comparison matrix below remain **unscored**, and no final art style has been chosen. Q54 checkbox **B** was not selected separately, while naturalistic anatomy remains binding from existing canon and the explicit highest-priority choice.
 **Comparative Style Brief v0.1**  
 **Q53 selection: G (broad comparison), approved November 8, 2026.**  
@@ -15,13 +17,13 @@ All six briefs below refer to **the same already-approved character**. None adds
 - **Acorn “Muffin” HoneyDweller**, male, **six actual months old**, recognizable **brown bear**, principally quadrupedal with real bear limb/face structure.
 - Round baby head, fat cheeks, extremely **chubby/fat/well-fed** torso, extra-thick fluffy coat, short stout legs.
 - Anatomically bear-like but **abnormally big paws**, larger than twin Millie's; a **lighter fur sock on his own anatomical front-left paw**.
-- **Very big, relatively long, somewhat drooping bear ears**, **one** ear colored deep nearly-red cinnamon. **LEFT/RIGHT EAR HAS NOT BEEN SELECTED**.
+- **Very big, relatively long, somewhat drooping bear ears**, **one** ear colored deep nearly-red cinnamon. **Q55: anatomically RIGHT ear approved**.
 - **Unusually broad tail**, with some cinnamon fur, but **not** a long fox/cat tail.
 - Hazel eyes whose exact geometry is unknown, with emotional expressiveness that does not turn them into human/cartoon eyes.
 - **Dark brown body and back**, **almost entirely white belly**, cinnamon mixed in as **fine guard hairs**, warm cinnamon cheek/muzzle accents and some tail fur. No unapproved spots/side stripes/shoulder badges; the fur sock is **not automatically white**.
 - Existing streaming personality: high-pitched baby voice is normal, expressive toddler syntax and game vocabulary, sweet/bratty/competitive/chaotic/sensitive/curious; eight content types with no fixed template. Visual style must not make him an adult bear, animal mascot or generic human toddler.
 
-**Source of truth:** [approved Q53 choice](../decisions/Q53_BROAD_STYLE_COMPARISON_APPROVED.md), [visual canon sheet v0.2](../ACORN_VISUAL_CANON_SHEET_v0.2.md), individual Q48–52 decision entries. Any contradictions in future drafts are failures to be corrected, not new lore.
+**Source of truth:** [approved Q53 choice](../decisions/Q53_BROAD_STYLE_COMPARISON_APPROVED.md), [visual canon sheet v0.3](../ACORN_VISUAL_CANON_SHEET_v0.3.md), individual Q48–55 decision entries. Any contradictions in future drafts are failures to be corrected, not new lore.
 
 ## 1. Parallel comparison scenarios (proposals, no depicted scenes)
 
@@ -33,7 +35,7 @@ For a future *authorized* comparison, prepare analogous frames/views, not random
 4. **Streamer-camera framing study.** Acorn viewed at realistic relative scale from within a cub-usable gaming space, with nearby bear-adapted inputs; this is a composition *brief*, not an authorization to pick hardware or render an image now.
 5. **Overlay/readability study.** A hypothetical gaming viewport, webcam area, scrolling chat, TTS/donation indicators and Acorn's controls competing for attention; no channel handle, font, logo, sponsor or chat names are canon.
 
-**Orientation rule:** A future camera may invert left/right in a preview, but Acorn's **anatomical** front-left sock must stay on the same limb and be labeled relative to him. For the ear, **do not depict a definitively left or right red ear as settled canon**; resolve that decision first, or test clearly labeled *temporary* left/right hypotheses with no approval implied.
+**Orientation rule:** A future camera may invert left/right in a preview, but Acorn's **anatomical** front-left sock must stay on the same limb and be labeled relative to him. For the ear, **Q55 now fixes the deep red-cinnamon ear on Acorn's anatomical RIGHT**. In an ordinary unmirrored front view, this is the viewer's LEFT; never swap it for a mirrored camera or sprite.
 
 **Unknown-color rule:** In text only, call the sock **lighter** and his one red ear **deep reddish cinnamon**. Don't assign fixed HTML hex codes. Sample palettes would be later artist hypotheses, not adopted canon.
 
@@ -227,7 +229,7 @@ Scores are deliberately **NOT** assigned because no images, playtests, productio
 
 A future reviewer can mark each criterion **PASS / CONCERN / FAIL**, then choose **top priorities** before scoring:
 
-1. **Identity fidelity (critical)** — Dark-brown dominant body/back; nearly white belly; cinnamon guard hairs/face/tail; red ear on one side yet unselected side until decision; front-left light sock; hazel eyes; no extra patches.
+1. **Identity fidelity (critical)** — Dark-brown dominant body/back; nearly white belly; cinnamon guard hairs/face/tail; deep reddish-cinnamon on Acorn's RIGHT ear; front-left light sock; hazel eyes; no extra patches.
 2. **Body fidelity (critical)** — Distinct six-month naturalistic bear, exceptional chubbiness, huge paws, broad tail, large soft-drooping ears, quadrupedal stance.
 3. **Face/cuteness** — Rounded cheeks, baby proportions, nuanced expressions without humanized eyes or Disney-like mascot simplification.
 4. **View consistency** — Same individual from full body, 3/4, rear, close-up and webcam, especially asymmetric markings.
@@ -238,7 +240,7 @@ A future reviewer can mark each criterion **PASS / CONCERN / FAIL**, then choose
 
 ### Non-negotiable FAIL conditions for any eventual authorized image
 
-- Two red-cinnamon ears (only one approved); **guessing** left/right as the canonical side without user choice.
+- Two red-cinnamon ears (only one approved); placing the deep red-cinnamon color on Acorn's LEFT instead of his approved RIGHT.
 - Sock mirrored to anatomical **front right**, or silently adding matching socks.
 - White belly replaced by tan/beige, or dark brown body replaced by predominantly orange/golden fur.
 - Giant paws shrunk to ordinary paws, tail made long/cat-like, ears made rabbit/dog-like, or fur becomes plastic/toy fabric.
@@ -252,7 +254,7 @@ A future reviewer can mark each criterion **PASS / CONCERN / FAIL**, then choose
 
 **Q54 suggested:** Owner selects **evaluation priorities** (e.g., anatomy, cuteness, readable markings, game/UI realism, ease of reuse) and desired **comparison contexts**. Can choose all or rank them, with Other/custom. This does not select a winner.
 
-**Q55 suggested:** Decide whether to finalize anatomical **red ear side** now or postpone it with “left/right design alternatives, noncanonical” clearly labeled. Front-left sock location stays locked.
+**Q55 completed:** User explicitly approved anatomical **RIGHT red-cinnamon ear**. Front-left sock location stays locked. The next open decision is the set of preferred future camera/reference views (Q56).
 
 **Q56 suggested:** Choose preferred camera shots for *future* art: full body, zoomed face, webcam, streamer gameplay layout, multi-angle sheet, family comparison. Selection remains **brief-only** until a separate generation request.
 
