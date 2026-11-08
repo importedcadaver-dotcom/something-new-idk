@@ -4,6 +4,8 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Q60 APPROVED — compact chat below middle-left webcam, adaptive layout, beside-camera TTS](docs/decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md)
+- [Q60 text-only chat/TTS layout specification and continuity checks](docs/art_direction/ACORN_Q60_CHAT_TTS_LAYOUT_RULES_v0.1.md)
 - [Roadmap and checkpoint — status as of Q59, remaining work, project location](docs/ROADMAP_STATUS_2026-11-08.md)
 - [Q59 APPROVED — branded overlay B–H, dark red, chat/TTS, alerts, votes and middle-left webcam frame](docs/decisions/Q59_BRANDING_AND_OVERLAY_B_TO_H_APPROVED.md)
 - [Q59 written branded overlay specification and QA (no images)](docs/art_direction/ACORN_Q59_BRANDING_OVERLAY_SYSTEM_v0.1.md)
@@ -69,3 +71,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q58 (2026-11-08):** User approved **all eight** broadcast layout capabilities: gameplay-first, reaction-first, Just Chatting, family/friends split-screen, outdoor/activity, resizable webcam/chat, opt-in challenges and polished minimal UI. **Custom binding:** normal Acorn webcam anchor is **middle-left**, with enlargement/full-screen flexibility across modes. Q47 self-directed streams remain intact. The Q57 game pool is unchanged; Fortnite remains his only specifically established played title among Q57 choices, others comparison candidates. Q48–55 physical canon unchanged. No screenshots, art, streams, scenes, code or actual tests performed.
 
 **Latest Q59 (2026-11-08):** User selected **B+C+D+E+F+G+H** (Q59 A NOT selected). Approved distinctive non-childish Acorn/HoneyDweller branding, dark-red accents, readable moderated chat, visible TTS indicators, contextual donations/alerts, optional audience widgets and resizable custom **middle-left** webcam frame. Q58 polished minimalism and all eight layouts remain approved. No exact chat placement, style winner, specific logo, finished UI, screenshots or code authorized. See [current roadmap/status](docs/ROADMAP_STATUS_2026-11-08.md).
+
+**Latest Q60 (2026-11-08):** User approved **B+E+F+G**: compact normal chat **directly beneath** Acorn's **MIDDLE-LEFT** webcam; alternative chat arrangements by stream format; expandable/collapsible chat; current spoken-message **TTS indicator BESIDE** camera. Q60 A right-edge column, C bottom strip and D transparent floating chat were **not selected**. Exact per-mode layouts and indicator side remain open. Q59 B–H / Q58 A–H / Q47 spontaneity / Q48–55 anatomy all preserved. Documentation only; no art, screenshots, scenes, gameplay or code. See the Q60 decision log and design rules above.
