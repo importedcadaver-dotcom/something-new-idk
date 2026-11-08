@@ -1,5 +1,5 @@
 # Verification, repair and open-decision register
-**Bear Cub Streamer · companion to Canon Bible v1.1 · 2026-11-07**
+**Bear Cub Streamer · companion register updated for Canon Bible v1.1.1 · 2026-11-07**
 
 > This is a documentation audit, not gameplay, code, or a new round of lore. Canon authority always comes from the user's explicit approvals. The bible remains a working draft until user review.
 
@@ -56,7 +56,7 @@ Do not write "Q1–17 verified" as an unqualified statement. The strongest defen
 | Q39 | Targeted early-round verification + deeper omission and contradiction audit | D |
 | Q40 | All five specific repairs, complete v1.1, empty GitHub repo selection | D |
 
-## 4. Repair ledger, v1.0 → v1.1
+## 4. Repair ledger, v1.0 → v1.1 → v1.1.1
 
 | ID | Earlier problem | Current fix | Remaining caveat |
 |---|---|---|---|
@@ -117,3 +117,25 @@ Chosen repository: **importedcadaver-dotcom/something-new-idk**, a previously em
 ## 8. Review / acceptance decision
 
 **v1.1 is a working corrective draft, not an officially accepted and exhaustively verified final document.** The owner's next review may (a) accept as provisional organizational authority; (b) submit specific errata; (c) request an additional dependency audit; or (d) prioritize a clearly open subsystem. Every future question must keep an **Other/custom** option and must not treat silence as an approval.
+
+
+## 9. Applied documentation-only repairs in v1.1.1 (Q42 authorization)
+
+**New authoritative working draft:** [Canon Bible v1.1.1](BEAR_CUB_STREAMER_CANON_BIBLE_v1.1.1.md). The historical v1.1 document is intentionally retained unchanged.
+
+| Finding | Editorial repair applied | New canon? |
+|---|---|---|
+| F01 | “Audrey's biological mother” → “Audrey's mother” with genetic relationship explicitly unknown | **No** |
+| F02 | “daughter-in-law”/“mother-in-law” → Audrey's partner / her mother's relation; formal marriage open | **No** |
+| F03 | Polar sibling/offspring total ~30 preserved, inclusion of girlfriend explicitly unclear | **No** |
+| F04/F08 | H-grade Q1–5 excerpts marked as previously reported but not archived; Q6–17 individual replies still unrecovered | **No** |
+| F05 | Missing early transcript and working names no longer block acceptance as accurately labeled draft | **No** |
+| F06 | Cynthia's former criminal group versus current organization relationship explicitly unknown | **No** |
+| F07 | “engaged” rewritten as actively involved, without suggesting betrothal | **No** |
+| F09 | Family diagram clarified as social parenting, not biological or marital genealogy | **No** |
+
+**Additional approved Q42 task delivered:** [Combined B+C+D systems audit](COMBINED_SYSTEMS_AUDIT_B_C_D_v1.1.1.md). It uses separately labeled external bear physiology and real platform terms, plus paper calculations, conditional conflicts and proposed acceptance tests. It has **not** finalized biology, platform, hardware, legal ownership, parental safeguards, criminal organization names, family ages, or any other open creative choice.
+
+**Conditional platform conflict discovered:** If user later selects literal current Twitch with its unchanged rules, a six-month streamer would conflict with its present minimum-age policy (official Twitch TOS: https://legal.twitch.com/en/legal/terms-of-service/). Because user has not yet chosen the platform, **there is no currently established hard contradiction**.
+
+**Review status:** v1.1.1 remains a **working corrected reference, awaiting the owner's review/acceptance**. The audit did not start gameplay, scenes, real in-world time or game code.
