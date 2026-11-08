@@ -4,6 +4,7 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Approved Q48 — Acorn physical appearance and unusual body proportions](docs/decisions/Q48_ACORN_APPEARANCE_APPROVED.md)
 - [Approved Q47 — all eight stream types, no fixed format](docs/decisions/Q47_STREAM_CONTENT_APPROVED.md)
 - [Research: DougDoug, Joe Bart, HasanAbi and Ludwig applied to Acorn (proposals only)](docs/research/STREAMER_FORMAT_RESEARCH_DOUGDOUG_JOEBART_HASAN_LUDWIG.md)
 - [Approved Q46 — Acorn voice: A is normal; B–H available](docs/decisions/Q46_ACORN_VOICE_APPROVED.md)
