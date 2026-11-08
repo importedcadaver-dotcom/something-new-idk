@@ -1,5 +1,7 @@
 # Acorn Q57 — Real-Game and Reaction Stream Layout Comparison Packet v0.1
 
+> **Q59 subsequent approval (2026-11-08):** Branding and overlay choices B–H were explicitly approved, including a resizable custom frame around Acorn's **middle-left webcam**, dark-red accents, moderated chat, visible TTS, transient donation alerts and optional interactive challenge widgets. Q59 A is unselected. See [Q59 decisions](../decisions/Q59_BRANDING_AND_OVERLAY_B_TO_H_APPROVED.md) and [Q59 text-only spec](ACORN_Q59_BRANDING_OVERLAY_SYSTEM_v0.1.md). Original Q57 genre comparisons remain written, not screenshots.
+
 > **Q58 subsequent approval (2026-11-08):** The user has now approved **all eight A–H adaptive layout modes** and a **middle-left normal webcam anchor**. The mode proposals in Section 4 were superseded *as undecided concepts* by the [Q58 decision log](../decisions/Q58_ALL_STREAM_LAYOUT_MODES_AND_MIDDLE_LEFT_WEBCAM_APPROVED.md); exact dimensions and the new [Q58 written layout-system brief](ACORN_Q58_ADAPTIVE_LAYOUT_SYSTEM_v0.1.md) remain proposals. No UI screenshot or code has been created.
 
 **Status:** PROPOSED text-only art/UI comparison plan based on **approved Q57 A–J** and custom reaction categories.  
