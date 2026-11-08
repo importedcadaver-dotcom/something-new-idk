@@ -4,11 +4,13 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Acorn visual canon v0.3 — Q55 anatomical RIGHT ear, FRONT LEFT paw sock](docs/ACORN_VISUAL_CANON_SHEET_v0.3.md)
+- [Approved Q55 — right reddish-cinnamon ear](docs/decisions/Q55_ACORN_RIGHT_EAR_APPROVED.md)
 - [Q54 APPROVED — evaluation criteria A/C/D/E/F, anatomy/character fidelity first](docs/decisions/Q54_ART_COMPARISON_PRIORITIES_APPROVED.md)
 - [Q54 evaluation rubric — fidelity gates, style comparisons, no numerical scores](docs/art_direction/ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md)
 - [Q53 APPROVED — compare all six art directions; no winner or images](docs/decisions/Q53_BROAD_STYLE_COMPARISON_APPROVED.md)
 - [Q53 six-direction comparative art briefs and quality gates (PROPOSALS)](docs/art_direction/ACORN_STYLE_COMPARISON_Q53_v0.1.md)
-- [Acorn visual canon sheet v0.2 — complete Q48–Q52 consolidated appearance](docs/ACORN_VISUAL_CANON_SHEET_v0.2.md)
+- [Archived Acorn visual canon sheet v0.2 — Q48–Q52 (superseded by v0.3)](docs/ACORN_VISUAL_CANON_SHEET_v0.2.md)
 - [Approved Q52 — cinnamon guard hairs, face accents and extra-wide tail](docs/decisions/Q52_ACORN_CINNAMON_DISTRIBUTION_APPROVED.md)
 - [Archived Acorn visual canon sheet v0.1 — Q48–Q51](docs/ACORN_VISUAL_CANON_SHEET_v0.1.md)
 - [Approved Q51 — front-left paw sock and one deep red-cinnamon ear](docs/decisions/Q51_ACORN_SIGNATURE_MARKINGS_APPROVED.md)
@@ -47,3 +49,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q53 (2026-11-08):** Approved broad written comparison of all A–F visual directions. A–E are distinct rendering approaches; F is a streamer UI/framing layer that can combine with them. Published parallel style briefs and future QA gates. No style winner, actual art, image generation, game format or coding is approved. The one reddish-cinnamon ear's side and other outstanding details remain undecided.
 
 **Q54 (2026-11-08):** A+C+D+E+F selected as evaluation criteria. Highest-priority selection is anatomy and character fidelity as a mandatory cross-cutting gate; Q54 checkbox B was not independently selected. No final style, images, numerical scoring weights, code or gameplay. Original Q6–17 evidence limitation unchanged.
+
+**Latest Q55 (2026-11-08):** Acorn's one deep reddish-cinnamon ear is **anatomical RIGHT**; his one lighter sock remains **anatomical FRONT LEFT**. The active appearance reference is visual canon sheet **v0.3**. Older documents with “ear side OPEN” describe their historical pre-Q55 status and are superseded for that one field. Exact sock color, ear color coverage, future camera views and final art style remain open. No imagery, gameplay, scenes or coding authorized.
