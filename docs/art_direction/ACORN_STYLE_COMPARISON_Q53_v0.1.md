@@ -1,4 +1,6 @@
 # Acorn HoneyDweller — Six Art Directions
+
+> **Q54 subsequent decision (2026-11-08):** Owner selected criteria **A/C/D/E/F**, with **anatomy and character fidelity highest priority**. See [Q54 approved decision](../decisions/Q54_ART_COMPARISON_PRIORITIES_APPROVED.md) and [Q54 evaluation rubric](ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md). The Q53 proposals and comparison matrix below remain **unscored**, and no final art style has been chosen. Q54 checkbox **B** was not selected separately, while naturalistic anatomy remains binding from existing canon and the explicit highest-priority choice.
 **Comparative Style Brief v0.1**  
 **Q53 selection: G (broad comparison), approved November 8, 2026.**  
 **Document status: PROPOSED research/design analysis, NOT a final style decision.**  
