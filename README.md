@@ -4,6 +4,7 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Approved Q49 — Acorn dark-brown/cinnamon coat with nearly white belly](docs/decisions/Q49_ACORN_COAT_COLOR_APPROVED.md)
 - [Approved Q48 — Acorn physical appearance and unusual body proportions](docs/decisions/Q48_ACORN_APPEARANCE_APPROVED.md)
 - [Approved Q47 — all eight stream types, no fixed format](docs/decisions/Q47_STREAM_CONTENT_APPROVED.md)
 - [Research: DougDoug, Joe Bart, HasanAbi and Ludwig applied to Acorn (proposals only)](docs/research/STREAMER_FORMAT_RESEARCH_DOUGDOUG_JOEBART_HASAN_LUDWIG.md)
