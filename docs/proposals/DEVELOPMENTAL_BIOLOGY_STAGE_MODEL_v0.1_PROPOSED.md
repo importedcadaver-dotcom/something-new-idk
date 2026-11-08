@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Developmental Biology & Age Stages
-**Proposal v0.1 · Q43/44 design investigation · NOT CANON**  
+**Proposal v0.1 · Q43/44 investigation · Most of this document remains NONCANON**
+
+> **Later decision Q44 (approved):** Option E — hybrid natural early physical growth with independently specified puberty, growth completion, nursing and longevity. This choice is now documented in [Q44–Q45 decision log](../decisions/Q44_Q45_APPROVED.md). All numeric candidate age bands and later biology options below remain **unapproved proposals**.   
 **Date:** 2026-11-07  
 **Status:** Paper framework for interview choices; **not approved**, **not merged into Canon Bible v1.1.1**, no gameplay/scenes/code.
 
