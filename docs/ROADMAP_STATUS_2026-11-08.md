@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Roadmap & Status Snapshot
 
+> **Q61 current update (2026-11-08):** Q61 directly approved **A+B+D+E+F+G+H** chat/TTS behaviors (not C visible queue). Research into DougDoug TTS and first-stream moderation is in [Q61 research memo](research/DOUGDOUG_TTS_AND_FIRST_STREAM_MODERATION_Q61.md). Owner requested analysis of whether to prioritize Acorn's **off-camera emotions/backstory/room/physical computer setup** before writing early streams and chat incidents. Editorial recommendation: **yes**; see [proposed roadmap pivot](ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md). This is **not a new lore approval**, a first-stream script, or permission to generate art/code. Earlier “Q61 next” wording below is historical.
+
 > **Q60 update (2026-11-08):** Q59 was completed when this snapshot was first created. **Q60 is now completed too:** compact chat below the **middle-left webcam**, adaptable by stream mode, expandable/collapsible, and active TTS status beside the webcam. See [approved Q60](decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md). The next proposed step is **Q61** (TTS/chat behavior, design-only). Read older “Q60 next” language below as historical, not current.
 
 **Date:** November 8, 2026  
@@ -9,7 +11,7 @@
 
 ## Executive status
 
-**Current workstream:** **World bible refinement → Acorn visual design and livestream UI system → Q59 completed.** The latest question, Q59, approved custom bear-world branding, dark-red accent, readable chat, TTS indicators, contextual donations/alerts, optional interactive challenges and custom middle-left webcam framing (**B–H**), while option **A** was **not selected**. The next proposed interview topic is **Q60 chat-panel placement and behavior**, but no future answer has been pre-approved.
+**Original checkpoint workstream (pre-Q61):** **World bible refinement → Acorn visual design and livestream UI system → Q59 completed.** The latest question, Q59, approved custom bear-world branding, dark-red accent, readable chat, TTS indicators, contextual donations/alerts, optional interactive challenges and custom middle-left webcam framing (**B–H**), while option **A** was **not selected**. The next proposed interview topic is **Q60 chat-panel placement and behavior**, but no future answer has been pre-approved.
 
 **Roadmap authority:** The README cites user-approved **Q38 project goal: “Complete a coherent world bible first. Decide interactive format later.”** This file is a **status map/inferred sequence of work to be reviewed**, not a previously user-approved seven-stage build schedule. It does not invent percentage completeness, deadlines or a release date.
 
@@ -22,7 +24,7 @@
 | **3. Acorn physical appearance** | Q48–52 define chubby bear cub body, colors, markings, hazel eyes, cinnamon highlights. Q55 fixes **anatomical RIGHT reddish-cinnamon ear** and **anatomical FRONT LEFT lighter sock**. Consolidated [Visual Canon v0.3](ACORN_VISUAL_CANON_SHEET_v0.3.md). | Exact sock shade/height, ear extent, eye geometry, exact palette, family visual reference sheets open. **No art generated** |
 | **4. Art-direction research** | Q53 broad written comparison of six approaches. Q54 fidelity-first evaluation priorities. Q56 eight written reference/camera views. Documentation and test checklists created | No candidate pictures, style winner, empirical comparison scores or approved production technique; user has explicitly **not authorized images** |
 | **5. Stream content reference research** | Q57 ten real-game subjects for written comparisons; Fortnite established Acorn game; other nine groups and additional non-game categories are reference candidates. Q56 eight view types include game camera/stream layout | Do not invent actual past VODs, real platform branding, specific copyrighted clips, mature content episodes, fanfiction titles or licensed music |
-| **6. Adaptive broadcast layouts** | Q58 all eight UI modes and **middle-left webcam**; Q59 approved **B–H** branded overlay elements; **Q60 B/E/F/G** approved compact chat **below** camera, alternative mode layouts, expand/collapse and active TTS indication **beside** camera. | Exact frame, logo, palette hex, **TTS/chat behavior detail (Q61 proposed)**, platform, alert timing and refined dimensions remain open. |
+| **6. Adaptive broadcast layouts** | Q58 all eight UI modes and **middle-left webcam**; Q59 **B–H** branded overlay; Q60 **B/E/F/G** compact chat **below** webcam, adaptable and collapsible; Q61 **A/B/D/E/F/G/H** active highlight, username, pause/skip, moderated filtering, priority, density and idle TTS. | **Q61 C visible queue not approved.** Exact filter/priority rules, brand logo, platform, controls, TTS side/voice and sizing open. |
 | **7. Bible consolidation and signoff** | README index, multiple audits, direct approval logs and current visual sheet support eventual final bible | Need reconcile proposals with direct approvals, document open decisions and get owner acceptance of a final revised bible; no official completion milestone declared |
 | **8. Possible later media/interactivity** | Research briefs and testing plans only | **Unstarted and unauthorized:** actual images, renders, screenshots, scenes, gameplay, coding/engine/build, public launch or recurring broadcasts. Choose interactive format only *after* owner approves future phase |
 
@@ -49,7 +51,7 @@
 
 ## Proposed next steps (not automatic authorization)
 
-1. **Q60 completed:** Directly below-webcam compact chat; chat adapts by mode, expands/collapses, and active TTS indicator sits beside webcam. **Q61 suggested:** owner can choose chat/TTS active-message presentation, queue behavior, density or moderation features, with Other/custom.
+1. **Q60–61 completed:** Compact below-webcam chat, active TTS beside webcam, Q61 highlight/name/pause/skip/filter/priority/density/idle status. **Q61 C visible queue NOT approved**. **Q62 proposed:** return to Acorn's off-camera emotional behavior before drafting first-stream history; see the noncanonical proposed pivot. Other/custom available.
 2. **Q61+ (if desired)**: specific branded webcam frame/overlay logo language, accent palette, moderation/readout placement, alerts and vote widgets. Do not force eight UI modes simultaneously.
 3. **Art preparation**: resolve any physical ambiguities needed for consistency; compare real game-style reference images *only when separately authorized*. No standalone visual style winner yet.
 4. **Canon consolidation**: reconcile Q44–60 direct approvals, remaining personal/family/civilization rules and the incomplete Q6–17 provenance; request final world bible signoff.
