@@ -2,12 +2,15 @@
 
 Documentation-only repository for the fictional **Bear Cub Streamer** universe, centered on Acorn HoneyDweller.
 
-## Current deliverable
+## Current documentation (latest first)
 
-- [Canon Bible v1.1 — corrected working draft](docs/BEAR_CUB_STREAMER_CANON_BIBLE_v1.1.md)
+- [Canon Bible v1.1.1 — documentation-corrected working draft](docs/BEAR_CUB_STREAMER_CANON_BIBLE_v1.1.1.md)
+- [Combined B+C+D systems audit — biology/chronology, streaming/technology, corporate/criminal power](docs/COMBINED_SYSTEMS_AUDIT_B_C_D_v1.1.1.md)
 - [Verification and open-decision register](docs/VERIFICATION_AND_OPEN_DECISIONS.md)
+- [Targeted consistency audit of v1.1](docs/TARGETED_CONSISTENCY_AUDIT_v1.1.md)
+- [Archived Canon Bible v1.1 (superseded by documentation-only v1.1.1)](docs/BEAR_CUB_STREAMER_CANON_BIBLE_v1.1.md)
 
-**Status:** Working draft for user review, not final canon acceptance.
+**Status:** v1.1.1 is a **working documentation baseline for user review**, not an accepted or exhaustively historically verified canon bible. New B+C+D audit proposals are NOT canon.
 
 **Authority:** User-approved decisions are canonical. Suggestions, generic illustrations, provisional names and unverified early-round attributions are not automatically canonical. Later explicit corrections override earlier choices.
 
