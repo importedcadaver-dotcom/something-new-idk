@@ -1,5 +1,7 @@
 # Acorn — Preference-Grounded Game Reference Pool v0.1
 
+> **Q57 subsequent decision (2026-11-08):** The user explicitly selected **all ten Q57 game-reference groups A–J**, including Fortnite, Minecraft/Hypixel SkyBlock, Cyberpunk 2077, Grand Theft Auto V, Pokémon Violet, ARK: Survival Ascended, Elden Ring, Animal Crossing: New Horizons, Zelda BOTW/TOTK and Stardew Valley. Non-game additions: fanfiction, edgy internet humor, an unspecified orange-and-black-logo website reference and rapper music videos. See [Q57 approval log](../decisions/Q57_TEN_GAMES_AND_REACTION_REFERENCES_APPROVED.md) and [comparison packet](ACORN_Q57_CONTENT_LAYOUT_COMPARISON_PACKET_v0.1.md). The larger Q56 pool below remains an historical preference catalog, **not** ten confirmed prior Acorn streams.
+
 **Basis:** User's custom Q56 instruction: “use the games i like for the games aacorn plays.”  
 **Status:** **Written design/reference candidates**, not Acorn's canon inventory, not a completed screenshot, not proof he has streamed any of them.  
 **Documentation only:** No images/screenshots, gameplay, art rendering, code, recording, streaming or story scenes.
@@ -63,7 +65,7 @@ To avoid random game variety, select a few **distinct types of UI** for comparat
 
 ## 5. Suggested next owner choices
 
-**Q57:** Which games should appear in the **first planned comparison packet**? Allow multiple checked options and Other/custom. Fortnite is already canon but selecting other games as comparison subjects does not automatically canonize them as past streams or prove Acorn owns them. If the owner specifically wants to make their selected titles Acorn's recurring games, record that as a separately identifiable approval.
+**Q57 COMPLETED:** Owner selected **all ten** proposed A–J game-reference groups for written comparison, plus fanfiction, edgy internet humor, unspecified orange-and-black-logo website reference and rapper music videos as non-game content interests. The other nine game groups remain not-yet-established **as games Acorn has played**, despite being selected as comparison subjects. **Q58 NEXT:** adaptive streamer-screen layout formats; Other/custom. If the user later explicitly decides Acorn already owns/plays the other titles, record that separately.
 
 **Keep open** precise streamer UI, whether actual screenshots/references are supplied later, specific age/content norms, legal streaming rights, platform, channel branding and portrayal of other family member appearances.
 
