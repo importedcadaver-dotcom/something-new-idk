@@ -1,5 +1,7 @@
 # Acorn HoneyDweller — Six Art Directions
 
+> **Q56 subsequent decision (2026-11-08):** All **eight** reference views A–H are approved for future **written** comparisons, including anatomical front/three-quarter/side/rear, six expressions, a webcam, a full stream-screen layout, indoor/outdoor context and a provisional family scale view. Use only user-liked game titles for proposed game-screen contexts, with [Fortnite established canon and other preference-based titles still candidates](ACORN_GAME_REFERENCE_POOL_Q56_v0.1.md). See [Q56 comparison blueprint](ACORN_Q56_EIGHT_VIEW_COMPARISON_BLUEPRINT_v0.1.md). No images or actual screenshot production authorized.
+
 > **Q55 subsequent decision (2026-11-08):** Acorn's **anatomical RIGHT ear** is the single deep reddish-cinnamon ear; his **anatomical FRONT LEFT paw** still has the lighter sock. The reference sheet is now [v0.3](../ACORN_VISUAL_CANON_SHEET_v0.3.md). Earlier discussions treating ear side as open were superseded.
 
 > **Q54 subsequent decision (2026-11-08):** Owner selected criteria **A/C/D/E/F**, with **anatomy and character fidelity highest priority**. See [Q54 approved decision](../decisions/Q54_ART_COMPARISON_PRIORITIES_APPROVED.md) and [Q54 evaluation rubric](ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md). The Q53 proposals and comparison matrix below remain **unscored**, and no final art style has been chosen. Q54 checkbox **B** was not selected separately, while naturalistic anatomy remains binding from existing canon and the explicit highest-priority choice.
@@ -256,7 +258,7 @@ A future reviewer can mark each criterion **PASS / CONCERN / FAIL**, then choose
 
 **Q55 completed:** User explicitly approved anatomical **RIGHT red-cinnamon ear**. Front-left sock location stays locked. The next open decision is the set of preferred future camera/reference views (Q56).
 
-**Q56 suggested:** Choose preferred camera shots for *future* art: full body, zoomed face, webcam, streamer gameplay layout, multi-angle sheet, family comparison. Selection remains **brief-only** until a separate generation request.
+**Q56 completed:** User approved **A–H** reference views and preference-based game contexts for *written* art comparison; see [Q56 decision log](../decisions/Q56_ALL_REFERENCE_VIEWS_APPROVED.md). No generation request was made.
 
 **After explicit image authorization:** produce distinctly separate candidate renders at consistent anatomy, camera, light and shot type; compare against the above pass gates; reject generic AI artifacts. Image generation is **not** authorized at Q53.
 
