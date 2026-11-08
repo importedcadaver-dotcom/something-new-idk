@@ -1,5 +1,7 @@
 # Acorn — Eight-View Art Comparison Blueprint v0.1
 
+> **Q58 subsequent approval (2026-11-08):** The user selected **all eight adaptive stream layouts A–H**, with an explicit **middle-left normal webcam position** and the ability to resize. See [Q58 decision log](../decisions/Q58_ALL_STREAM_LAYOUT_MODES_AND_MIDDLE_LEFT_WEBCAM_APPROVED.md) and the [Q58 text-only layout brief](ACORN_Q58_ADAPTIVE_LAYOUT_SYSTEM_v0.1.md). For Q56 E/F webcam/stream views, the center-left panel anchor is now a real owner requirement, not a suggestion.
+
 > **Q57 subsequent decision (2026-11-08):** All ten A–J user-liked game-reference groups approved for planned written stream-screen layout comparisons. Non-game reference subjects (fanfiction, edgy humor, unspecified orange-and-black-logo site reference and rapper music videos) are also included as development inputs, **not explicit media to show Acorn**. See [Q57 comparison packet](ACORN_Q57_CONTENT_LAYOUT_COMPARISON_PACKET_v0.1.md). No images/captures or new previously-streamed Acorn games were authorized.
 
 **Status:** Text-only design blueprint based on **Q56 APPROVED A–H**.  
@@ -149,6 +151,6 @@ The **same** approved Acorn identity is the subject of all eight future views. I
 
 **Q57 completed:** The owner selected all ten real-game reference groups A–J for written comparison. The next useful choice (Q58) is **which UI layout modes should exist for Acorn's spontaneous streaming**, with Other/custom and ability to select many. This is an **art/reference priority interview**, not automatic canon that Acorn has played all those titles. Beyond Fortnite, which games he actually owns/streams can be decided separately if the user wishes.
 
-After game screens are prioritized, determine webcam placement, stream UI hierarchy, content genres, camera crop and any remaining coat/detail precision—each still design-only until explicit image-generation approval.
+Q57 completed all ten game-screen reference groups. Q58 subsequently approved all eight adaptive layout modes and **middle-left webcam anchor**. Next Q59 can refine overlay appearance, chat/TTS, alert density and branding, with precise camera crop and any remaining coat/detail precision still undecided. Everything stays design-only pending separate image authorization.
 
 **Historical provenance:** Original Q6–17 user messages are still unrecovered individually. Q56 owner choices A–H are directly approved and supersede previous Q53/Q54 lists of merely *proposed* future views without altering their historical status.
