@@ -1,5 +1,7 @@
 # Acorn — Adaptive Broadcast Layout System v0.1
 
+> **Q60 subsequent approval (2026-11-08):** Default compact chat **DIRECTLY BELOW** Acorn's **MIDDLE-LEFT** webcam; chat may rearrange by stream mode and expand/collapse; the active TTS indicator appears **BESIDE the webcam**. See [Q60 direct decision](../decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md) and [Q60 layout rules](ACORN_Q60_CHAT_TTS_LAYOUT_RULES_v0.1.md). Earlier open-chat-position hypotheses are not current canon.
+
 > **Q59 subsequent approval (2026-11-08):** User selected overlay options **B+C+D+E+F+G+H**, not A, including Acorn/HoneyDweller custom branding, dark-red accents, readable chat/moderation, visible TTS, contextual donation alerts, optional polls/challenges and a resizable custom **middle-left webcam frame**. See [Q59 approved decision](../decisions/Q59_BRANDING_AND_OVERLAY_B_TO_H_APPROVED.md) and [Q59 written overlay brief](ACORN_Q59_BRANDING_OVERLAY_SYSTEM_v0.1.md). The original Q59 proposals below were candidate choices and are now resolved only to the extent explicitly selected. No screenshot or source code exists.
 
 **Status:** Written design analysis translating **approved Q58 A–H and middle-left webcam** into comparable interface briefs. UI dimensions, placements beyond webcam anchor, effects and aesthetics below are **PROPOSALS** until the user chooses them.  
