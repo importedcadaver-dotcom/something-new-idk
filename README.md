@@ -4,7 +4,9 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
-- [Acorn visual canon sheet — consolidated Q48–Q51](docs/ACORN_VISUAL_CANON_SHEET_v0.1.md)
+- [Acorn visual canon sheet v0.2 — complete Q48–Q52 consolidated appearance](docs/ACORN_VISUAL_CANON_SHEET_v0.2.md)
+- [Approved Q52 — cinnamon guard hairs, face accents and extra-wide tail](docs/decisions/Q52_ACORN_CINNAMON_DISTRIBUTION_APPROVED.md)
+- [Archived Acorn visual canon sheet v0.1 — Q48–Q51](docs/ACORN_VISUAL_CANON_SHEET_v0.1.md)
 - [Approved Q51 — front-left paw sock and one deep red-cinnamon ear](docs/decisions/Q51_ACORN_SIGNATURE_MARKINGS_APPROVED.md)
 - [Approved Q50 — Acorn's hazel eyes; exact shape and markings still open](docs/decisions/Q50_ACORN_EYES_HAZEL_APPROVED.md)
 - [Approved Q49 — Acorn dark-brown/cinnamon coat with nearly white belly](docs/decisions/Q49_ACORN_COAT_COLOR_APPROVED.md)
@@ -35,3 +37,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q46:** User approved voice dimensions A–H with **A (tiny, high-pitched baby voice) as Acorn's normal voice**; other vocal qualities are possible in context. No audio or art generated.
 
 **Q47 (2026-11-08):** All A–H livestream formats approved, with no fixed format—Acorn follows his wishes. User-requested creator references were researched and documented as comparison/proposals without introducing specific collaborator names, opinions or event mechanics into canon. The priority design focus is streams, voice, friends and eventual visuals, but no gameplay/art/code is authorized.
+
+**Latest Q52 (2026-11-08):** User approved cinnamon distribution C+E+F: scattered cinnamon guard hairs in otherwise dark fur, warm cinnamon cheek/muzzle accents and cinnamon on the extra-wide tail. The one deep red-cinnamon ear's side remains OPEN. Appearance is documented in visual canon sheet v0.2, not artwork. Q6–17 source evidence limitations persist.
