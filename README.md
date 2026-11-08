@@ -4,6 +4,8 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Q57 APPROVED — all ten real-game stream comparison subjects and custom internet/reaction interests](docs/decisions/Q57_TEN_GAMES_AND_REACTION_REFERENCES_APPROVED.md)
+- [Q57 written streamer-screen design packet — game/UI and reaction categories (PROPOSALS)](docs/art_direction/ACORN_Q57_CONTENT_LAYOUT_COMPARISON_PACKET_v0.1.md)
 - [Q56 APPROVED — all eight future reference views; use games the user likes](docs/decisions/Q56_ALL_REFERENCE_VIEWS_APPROVED.md)
 - [Q56 eight-view comparison blueprint — written composition tests](docs/art_direction/ACORN_Q56_EIGHT_VIEW_COMPARISON_BLUEPRINT_v0.1.md)
 - [Q56 preference-grounded real-game reference pool — other titles only candidates](docs/art_direction/ACORN_GAME_REFERENCE_POOL_Q56_v0.1.md)
@@ -56,3 +58,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q55 (2026-11-08):** Acorn's one deep reddish-cinnamon ear is **anatomical RIGHT**; his one lighter sock remains **anatomical FRONT LEFT**. The active appearance reference is visual canon sheet **v0.3**. Older documents with “ear side OPEN” describe their historical pre-Q55 status and are superseded for that one field. Exact sock color, ear color coverage, future camera views and final art style remain open. No imagery, gameplay, scenes or coding authorized.
 
 **Latest Q56 (2026-11-08):** All eight proposed future reference views A–H approved for **written briefs only**: full-body 3/4, front, side/rear, six facial expressions, webcam, complete real-game stream UI, indoor/outdoor, and provisional family size. User explicitly directed that Acorn's game-screen candidates reflect real games the user likes; Fortnite remains established Acorn canon, and other titles drawn from user's play/preferences are candidate references until specifically confirmed as Acorn games. Q55 anatomical RIGHT red-cinnamon ear and FRONT LEFT sock remain fixed. No images, gameplay, scenes, code, new visual art style, game capture or final ranking authorized.
+
+**Latest Q57 (2026-11-08):** User approved **all ten** real-game reference groups A–J for future *written stream-screen comparison*, plus fanfiction, irreverent/inappropriate internet humor, an unspecified orange-and-black-logo site reference and rapper music videos as additional reaction/media interests. **Fortnite alone remains explicitly confirmed as Acorn-played**; the other games are design-reference subjects, not automatic past VODs. No exact site, rapper, video, graphic sexual material, fictional platform rules, or final UI was selected. Q48–56 canon unaffected. No images, gameplay, scenes, code or music clips produced.
