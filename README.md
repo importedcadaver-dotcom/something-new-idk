@@ -4,6 +4,9 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Q56 APPROVED — all eight future reference views; use games the user likes](docs/decisions/Q56_ALL_REFERENCE_VIEWS_APPROVED.md)
+- [Q56 eight-view comparison blueprint — written composition tests](docs/art_direction/ACORN_Q56_EIGHT_VIEW_COMPARISON_BLUEPRINT_v0.1.md)
+- [Q56 preference-grounded real-game reference pool — other titles only candidates](docs/art_direction/ACORN_GAME_REFERENCE_POOL_Q56_v0.1.md)
 - [Acorn visual canon v0.3 — Q55 anatomical RIGHT ear, FRONT LEFT paw sock](docs/ACORN_VISUAL_CANON_SHEET_v0.3.md)
 - [Approved Q55 — right reddish-cinnamon ear](docs/decisions/Q55_ACORN_RIGHT_EAR_APPROVED.md)
 - [Q54 APPROVED — evaluation criteria A/C/D/E/F, anatomy/character fidelity first](docs/decisions/Q54_ART_COMPARISON_PRIORITIES_APPROVED.md)
@@ -51,3 +54,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Q54 (2026-11-08):** A+C+D+E+F selected as evaluation criteria. Highest-priority selection is anatomy and character fidelity as a mandatory cross-cutting gate; Q54 checkbox B was not independently selected. No final style, images, numerical scoring weights, code or gameplay. Original Q6–17 evidence limitation unchanged.
 
 **Latest Q55 (2026-11-08):** Acorn's one deep reddish-cinnamon ear is **anatomical RIGHT**; his one lighter sock remains **anatomical FRONT LEFT**. The active appearance reference is visual canon sheet **v0.3**. Older documents with “ear side OPEN” describe their historical pre-Q55 status and are superseded for that one field. Exact sock color, ear color coverage, future camera views and final art style remain open. No imagery, gameplay, scenes or coding authorized.
+
+**Latest Q56 (2026-11-08):** All eight proposed future reference views A–H approved for **written briefs only**: full-body 3/4, front, side/rear, six facial expressions, webcam, complete real-game stream UI, indoor/outdoor, and provisional family size. User explicitly directed that Acorn's game-screen candidates reflect real games the user likes; Fortnite remains established Acorn canon, and other titles drawn from user's play/preferences are candidate references until specifically confirmed as Acorn games. Q55 anatomical RIGHT red-cinnamon ear and FRONT LEFT sock remain fixed. No images, gameplay, scenes, code, new visual art style, game capture or final ranking authorized.
