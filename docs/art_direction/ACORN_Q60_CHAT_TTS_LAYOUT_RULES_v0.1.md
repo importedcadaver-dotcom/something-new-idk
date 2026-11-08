@@ -1,5 +1,7 @@
 # Acorn Q60 — Chat Panel & TTS Layout Rules v0.1
 
+> **Q61 subsequent approval (2026-11-08):** The user selected active spoken-message highlighting, speaker name **beside** webcam, Acorn TTS pause/skip/resume, moderator spam/inappropriate filtering, selected-sender priority, variable chat history density and minimal idle indicators (**A+B+D+E+F+G+H**). **C (visible queue) unselected**. See [Q61 decision](../decisions/Q61_CHAT_TTS_A_B_D_E_F_G_H_APPROVED.md) and [Q61 written behavior spec](ACORN_Q61_TTS_CHAT_BEHAVIOR_SPEC_v0.1.md). Earlier “Q61 suggested” wording is superseded.
+
 **Status:** WRITTEN DESIGN GUIDANCE derived from [Q60 direct approved decision](../decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md). No UI screenshot, art, game scene, implementation, voice or audio was created. Any treatment labeled “proposal” is NOT yet user-approved.
 
 ## Established on-screen relationship
@@ -49,6 +51,6 @@ These are **examples to evaluate later**, not additional decisions:
 
 ## Suggested next owner decision (not approved)
 
-**Q61 — TTS and chat behavior / active-message treatment:** What should be visible when TTS is speaking (message highlight, name label, queue, moderation, pause, density limits, reactions)? Support multiselect and **Other/custom**, while keeping confirmed beside-webcam indication and chat below-webcam default. Avoid inventing exact platform, specific viewers, sound samples, actual streamer UI or code.
+**Q61 COMPLETED:** A+B+D+E+F+G+H selected as defined in the direct Q61 log. Visible queue C not selected. The next suggested topic (Q62) is Acorn's off-camera emotional characteristics and environment, per the [proposed roadmap pivot](../ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md). No new lore from the roadmap is automatic.
 
 **Source boundary:** Original Q6–17 direct responses remain incompletely recovered; Q60 is user-authored direct approval.
