@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Proposed Roadmap Pivot After Q61
 
+> **Progress update after Q62 (2026-11-08):** User directly approved **all seven A–G off-camera emotional patterns**, now recorded in [Q62 approved decision](decisions/Q62_ACORN_OFF_CAMERA_EMOTIONAL_BEHAVIOR_A_TO_G_APPROVED.md) and [Q62 written analysis](character/ACORN_Q62_EMOTION_MODEL_AND_DEPENDENCIES_v0.1.md). This completes the *general-capacities* part of the first proposed foundation workstream; specific relationship behavior, triggers and comfort objects remain open. The overall roadmap order still describes a recommendation, **not a formally adopted schedule**. User explicitly requested **no more interactive UI/forms due to lag**; future interview steps are short plain text with Other/custom.
+
 **Status:** **PROPOSED RESEQUENCING ONLY** in response to owner's question: "Should we develop more of Acorn's character and emotions, backstory, room and computer setup before first streams?"  
 **Date:** 2026-11-08  
 **Not new canon:** No actual first stream, first chatters, family incidents, moderators, room floorplan, backstory, equipment brands, or chronology have been approved by this memo. The user-approved project goal **Q38 remains “finish a coherent world bible before interactive format.”**
@@ -25,7 +27,7 @@ Jumping straight into his earliest broadcasts would make the writer invent **una
 
 ### Recommended first actionable question
 
-**Q62 — how does Acorn emotionally process things when no one is watching?** Offer a small, consequential menu with **Other/custom**, such as how stubborn vs sensitive he is during frustration, what helps him calm down, and how family support and curiosity affect behavior. These should remain **proposals** until the owner selects particular patterns. Preserve existing Q45 traits so choices deepen rather than replace them.
+**Q62 COMPLETED:** User selected all seven emotional behavior patterns A–G. **Next proposed Q63:** clarify *which people or comfort approaches he tends to choose* when upset (Mama, Mommy, Rudy, objects, varying with circumstances), with **Other/custom** plain-text choices. This deepens rather than replaces Q45 traits; no particular hierarchy is assumed.
 
 **Don't turn this into an endless interview:** cap each subtopic to a few decisions with real consequences. After the personality and relationship foundations, move efficiently to the actual room/setup and community origin. A later written first-stream chronology is a better outcome than hundreds of inconsequential UI questions.
 
