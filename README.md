@@ -4,6 +4,8 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Q53 APPROVED — compare all six art directions; no winner or images](docs/decisions/Q53_BROAD_STYLE_COMPARISON_APPROVED.md)
+- [Q53 six-direction comparative art briefs and quality gates (PROPOSALS)](docs/art_direction/ACORN_STYLE_COMPARISON_Q53_v0.1.md)
 - [Acorn visual canon sheet v0.2 — complete Q48–Q52 consolidated appearance](docs/ACORN_VISUAL_CANON_SHEET_v0.2.md)
 - [Approved Q52 — cinnamon guard hairs, face accents and extra-wide tail](docs/decisions/Q52_ACORN_CINNAMON_DISTRIBUTION_APPROVED.md)
 - [Archived Acorn visual canon sheet v0.1 — Q48–Q51](docs/ACORN_VISUAL_CANON_SHEET_v0.1.md)
@@ -39,3 +41,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Q47 (2026-11-08):** All A–H livestream formats approved, with no fixed format—Acorn follows his wishes. User-requested creator references were researched and documented as comparison/proposals without introducing specific collaborator names, opinions or event mechanics into canon. The priority design focus is streams, voice, friends and eventual visuals, but no gameplay/art/code is authorized.
 
 **Latest Q52 (2026-11-08):** User approved cinnamon distribution C+E+F: scattered cinnamon guard hairs in otherwise dark fur, warm cinnamon cheek/muzzle accents and cinnamon on the extra-wide tail. The one deep red-cinnamon ear's side remains OPEN. Appearance is documented in visual canon sheet v0.2, not artwork. Q6–17 source evidence limitations persist.
+
+**Latest Q53 (2026-11-08):** Approved broad written comparison of all A–F visual directions. A–E are distinct rendering approaches; F is a streamer UI/framing layer that can combine with them. Published parallel style briefs and future QA gates. No style winner, actual art, image generation, game format or coding is approved. The one reddish-cinnamon ear's side and other outstanding details remain undecided.
