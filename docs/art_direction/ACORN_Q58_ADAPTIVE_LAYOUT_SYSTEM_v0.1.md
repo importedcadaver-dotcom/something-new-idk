@@ -1,5 +1,7 @@
 # Acorn — Adaptive Broadcast Layout System v0.1
 
+> **Q59 subsequent approval (2026-11-08):** User selected overlay options **B+C+D+E+F+G+H**, not A, including Acorn/HoneyDweller custom branding, dark-red accents, readable chat/moderation, visible TTS, contextual donation alerts, optional polls/challenges and a resizable custom **middle-left webcam frame**. See [Q59 approved decision](../decisions/Q59_BRANDING_AND_OVERLAY_B_TO_H_APPROVED.md) and [Q59 written overlay brief](ACORN_Q59_BRANDING_OVERLAY_SYSTEM_v0.1.md). The original Q59 proposals below were candidate choices and are now resolved only to the extent explicitly selected. No screenshot or source code exists.
+
 **Status:** Written design analysis translating **approved Q58 A–H and middle-left webcam** into comparable interface briefs. UI dimensions, placements beyond webcam anchor, effects and aesthetics below are **PROPOSALS** until the user chooses them.  
 **Source:** [Q58 approved decision](../decisions/Q58_ALL_STREAM_LAYOUT_MODES_AND_MIDDLE_LEFT_WEBCAM_APPROVED.md) · [Q57 game and reaction comparison](ACORN_Q57_CONTENT_LAYOUT_COMPARISON_PACKET_v0.1.md) · [Q56 eight-view blueprint](ACORN_Q56_EIGHT_VIEW_COMPARISON_BLUEPRINT_v0.1.md).  
 **Restrictions:** **Documentation only.** No imagery, mockup screenshot, game prototype, character art, software implementation, coding, scenes or streaming.
@@ -90,9 +92,9 @@ The setting's bear-only technology/internet exists in prior canon; a specific fi
 
 **Assessment state: all **NOT TESTED against actual screenshots**, as none were authorized or created. Only textual consistency can be checked now.**
 
-## 7. Proposed Q59 next design decision
+## 7. Historic Q59 proposals — now resolved by direct Q59 approval
 
-**Q59:** Choose **broadcast branding and overlay elements** that can work with the approved middle-left webcam and eight modes. Possible independent options: minimalist esports aesthetics; bear-world-themed but restrained overlay; dark-red accents (Acorn's favorite color, not automatically adopted as UI color); visible chat/TTS; selective alerts; vote widgets; stream-status strip; or combined modular UI. Include **Other/custom**.
+**Q59 COMPLETED:** User selected B–H overlay elements, **not** the generic Q59 A option. Follow-up Q60 may decide the **chat panel location** relative to the left-middle camera, plus TTS/alert placement. Possible independent options: minimalist esports aesthetics; bear-world-themed but restrained overlay; dark-red accents (Acorn's favorite color, not automatically adopted as UI color); visible chat/TTS; selective alerts; vote widgets; stream-status strip; or combined modular UI. Include **Other/custom**.
 
 Caution: If the user chooses all module capabilities, that doesn't mean all overlays appear simultaneously or crowd the screen; H requires minimal, polished presentation. Don't assign a platform name, a final font or real Twitch branding without approval.
 
