@@ -1,5 +1,7 @@
 # Acorn — Eight-View Art Comparison Blueprint v0.1
 
+> **Q57 subsequent decision (2026-11-08):** All ten A–J user-liked game-reference groups approved for planned written stream-screen layout comparisons. Non-game reference subjects (fanfiction, edgy humor, unspecified orange-and-black-logo site reference and rapper music videos) are also included as development inputs, **not explicit media to show Acorn**. See [Q57 comparison packet](ACORN_Q57_CONTENT_LAYOUT_COMPARISON_PACKET_v0.1.md). No images/captures or new previously-streamed Acorn games were authorized.
+
 **Status:** Text-only design blueprint based on **Q56 APPROVED A–H**.  
 **Authority:** [Q56 direct decision](../decisions/Q56_ALL_REFERENCE_VIEWS_APPROVED.md) · [Q54 quality gates](ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md) · [Q53 six candidate directions](ACORN_STYLE_COMPARISON_Q53_v0.1.md).  
 **IMPORTANT:** **NO image generation, screenshots, gameplay, story scenes, coding or actual camera capture is authorized**. Every “view” here means a *planned, written reference composition*.
@@ -145,7 +147,7 @@ The **same** approved Acorn identity is the subject of all eight future views. I
 
 ## 11. Remaining decisions & suggested Q57
 
-For reference-screen realism, the next useful choice is **which preferred games to prioritize for the later multi-game stream UI comparison**, with Other/custom and ability to select many. This is an **art/reference priority interview**, not automatic canon that Acorn has played all those titles. Beyond Fortnite, which games he actually owns/streams can be decided separately if the user wishes.
+**Q57 completed:** The owner selected all ten real-game reference groups A–J for written comparison. The next useful choice (Q58) is **which UI layout modes should exist for Acorn's spontaneous streaming**, with Other/custom and ability to select many. This is an **art/reference priority interview**, not automatic canon that Acorn has played all those titles. Beyond Fortnite, which games he actually owns/streams can be decided separately if the user wishes.
 
 After game screens are prioritized, determine webcam placement, stream UI hierarchy, content genres, camera crop and any remaining coat/detail precision—each still design-only until explicit image-generation approval.
 
