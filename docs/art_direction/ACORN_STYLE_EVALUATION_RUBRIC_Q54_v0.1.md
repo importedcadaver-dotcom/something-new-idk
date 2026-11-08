@@ -63,7 +63,9 @@ This gate is founded on already-approved character details. A future reviewer mu
 
 **Note:** A–E are not ranked. Labels such as "opportunity" and "risk" are professional hypotheses in the absence of generated art, not observed test data.
 
-## 6. Standardized future evaluation views — suggested, not authorized shots
+## 6. Standardized future evaluation views — Q56 ALL EIGHT APPROVED as written briefs
+
+> **Q56 subsequent decision (2026-11-08):** User explicitly approved views **A+B+C+D+E+F+G+H** as *future written reference compositions only*. See [Q56 decision log](../decisions/Q56_ALL_REFERENCE_VIEWS_APPROVED.md) and [Q56 eight-view blueprint](ACORN_Q56_EIGHT_VIEW_COMPARISON_BLUEPRINT_v0.1.md). User requested game contexts drawn from their actual likes; [game reference pool](ACORN_GAME_REFERENCE_POOL_Q56_v0.1.md) records preference-grounded candidates without canonizing them as Acorn's prior streams. The following older shortlist is superseded as a scope suggestion, but remains technically illustrative.
 
 To compare fairly after a separate explicit image request, the same camera/identity test can include:
 - Neutral full-body three-quarter view to assess infant body, belly, paws, one reddish ear and broad tail.
@@ -83,6 +85,6 @@ Do not assume one frame shows **every** marking; occlusion must be assessed acro
 
 **NOT APPROVED:** Q54 checkbox B as an additional selected criterion, final style, quantified scoring weights, production budget, camera shots, 3D engine, pixel dimensions, UI layout, illustrated depictions; Q55 subsequently approved the RIGHT ear assignment, but no art is authorized.
 
-**NEXT SUGGESTED QUESTION:** Q56 chooses future camera/visual reference views, with Other/custom. Q55's ear-side choice is now complete. No art generation without a separate explicit request.
+**Q56 COMPLETED:** All eight future reference views selected; next suggested Q57 prioritizes preferred real games to test in written streamer-screen compositions. Q55's ear-side choice is complete. No art generation without a separate explicit request.
 
 **Historical provenance:** Original responses for Q6–17 remain individually unrecovered; Q54 is direct, current-turn approval.
