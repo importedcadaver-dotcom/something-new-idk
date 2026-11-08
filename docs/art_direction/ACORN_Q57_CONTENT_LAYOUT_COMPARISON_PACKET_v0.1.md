@@ -1,5 +1,7 @@
 # Acorn Q57 — Real-Game and Reaction Stream Layout Comparison Packet v0.1
 
+> **Q58 subsequent approval (2026-11-08):** The user has now approved **all eight A–H adaptive layout modes** and a **middle-left normal webcam anchor**. The mode proposals in Section 4 were superseded *as undecided concepts* by the [Q58 decision log](../decisions/Q58_ALL_STREAM_LAYOUT_MODES_AND_MIDDLE_LEFT_WEBCAM_APPROVED.md); exact dimensions and the new [Q58 written layout-system brief](ACORN_Q58_ADAPTIVE_LAYOUT_SYSTEM_v0.1.md) remain proposals. No UI screenshot or code has been created.
+
 **Status:** PROPOSED text-only art/UI comparison plan based on **approved Q57 A–J** and custom reaction categories.  
 **Sources:** [Q57 approved decision](../decisions/Q57_TEN_GAMES_AND_REACTION_REFERENCES_APPROVED.md), [Q56 eight-view blueprint](ACORN_Q56_EIGHT_VIEW_COMPARISON_BLUEPRINT_v0.1.md), [Q54 fidelity gates](ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md), [Acorn visual canon v0.3](../ACORN_VISUAL_CANON_SHEET_v0.3.md).  
 **Phase:** Written design and comparison **only**. No visual samples, copyrighted source footage, art generation, actual screenshots, gameplay, scenes or coding.
@@ -50,7 +52,7 @@ User gave the phrase “a orange and black logo website” alongside “funny li
 ### Rapper music videos — reference category approved
 **UI objective:** Written layout concept for media-player/reaction content and discussion with Acorn's webcam/chat integrated. **No artist, song, lyrics, clip, endorsement, story interaction or musical playback** chosen. Copyright and fictional in-world media rules remain undecided. Image-generation is not authorized.
 
-## 4. Potential adaptive stream layout modes — PROPOSALS, not Q57 approvals
+## 4. Originally proposed adaptive stream layouts — Q58 has now approved all eight modes
 
 1. **Gameplay-first:** Main real-game viewport large; chat and small-but-readable Acorn webcam at edge.
 2. **Reaction-first:** Larger Acorn camera plus a clip/text panel and legible chat; suitable for fanfiction, public clips or music-video commentary if content later approved.
@@ -59,7 +61,7 @@ User gave the phrase “a orange and black logo website” alongside “funny li
 5. **Outdoor/cub activity:** The character camera is main content; equipment and platform overlay remain unobtrusive.
 6. **Contextual UI reduction:** TTS/donation/alerts appear when relevant, not constant clutter. Do not invent obligatory donations or sponsor strips.
 
-These six proposals should lead into **Q58 interface/format interview** with multi-select and Other/custom. **The user has NOT yet chosen these modes** as canonical layouts.
+**Historical context:** These six examples were proposals when Q57 was written. **Q58 subsequently approved A–H as layout capabilities**, covering these modes plus resizable webcam/chat, optional challenge overlays and a minimalist polished UI; the user additionally specified **middle-left webcam placement**. The examples above remain nonbinding implementation suggestions; see the Q58 log for the exact eight approved definitions.
 
 ## 5. Quality and coherence tests — future paper checks, not executed screenshots
 
@@ -81,7 +83,7 @@ These six proposals should lead into **Q58 interface/format interview** with mul
 
 ## 6. Future decisions — no authorizations implied
 
-**Q58 recommendation:** Choose what *layout modes* should exist for Acorn's spontaneous streams and whether chat/webcam/game areas resize or reposition between modes. A practical multi-select can include gameplay-first, reaction-first, Just Chatting-first, split-screen guests, mobile/outdoor, and minimal-overlay/autoswitching options with **Other/custom**. Do not infer a fixed weekly show, actual software architecture or future image authorization from the user choosing formats.
+**Q58 completed:** User approved all eight layout modes A–H and default **middle-left** webcam position. A next proposed Q59 can determine visual overlay detail, chat/TTS presentation and branding. A practical multi-select can include gameplay-first, reaction-first, Just Chatting-first, split-screen guests, mobile/outdoor, and minimal-overlay/autoswitching options with **Other/custom**. Do not infer a fixed weekly show, actual software architecture or future image authorization from the user choosing formats.
 
 **Follow-up Q59 possibility:** Choose streamer UI treatment—minimal actual broadcast look, rich bear-world branded overlay, selective chat visibility/TTS, platform-inspired but fictional UI, or combinations—and acceptable graphic-content boundaries. Any future screenshots/images require a **separate explicit request**.
 
