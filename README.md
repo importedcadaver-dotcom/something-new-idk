@@ -4,6 +4,9 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Roadmap and checkpoint — status as of Q59, remaining work, project location](docs/ROADMAP_STATUS_2026-11-08.md)
+- [Q59 APPROVED — branded overlay B–H, dark red, chat/TTS, alerts, votes and middle-left webcam frame](docs/decisions/Q59_BRANDING_AND_OVERLAY_B_TO_H_APPROVED.md)
+- [Q59 written branded overlay specification and QA (no images)](docs/art_direction/ACORN_Q59_BRANDING_OVERLAY_SYSTEM_v0.1.md)
 - [Q58 APPROVED — all eight stream layouts, normal middle-left Acorn webcam](docs/decisions/Q58_ALL_STREAM_LAYOUT_MODES_AND_MIDDLE_LEFT_WEBCAM_APPROVED.md)
 - [Q58 adaptive broadcast layout system — written comparison brief, no images](docs/art_direction/ACORN_Q58_ADAPTIVE_LAYOUT_SYSTEM_v0.1.md)
 - [Q57 APPROVED — all ten real-game stream comparison subjects and custom internet/reaction interests](docs/decisions/Q57_TEN_GAMES_AND_REACTION_REFERENCES_APPROVED.md)
@@ -64,3 +67,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q57 (2026-11-08):** User approved **all ten** real-game reference groups A–J for future *written stream-screen comparison*, plus fanfiction, irreverent/inappropriate internet humor, an unspecified orange-and-black-logo site reference and rapper music videos as additional reaction/media interests. **Fortnite alone remains explicitly confirmed as Acorn-played**; the other games are design-reference subjects, not automatic past VODs. No exact site, rapper, video, graphic sexual material, fictional platform rules, or final UI was selected. Q48–56 canon unaffected. No images, gameplay, scenes, code or music clips produced.
 
 **Latest Q58 (2026-11-08):** User approved **all eight** broadcast layout capabilities: gameplay-first, reaction-first, Just Chatting, family/friends split-screen, outdoor/activity, resizable webcam/chat, opt-in challenges and polished minimal UI. **Custom binding:** normal Acorn webcam anchor is **middle-left**, with enlargement/full-screen flexibility across modes. Q47 self-directed streams remain intact. The Q57 game pool is unchanged; Fortnite remains his only specifically established played title among Q57 choices, others comparison candidates. Q48–55 physical canon unchanged. No screenshots, art, streams, scenes, code or actual tests performed.
+
+**Latest Q59 (2026-11-08):** User selected **B+C+D+E+F+G+H** (Q59 A NOT selected). Approved distinctive non-childish Acorn/HoneyDweller branding, dark-red accents, readable moderated chat, visible TTS indicators, contextual donations/alerts, optional audience widgets and resizable custom **middle-left** webcam frame. Q58 polished minimalism and all eight layouts remain approved. No exact chat placement, style winner, specific logo, finished UI, screenshots or code authorized. See [current roadmap/status](docs/ROADMAP_STATUS_2026-11-08.md).
