@@ -4,6 +4,10 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Q61 APPROVED — active TTS highlight/name, Acorn pause/skip, moderation, priority, chat density and idle state](docs/decisions/Q61_CHAT_TTS_A_B_D_E_F_G_H_APPROVED.md)
+- [Q61 chat/TTS written design behavior spec and QA checks](docs/art_direction/ACORN_Q61_TTS_CHAT_BEHAVIOR_SPEC_v0.1.md)
+- [Q61 researched DougDoug TTS and first-stream moderation (primary sources and proposals)](docs/research/DOUGDOUG_TTS_AND_FIRST_STREAM_MODERATION_Q61.md)
+- [Q61 proposed roadmap pivot — character, backstory, room, cub-operated setup before first streams](docs/ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md)
 - [Q60 APPROVED — compact chat below middle-left webcam, adaptive layout, beside-camera TTS](docs/decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md)
 - [Q60 text-only chat/TTS layout specification and continuity checks](docs/art_direction/ACORN_Q60_CHAT_TTS_LAYOUT_RULES_v0.1.md)
 - [Roadmap and checkpoint — status as of Q59, remaining work, project location](docs/ROADMAP_STATUS_2026-11-08.md)
@@ -73,3 +77,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q59 (2026-11-08):** User selected **B+C+D+E+F+G+H** (Q59 A NOT selected). Approved distinctive non-childish Acorn/HoneyDweller branding, dark-red accents, readable moderated chat, visible TTS indicators, contextual donations/alerts, optional audience widgets and resizable custom **middle-left** webcam frame. Q58 polished minimalism and all eight layouts remain approved. No exact chat placement, style winner, specific logo, finished UI, screenshots or code authorized. See [current roadmap/status](docs/ROADMAP_STATUS_2026-11-08.md).
 
 **Latest Q60 (2026-11-08):** User approved **B+E+F+G**: compact normal chat **directly beneath** Acorn's **MIDDLE-LEFT** webcam; alternative chat arrangements by stream format; expandable/collapsible chat; current spoken-message **TTS indicator BESIDE** camera. Q60 A right-edge column, C bottom strip and D transparent floating chat were **not selected**. Exact per-mode layouts and indicator side remain open. Q59 B–H / Q58 A–H / Q47 spontaneity / Q48–55 anatomy all preserved. Documentation only; no art, screenshots, scenes, gameplay or code. See the Q60 decision log and design rules above.
+
+**Latest Q61 (2026-11-08):** User explicitly approved **A+B+D+E+F+G+H** for TTS/chat: highlight active spoken message, speaker name beside webcam, Acorn pause/skip/resume, moderator spam/inappropriate filter (details open), possible approved-sender priority (semantics open), compact-vs-expanded chat density, discreet idle TTS. **C visible queue was NOT selected**. DougDoug custom-TTS and first-stream moderation research saved with sources. Owner raised whether to develop Acorn's emotional life, backstory, bedroom and physical computing setup BEFORE early streams/chatters/incidents; see **proposed—not approved—roadmap pivot**. Q47–60 canon and world-bible-first/no art/no code/no scenes preserved.
