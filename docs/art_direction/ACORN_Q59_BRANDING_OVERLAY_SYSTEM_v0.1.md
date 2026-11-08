@@ -1,5 +1,7 @@
 # Acorn Q59 — Branded Stream Overlay System v0.1 (Written Design)
 
+> **Q60 subsequent direct approval (2026-11-08):** Compact **chat directly BELOW Acorn's normally middle-left webcam**, **mode-dependent chat arrangement**, **expandable/collapsible chat**, and **TTS speaking indicators BESIDE the webcam**: options **B+E+F+G**. See [Q60 decision log](../decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md) and [Q60 design rules](ACORN_Q60_CHAT_TTS_LAYOUT_RULES_v0.1.md). Statements below describing chat position as OPEN apply only to this Q59 document's earlier historical stage and are superseded for normal chat placement.
+
 **Status:** DESIGN COMPARISON ONLY — Q59 selected B–H, did NOT select A.  
 **Authority:** [Q59 Approval](../decisions/Q59_BRANDING_AND_OVERLAY_B_TO_H_APPROVED.md); [Q58 approved layout options](../decisions/Q58_ALL_STREAM_LAYOUT_MODES_AND_MIDDLE_LEFT_WEBCAM_APPROVED.md); [Q54 fidelity-first rubric](ACORN_STYLE_EVALUATION_RUBRIC_Q54_v0.1.md).  
 **No images, screenshots, implemented UI, gameplay, scenes, music, source code, or live stream are authorized.**
@@ -18,7 +20,7 @@ The user's **MIDDLE-LEFT Acorn webcam** placement from Q58 is already canon. The
 
 **Resizability:** Q58 F allows the camera and chat to grow/shrink/reposition with the activity; reaction-first usually calls for a bigger webcam, gameplay-first a smaller webcam. Just Chatting or outdoor streams may use a primary/full-screen camera without a second webcam inset. “Middle-left” is the default panel anchor, **not an absolute always-visible box**.
 
-**Chat positioning remains OPEN.** The plausible right-side chat stream, narrow bottom chat dock, transparent chat over game, and chat outside capture are all merely candidate arrangements until Q60. Don't force default chat onto the right edge.
+**Q60 RESOLVED normal chat position:** A compact panel **directly BELOW** Acorn's **MIDDLE-LEFT** webcam. Mode-specific rearrangements and expansion/collapse are approved; TTS speaking status is **BESIDE** the webcam. The previous right-vertical, bottom-strip and transparent-floating Q60 options were **not selected**. Exact variations and TTS left/right side remain OPEN.
 
 **Other open layout details:** relative panel percentages, webcam aspect ratio, clipping mask, safe zones for real-game HUD, layering of donation alerts, vote widget position, TTS queue position, chat badge policy, whether stream chat is a platform widget or an overlay at all.
 
@@ -109,8 +111,6 @@ Each mode is an optional visual capability, not a scheduled segment. The title l
 - **Q57:** Game and non-game reference categories remain design subjects; not fake past broadcasts or permission to show explicit adult sexual content to a toddler-equivalent cub.
 - **Production phase:** Absolutely no graphics/screenshots/music/video/game code have been generated for this decision.
 
-## 8. Next owner decision — Q60 proposal only
+## 8. Q60 completed; next owner decision — Q61 proposal only
 
-Choose **chat-panel placement relative to Acorn's middle-left webcam**, with multiple distinct options + **Other/custom**; possibly allow different chat layouts per Q58 mode. The selected Q59 D/E chat/TTS requirements remain binding, but the actual *position* is not yet approved.
-
-After Q60: customize exact webcam frame style, dark-red palette/secondary colors and overlay density only if owner requests. Do not assign a “final branded UI” without a deliberate signoff.
+**Q60 COMPLETED:** B+E+F+G approved. The normal compact chat panel is **directly beneath the middle-left webcam**, expandable/collapsible and adaptable by stream format; currently spoken TTS status is **beside** Acorn's camera. See the Q60 direct decision. **Q61 proposed:** select visible TTS/current-message treatment, queue and chat density/moderation presentation, with **Other/custom**. Exact webcam frame style, palette shades and platform remain open; do not assign a final branded UI without signoff.
