@@ -1,5 +1,7 @@
 # Acorn — Off-Camera Emotional Behavior Model v0.1 (Q62)
 
+> **Q63 subsequent direct approval (2026-11-08):** Owner ranked comfort tendencies **F+G > E > A > B > C > D**, meaning contextual person-choice and sometimes initially resisting support are joint top priorities; then toys/solitude; then Mama > Mommy > Rudy > Millie as general person preference. See [Q63 decision](../decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) and [cast refresher](CAST_REFRESH_Q63_v0.1.md). Earlier Q63 hypothetical choices below are superseded; no exact conditional algorithm or numeric weights approved.
+
 **Status:** Written design analysis of **approved Q62 A–G**, not approval of every illustrative hypothesis.  
 **Authority:** [Q62 direct decision](../decisions/Q62_ACORN_OFF_CAMERA_EMOTIONAL_BEHAVIOR_A_TO_G_APPROVED.md), [Q44–45 development/personality](../decisions/Q44_Q45_APPROVED.md), [Q46 voice](../decisions/Q46_ACORN_VOICE_APPROVED.md).  
 **Restriction:** No images, gameplay, scenes, code, dialogue, audio, fictional clock movement or invented history.
@@ -53,6 +55,6 @@ All six bullets are **design planning**, not extra lore.
 
 ## Next interview in plain text, not UI
 
-**Q63 candidate focus:** relationship-specific comfort behavior. Candidate options are starting points only: Mama first, Mommy first, different family choices by situation, approach a comforting object before a person, resist help until overwhelmed, turn to Rudy sometimes, or Other/custom. Multiple are possible; no default answer is approved.
+**Q63 COMPLETED:** F+G > E > A > B > C > D approved. **Next Q64 suggestion:** identify the actual comfort objects and private routines or choose a bedroom/physical-environment design topic; written plain-text choices with Other/custom. Do not infer any particular toy or room layout without owner approval.
 
 **Roadmap:** This is the first completed character/emotion work item from the [proposed character-first sequencing](../ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md). That full sequence is **still a recommendation**, not a formally approved fixed schedule.
