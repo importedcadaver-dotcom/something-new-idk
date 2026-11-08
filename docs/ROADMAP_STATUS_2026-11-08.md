@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Roadmap & Status Snapshot
 
+> **Q63 latest update (2026-11-08):** Acorn's comfort preference **F+G > E > A > B > C > D** is directly approved, emphasizing context and occasional initial resistance, then comfort objects, then Mama > Mommy > Rudy > Millie. See [Q63 decision](decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) and [cast refresher](character/CAST_REFRESH_Q63_v0.1.md). The next proposed Q64 works on comfort objects/private habits or bedroom setup; user asked for **plain text instead of laggy UI**. Other earlier “Q63 next” prose below is historical.
+
 > **Q62 current update (2026-11-08):** The user approved **all seven A–G off-camera emotional behavior patterns**. [Q62 decision](decisions/Q62_ACORN_OFF_CAMERA_EMOTIONAL_BEHAVIOR_A_TO_G_APPROVED.md) and [Q62 emotional model](character/ACORN_Q62_EMOTION_MODEL_AND_DEPENDENCIES_v0.1.md) now document these without inventing backstory. The user asked to **stop interactive UI/forms because they are laggy**; resume concise **plain-text** character-first Q63 interview with Other/custom. The Q61 character-first roadmap is still a **proposal**, but its first emotional-traits step has direct owner approval. Earlier Q60/Q61 status summaries below are historical.
 
 > **Q61 current update (2026-11-08):** Q61 directly approved **A+B+D+E+F+G+H** chat/TTS behaviors (not C visible queue). Research into DougDoug TTS and first-stream moderation is in [Q61 research memo](research/DOUGDOUG_TTS_AND_FIRST_STREAM_MODERATION_Q61.md). Owner requested analysis of whether to prioritize Acorn's **off-camera emotions/backstory/room/physical computer setup** before writing early streams and chat incidents. Editorial recommendation: **yes**; see [proposed roadmap pivot](ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md). This is **not a new lore approval**, a first-stream script, or permission to generate art/code. Earlier “Q61 next” wording below is historical.
@@ -53,7 +55,7 @@
 
 ## Proposed next steps (not automatic authorization)
 
-1. **Q60–62 completed:** Q60 below-webcam chat, Q61 TTS controls (visible queue C NOT approved), and **Q62 all seven emotional traits**. **Q63 proposed next:** relationship-specific comfort seeking, then established private routines, room, setup and only later first-stream history. Use **plain-text** choices with Other/custom, never interactive forms.
+1. **Q60–62 completed:** Q60 below-webcam chat, Q61 TTS controls (visible queue C NOT approved), and **Q62 all seven emotional traits**. **Q63 COMPLETED:** context+resistance > comfort objects > Mama > Mommy > Rudy > Millie. **Q64 proposed:** specific comfort objects/private habits and then room/setup before first-stream history. Use **plain-text** choices with Other/custom, never interactive forms.
 2. **Q61+ (if desired)**: specific branded webcam frame/overlay logo language, accent palette, moderation/readout placement, alerts and vote widgets. Do not force eight UI modes simultaneously.
 3. **Art preparation**: resolve any physical ambiguities needed for consistency; compare real game-style reference images *only when separately authorized*. No standalone visual style winner yet.
 4. **Canon consolidation**: reconcile Q44–60 direct approvals, remaining personal/family/civilization rules and the incomplete Q6–17 provenance; request final world bible signoff.
