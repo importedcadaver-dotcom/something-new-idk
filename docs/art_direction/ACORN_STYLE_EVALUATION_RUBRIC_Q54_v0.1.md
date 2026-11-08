@@ -1,5 +1,7 @@
 # Acorn Art Evaluation Rubric v0.1 — Q54 Priorities
 
+> **Q55 subsequent canon update:** The single reddish-cinnamon ear is fixed on **Acorn's anatomical RIGHT**. His lighter sock remains on **Acorn's anatomical FRONT LEFT paw**. The current reference is [Acorn Visual Canon Sheet v0.3](../ACORN_VISUAL_CANON_SHEET_v0.3.md); do not treat the earlier ear-side uncertainty as current.
+
 **November 8, 2026 · DOCUMENTATION-ONLY**  
 **Authority:** [Q54 approved evaluation criteria](../decisions/Q54_ART_COMPARISON_PRIORITIES_APPROVED.md).  
 **Status:** Proposed operational rubric for approved priorities. **No visual outputs evaluated yet; no numerical scores, art-style winner or new fictional choices.**
@@ -10,7 +12,7 @@ Refer to [Q53 Six Art Direction Briefs](ACORN_STYLE_COMPARISON_Q53_v0.1.md): A p
 
 ## 2. Decision hierarchy
 
-**First — mandatory anatomy and identity fidelity gate (highest priority explicitly selected):** An art direction must be able to retain the recognizable same six-month-old chubby naturalistic brown bear, his unusual paws/ears/tail, dark-brown coat/white belly/cinnamon coloring, hazel eyes, front-left sock, and single red-cinnamon ear with **side still UNRESOLVED**. If not, it fails regardless of other aesthetics.
+**First — mandatory anatomy and identity fidelity gate (highest priority explicitly selected):** An art direction must be able to retain the recognizable same six-month-old chubby naturalistic brown bear, his unusual paws/ears/tail, dark-brown coat/white belly/cinnamon coloring, hazel eyes, front-left sock, and single red-cinnamon **anatomical RIGHT ear** (Q55). If not, it fails regardless of other aesthetics.
 
 **Second — five approved evaluative criteria A/C/D/E/F:** Determine PASS, CONCERN or FAIL for cuteness, recognizability, emotional range, streamer screenshot credibility and multi-image consistency.
 
@@ -29,7 +31,7 @@ This gate is founded on already-approved character details. A future reviewer mu
 | G3 | Huge anatomically bear-like paws **larger than Millie's**, large slightly drooping bear ears and extra-wide bear tail | Shrunk paws, rabbit ears, long fox tail |
 | G4 | Dark-brown dominant body/back; nearly **all-white belly** | Cinnamon becomes dominant, belly becomes beige/tan |
 | G5 | Cinnamon dispersed via **subtle guard hairs**, face accents and some tail fur | Newly invented distinct stripes/spots/shoulder patches |
-| G6 | **One** deep nearly red-cinnamon ear; side UNSELECTED | Both ears red, or a specific side silently declared canon |
+| G6 | **One** deep nearly red-cinnamon ear on Acorn's **RIGHT** side (Q55) | Both ears red, or the marked ear appearing on Acorn's LEFT |
 | G7 | **Lighter sock on his anatomical FRONT LEFT paw** | Mirroring to front right, adding symmetrical socks, automatically turning sock white |
 | G8 | **Hazel eyes**, emotionally readable yet bear-like | Arbitrarily blue eyes, human-looking cartoon eyes |
 | G9 | Same cub identity persists across camera directions, facial studies and broadcast crops | Camera-dependent shifting eye/ear colors, paws, proportions or markings |
@@ -71,7 +73,7 @@ To compare fairly after a separate explicit image request, the same camera/ident
 
 Do not assume one frame shows **every** marking; occlusion must be assessed across the standardized set, and the camera orientation must not redefine anatomical left.
 
-**Side pending:** A final single consistent asymmetrical model may require a later user choice assigning the reddish ear to anatomical left or right. Until then, label it “one ear, side undecided” and do not canonize either side.
+**Q55 resolved side:** The deeply reddish-cinnamon ear is anatomically **RIGHT**; the lighter sock is anatomically **FRONT LEFT**. A non-mirrored straight-on view shows the red ear on the viewer's left and sock on the viewer's right. No exact ear-color coverage or sock color was selected.
 
 **No images, prototypes, scenes, code or fictional progression are authorized.**
 
@@ -79,8 +81,8 @@ Do not assume one frame shows **every** marking; occlusion must be assessed acro
 
 **APPROVED:** Q53 broad comparison G and Q54 evaluation choices **A+C+D+E+F**, with highest priority **anatomy and character fidelity**.
 
-**NOT APPROVED:** Q54 checkbox B as an additional selected criterion, final style, quantified scoring weights, production budget, camera shots, 3D engine, pixel dimensions, UI layout, illustrated depictions or specific left/right ear assignment.
+**NOT APPROVED:** Q54 checkbox B as an additional selected criterion, final style, quantified scoring weights, production budget, camera shots, 3D engine, pixel dimensions, UI layout, illustrated depictions; Q55 subsequently approved the RIGHT ear assignment, but no art is authorized.
 
-**NEXT SUGGESTED QUESTION:** Q55 chooses (or defers) which anatomical ear is red-cinnamon, with Other/custom, followed by standard camera/visual reference views. No art generation without separate explicit request.
+**NEXT SUGGESTED QUESTION:** Q56 chooses future camera/visual reference views, with Other/custom. Q55's ear-side choice is now complete. No art generation without a separate explicit request.
 
 **Historical provenance:** Original responses for Q6–17 remain individually unrecovered; Q54 is direct, current-turn approval.
