@@ -1,4 +1,6 @@
 # Bear Cub Streamer — Creator Format Research and Acorn Adaptation
+
+> **Q61 follow-up research (2026-11-08):** A separate [DougDoug TTS and first-stream moderation memo](DOUGDOUG_TTS_AND_FIRST_STREAM_MODERATION_Q61.md) checks his official FAQ, published ChatGodApp and Twitch first-stream/safety guidance, with the strongest primary sources distinguished from fan commentary. This older Q47 comparative research remains contextual, NOT new canon. The [proposed pre-stream foundation roadmap](../ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md) recommends character/backstory/room/setup work before fictional first streams; no scenes created.
 **Research memo · Q47 · 2026-11-08**  
 **Status:** External creator research plus **PROPOSALS**, not additional canon approvals.  
 **Q47 canon source:** [Approved stream content decision](../decisions/Q47_STREAM_CONTENT_APPROVED.md).  
