@@ -5,6 +5,7 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 ## Current documentation (latest first)
 
 - [Canon Bible v1.1.1 — documentation-corrected working draft](docs/BEAR_CUB_STREAMER_CANON_BIBLE_v1.1.1.md)
+- [Developmental biology and age stages — proposal v0.1 (not canon)](docs/proposals/DEVELOPMENTAL_BIOLOGY_STAGE_MODEL_v0.1_PROPOSED.md)
 - [Combined B+C+D systems audit — biology/chronology, streaming/technology, corporate/criminal power](docs/COMBINED_SYSTEMS_AUDIT_B_C_D_v1.1.1.md)
 - [Verification and open-decision register](docs/VERIFICATION_AND_OPEN_DECISIONS.md)
 - [Targeted consistency audit of v1.1](docs/TARGETED_CONSISTENCY_AUDIT_v1.1.md)
