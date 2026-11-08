@@ -1,5 +1,7 @@
 # Acorn Q59 — Branded Stream Overlay System v0.1 (Written Design)
 
+> **Q61 subsequent approval (2026-11-08):** The current [Q61 TTS behavior spec](ACORN_Q61_TTS_CHAT_BEHAVIOR_SPEC_v0.1.md) adds active-message highlighting, speaker names beside webcam, Acorn skip/pause/resume, moderation, eligible priority senders, variable density and quiet idle display (A+B+D+E+F+G+H). No visible queue C. Q59 and Q60 remain binding; this document's earlier open TTS behavior notes are superseded only in those directly approved areas.
+
 > **Q60 subsequent direct approval (2026-11-08):** Compact **chat directly BELOW Acorn's normally middle-left webcam**, **mode-dependent chat arrangement**, **expandable/collapsible chat**, and **TTS speaking indicators BESIDE the webcam**: options **B+E+F+G**. See [Q60 decision log](../decisions/Q60_CHAT_BELOW_WEBCAM_ADAPTIVE_TTS_APPROVED.md) and [Q60 design rules](ACORN_Q60_CHAT_TTS_LAYOUT_RULES_v0.1.md). Statements below describing chat position as OPEN apply only to this Q59 document's earlier historical stage and are superseded for normal chat placement.
 
 **Status:** DESIGN COMPARISON ONLY — Q59 selected B–H, did NOT select A.  
