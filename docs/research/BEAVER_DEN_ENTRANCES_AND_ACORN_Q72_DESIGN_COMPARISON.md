@@ -1,5 +1,7 @@
 # Beaver Lodge and Bank-Den Entrances — Research for Acorn Q72
 
+> **CORRECTION after Q73 owner clarification (2026-11-08):** The **outside squeeze to get underneath Acorn's bed is the ONLY cramped gap**. The **hollowed under-bed space is roomier**, and the **actual floorboard hatch/basement entrance is NOT cramped**. Earlier comparisons implying a narrow basement entry are superseded and corrected in-place. Q73 A+E adds a paw-pressure spot and manual fallback. [Approved Q73](../decisions/Q73_PAW_PRESSURE_AND_MANUAL_FALLBACK_A_E_APPROVED.md).
+
 **Researched:** November 8, 2026  
 **Scope:** Ground the owner's **“like a beaver dam entrance”** comparison in real beaver architecture, keeping the fictional under-bed basement **dry** and the design decision [Q72 A+D + custom](../decisions/Q72_BEAVER_INSPIRED_CRAWL_ENTRY_A_D_APPROVED.md) separate from researched facts. This is written research, not an engineering plan.
 
@@ -15,7 +17,7 @@
 
 ## Correct analogy to preserve
 
-**The owner's intended shape:** an unobtrusive, physically confining approach **beneath Acorn's hollowed-out partial bedframe**, concealing a **paw-activated floorboard hatch**, followed by a larger transition to roomy stairs/lift access and the **spacious, multi-area H2**.
+**The owner's corrected intended shape:** a **cramped gap to GET UNDER ACORN'S BED**, then **roomier hollowed space under part of the bedframe**, then a **NOT-cramped paw-activated floorboard hatch / basement entrance**, leading to shallow stairs, a quiet lift and the **spacious, multi-area H2**.
 
 **Real-beaver reference:** sheltered entry passage into a larger lodge/bank-den interior. In the wild the access is **underwater**; Acorn's is **completely dry**. The user said “beaver dam entrance” colloquially; do **not** silently retcon the owner to have requested actual water, river construction, a beaver-themed costume/room, or a physical beaver lodge replica.
 
@@ -24,14 +26,15 @@ REAL BEAVER LODGE / BANK DEN (GENERALIZED)
 water-covered entrance → submerged tunnel → protected DRY chamber
 
 ACORN H2 (FICTIONAL CANON, Q69–72)
-under bed / partially hollowed bedframe → CRAMPED CRAWL ENTRANCE
-    → paw-operated concealed floorboard hatch
-    → ROOMIER transition area
+CRAMPED OUTER GAP TO GET UNDER BED  ← ONLY CRAMPED PART
+    → ROOMIER HOLLOWED BEDFRAME SPACE
+    → paw-pressure controlled floorboard hatch + manual fallback (Q73)
+      (HATCH / BASEMENT ENTRANCE NOT CRAMPED)
     → wide, shallow cub stairs and QUIET mechanical lift
     → SPACIOUS, LUXURIOUS MULTI-FUNCTION BASEMENT
 ```
 
-**Order caution:** The graphic shows the general relationship and **does not fix the precise physical hatch/bed tunnel geometry or stairs/lift arrangement**. The entire basement must not be compressed into a narrow tunnel; user explicitly said the **entrance is the only cramped part**. A bear-cub-sized crawl approach still needs future clearance/safety evaluation; “cramped” cannot be taken to mean a physically impassable space.
+**Order caution:** The graphic shows the general relationship and **does not fix the precise physical hatch/bed tunnel geometry or stairs/lift arrangement**. The basement and its hatch must NOT be compressed into a narrow tunnel: the user explicitly clarified that **only getting under the bed is cramped**, **not the basement entrance**. The outside under-bed gap still needs future physical clearance/safety evaluation; “cramped” cannot mean impossibly impassable.
 
 ## Relevant image references for viewing (not generated/embedded into canon)
 
@@ -41,7 +44,7 @@ under bed / partially hollowed bedframe → CRAMPED CRAWL ENTRANCE
 
 ## Paper audit: accepted facts vs unresolved fictional constraints
 
-**Approved in Q72:** A concealed floorboard hatch + paw-operated automatic activation, a crawling approach underneath a *partly* hollowed bedframe, and a **restricted/hidden entrance that opens into larger spaces** inspired by beaver-den topology.
+**Approved in Q72:** A concealed floorboard hatch + paw-operated automatic activation, a crawling approach underneath a *partly* hollowed bedframe, and a **tight outside gap to get under the bed** that becomes **roomier beneath the bed**, with **noncramped hidden basement hatch** inspired by the broad idea of a discreet beaver-den approach.
 
 **Approved previously:** Quiet lift, shallow/wide stairs, occasional Rudy help (Q71); H2 under bedroom bed/floorboards, excavation mainly Rudy and unnamed girlfriend, both moms ignorant (Q68/69); cozy clubhouse, toy cache, TV/games, unspecified Rudy mischief, luxury multi-zone and evolving contents (Q70); known hallway bookshelf H1 (Q68).
 
