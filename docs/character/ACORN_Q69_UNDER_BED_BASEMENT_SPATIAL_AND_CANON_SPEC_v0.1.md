@@ -1,5 +1,7 @@
 # Q69 — Under-Bed Hidden Basement: Spatial, Character and Safety Design Spec v0.1
 
+> **Q71 newer direct decision (2026-11-08):** User approved **wide shallow stairs**, **QUIET mechanical lift**, **Rudy occasionally helping** and **their combination** (**B+C+E+F**). This adds access-method *classes*, not a certified floorboard hatch or escape design. Parent ignorance, H1 hallway bookshelf, H2 under-bed excavation and all Q70 uses persist. See [Q71 approval](../decisions/Q71_QUIET_MECHANICAL_LIFT_STAIRS_AND_RUDY_ASSIST_B_C_E_F_APPROVED.md) and [Q71 written constraints](ACORN_Q71_QUIET_BASEMENT_ACCESS_CONSTRAINTS_v0.1.md).
+
 > **Q70 later explicit approval (2026-11-08):** ALL **A+B+C+D+E+F+G** established H2 functions: soft cozy den, secret sibling/girlfriend clubhouse, hidden toys, TV and games, Rudy's sometimes-parent-disapproved items (unidentified), spacious luxurious distinct areas, and gradual redecoration/change. See [Q70 direct decision](../decisions/Q70_BASEMENT_ALL_SEVEN_USES_APPROVED.md) and [Q70 functional-zones brief](ACORN_Q70_BASEMENT_FUNCTIONAL_ZONES_AND_CONSTRAINTS_v0.1.md). Q69 historic statement that furnishings were not placed is now superseded in these *general classes*, not exact items or locations.
 
 **Authority:** [Direct Q69 E+custom approval](../decisions/Q69_HIDDEN_BEDROOM_EXCAVATED_BASEMENT_E_APPROVED.md), following Q68's [two-hideout decision](../decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md).  
