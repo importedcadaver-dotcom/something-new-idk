@@ -1,5 +1,7 @@
 # Q72 — Acorn's Beaver-Inspired Under-Bed Crawl Entrance (A + D + Custom APPROVED)
 
+> **Q74 subsequent direct approval (2026-11-08):** The Q73 manual hatch fallback is now operable by **Acorn, Rudy and Rudy's unnamed polar-bear girlfriend** (selected Q74 **D**), although their levels of ease and the mechanism are unspecified. Entrance geometry remains corrected: ONLY the exterior gap to get under bed is cramped; hatch/basement entrance not cramped. [Q74 decision](Q74_MANUAL_HATCH_FALLBACK_ALL_THREE_D_APPROVED.md).
+
 > **Q73 owner's authoritative CORRECTION (2026-11-08):** **ONLY THE GAP USED TO GET UNDER THE BED IS CRAMPED.** The partly hollowed space *beneath* the bed is roomier and **THE FLOORBOARD HATCH/BASEMENT ENTRANCE IS NOT CRAMPED**. Earlier wording/diagram implying a narrow hatch is superseded below and corrected in-place. Q73 also approves **A paw-pressure activation + E manual fallback** for Q72's automatic concealed hatch. [See Q73 direct decision](Q73_PAW_PRESSURE_AND_MANUAL_FALLBACK_A_E_APPROVED.md).
 
 **Recorded:** November 8, 2026  
