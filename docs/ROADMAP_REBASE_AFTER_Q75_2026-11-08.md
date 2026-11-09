@@ -37,15 +37,15 @@
 
 **Exit test:** A reader can locate current authority and see what is approved vs recommended vs unresolved, without mistaking the basement for the main game premise.
 
-### R1 — Acorn as a living character: routine, caregiving and relationship causality (NEXT recommended major work)
+### R1 — Acorn as a living character: routine, caregiving and relationship causality (WRITTEN v0.1 DRAFT COMPLETE; owner approval of new rules PENDING)
 
-**One integrated written packet**, not a dozen bed/toy interviews:
+**One integrated written packet**, not a dozen bed/toy interviews. **Written results now available:** [R1 character and agency framework v0.1](character/ACORN_R1_CHARACTER_ROUTINE_FAMILY_AGENCY_SYSTEM_v0.1.md) and [16 R1 paper tests](reviews/R1_CHARACTER_AGENCY_SCENARIO_PAPER_TESTS_v0.1.md). These explain approved behaviors and label proposed causal mechanisms; they **do not constitute new user canon**. Original planned dimensions:
 - Acorn's ordinary rest/play/gaming/stream/food-care opportunities as **non-clock-fixed behavior contexts** (do not impose a schedule).
 - For each of **Mama, Mommy, Rudy, Millie, Cynthia and Rudy's girlfriend**, distinguish aims, ties to Acorn, predictable friction, independent action and *known information*. Respect comfort order/traits and family autonomy.
 - Define a **decision framework for his agency vs caretaker intervention**: ordinary channel and suite decisions belong to Acorn; *care and genuine emergencies* allow parental intervention. The exact trigger thresholds and oversight mechanisms require owner approval, not assistant fiat.
 - **Test case, non-canonical:** Mama enters sleeping room while Acorn is beneath his bed. Avoid forced dialogue, guaranteed discovery, magical secrecy, or parental denial of care rights.
 
-**Exit test:** A short hypothetical situation can yield several **plausible, context-sensitive outcomes** without a preset script or a new approved historical incident. Distinguish normal behaviors vs unusual outcomes.
+**Exit test: PASSED at paper-design level.** Sixteen counterfactual situations offer plausible, context-sensitive alternative responses without a mandatory script or an approved new historical event. **NOT RESOLVED:** exact routine-care priority, staff permissions and genuine-emergency override policy require owner approval, and H2 emergency rescue plausibility is still unverified. This is NOT an executed NPC test.
 
 ### R2 — Physical streaming studio and bear-world platform/technical feasibility
 
@@ -120,6 +120,6 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 5. For historical voices, preserve exceptionally early reading + toddler judgment, independent sibling behavior and emotional nuance; no static mandatory emotional script.
 6. Keep any requested GitHub updates traceable and verify fetch-back. Old historical checkpoints should keep their original factual provenance rather than being erased.
 7. User-selected on-screen layout is **not** a room camera blueprint; users may revise any later proposal.
-8. The *next assistant substantive work* should be **R1 integrated Acorn character/household decision framework** if user wants to continue design, or R4 targeted H2 plausibility audit if requested. Do **not** immediately ask Q76 about lever fittings.
+8. The *next assistant substantive work* after the prepared R1 paper framework is **R2 a grounded bear-operable streaming studio + governance workflow**, while keeping unresolved caretaker intervention boundaries labeled PROPOSED until user decides. R4 targeted H2 plausibility audit is a separate later focus. Do **not** immediately ask Q76 about lever fittings.
 
-**Roadmap status:** R0 complete as written documentation. R1–R7 are **proposed**, not already completed, scheduled, or approved for implementation.
+**Roadmap status:** R0 complete; **R1 written design packet and paper test suite COMPLETED AS NONCANONICAL DRAFTS**, pending any owner approval of policy. **R2 is recommended next**. R2–R7 remain proposed future documentation milestones, not scheduled or approved for implementation.
