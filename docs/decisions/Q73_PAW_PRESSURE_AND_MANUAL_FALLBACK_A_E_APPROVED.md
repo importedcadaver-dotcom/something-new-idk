@@ -1,5 +1,7 @@
 # Q73 — Hidden Hatch Paw-Pressure Activation + Manual Fallback (APPROVED A+E)
 
+> **Q75 subsequent direct approval (2026-11-08):** **B** broad, paw-friendly **manual lever** now selected as the physical interface for this Q73 manual hatch fallback. Q73 A remains a *separate* concealed paw-pressure spot for AUTOMATIC operation; do not merge the two. Q74 D still allows Acorn/Rudy/unnamed girlfriend to operate the lever, with unspecified relative ease. See [Q75 decision](Q75_BROAD_PAW_FRIENDLY_MANUAL_HATCH_LEVER_B_APPROVED.md).
+
 > **Q74 subsequent direct approval (2026-11-08):** User selected **D — all three Acorn, Rudy and Rudy's unnamed polar-bear girlfriend can independently operate Q73's manual hatch fallback, with different degrees of ease**. Relative ease, how the fallback works and where the control sits remain OPEN. This does not create an extra emergency override or reveal H2 to parents. See [Q74 approved decision](Q74_MANUAL_HATCH_FALLBACK_ALL_THREE_D_APPROVED.md).
 
 **Recorded:** November 8, 2026  
