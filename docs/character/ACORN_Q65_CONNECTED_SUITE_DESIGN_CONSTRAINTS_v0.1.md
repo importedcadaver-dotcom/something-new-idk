@@ -1,5 +1,7 @@
 # Acorn's Q65 Three-Zone Bedroom Suite — Written Design Constraints v0.1
 
+> **Q67 subsequent approval (2026-11-08):** Owner chose **C**: a short private hallway links all three Q65 personal rooms, each accessible without passing through another. See [Q67 approved decision with conceptual diagram](../decisions/Q67_PRIVATE_HALLWAY_C_APPROVED.md). Earlier notes on completely open room-topology are superseded only for this hallway connectivity; exact geometry, sizes, doors, entrance and secret nook still unapproved.
+
 > **Q66 subsequent direct approval (2026-11-08):** Owner selected **B+C+D+E+F** for privacy/access. **Sleep room private; playroom relatively welcoming BUT siblings still ask; Acorn controls studio guests; private hiding nook with caregiver emergency access; Mama/ Mommy retain care/emergency access.** No lock, door/corridor or incident approved. See [Q66 approval](../decisions/Q66_SUITE_PRIVACY_ACCESS_B_C_D_E_F_APPROVED.md) and [Q66 written access spec](ACORN_Q66_PRIVACY_AND_ACCESS_SPEC_v0.1.md). Older “privacy undecided” statements below are now historical for the chosen policy, but exact access mechanisms remain OPEN.
 
 **Status:** Text-only planning, grounded in [Q65 direct approval D](../decisions/Q65_BEDROOM_SUITE_D_APPROVED.md). Room adjacency, furniture, privacy, access, camera hardware and floorplan **remain proposals**. No floorplan image, scene or actual game/environment was created.
