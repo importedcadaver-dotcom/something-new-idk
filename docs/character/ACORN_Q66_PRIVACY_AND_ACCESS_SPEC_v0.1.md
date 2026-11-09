@@ -1,5 +1,7 @@
 # Acorn's Q66 Suite Privacy and Access Specification v0.1
 
+> **Q68 subsequent direct approval (2026-11-08):** Acorn now has **TWO** approved hideouts: parent-built **hallway bookshelf door directly opposite studio (H1)** and a **secret sleeping-room H2 built by Acorn, Rudy and Rudy's unnamed girlfriend, mostly the older two; Mama and Mommy unaware of H2**. See [Q68 decision](../decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md) and [Q68 knowledge/safety paper spec](ACORN_Q68_DUAL_HIDEOUT_SPATIAL_AND_KNOWLEDGE_SPEC_v0.1.md). Q66 caregiver emergency access does not imply retroactive knowledge of H2. Precise emergency location/access feasibility remains unresolved.
+
 > **Q67 subsequent approval (2026-11-08):** Owner chose **C**, a **short PRIVATE HALLWAY connecting sleeping, play and gaming rooms**, permitting access between any two without passing through the third. See [Q67 decision and text-only schematic](../decisions/Q67_PRIVATE_HALLWAY_C_APPROVED.md). The diagram is topology only; exact doors, orientation, corridor geometry and Q64 secret nook position still OPEN. Q66 privacy and emergency access rules still apply.
 
 **Status:** Text-only interpretation of [Q66 direct approval B+C+D+E+F](../decisions/Q66_SUITE_PRIVACY_ACCESS_B_C_D_E_F_APPROVED.md). Everything not directly selected is an OPEN design item, not new canon. **Q66 A was not selected.**
@@ -31,9 +33,9 @@ No choice about exact door count, keypad/lock or security system; caregiver surv
 
 Q66 option **A** (*general family entry*) unselected; parent care/emergency access appears in independently selected **B**. Q65 option **D** (three-zone connected suite) remains the governing architecture. Q58 default middle-left webcam refers to the **on-broadcast overlay** and is **not** a physical placement plan for the studio.
 
-## Q67 completed; next Q68 proposed
+## Q67 and Q68 completed; Q69 proposed
 
-**Q67 C approved:** one short private internal hallway connects all three rooms without forcing passage through the others. **Q68 proposed:** Choose Acorn's personal hidden-nook location (sleeping room, playroom, hallway, studio, other/custom); no particular exact nook, door, or visible-camera arrangement is yet canon. Continue plain-text interview only.
+**Q67 C approved:** one short private hallway connects all three main rooms without forcing passage through the others. **Q68 completed:** H1 is in that hallway across from studio behind parent-built bookshelf entrance; H2 is in sleeping room, mostly Rudy/girlfriend-built, **unknown to parents**. **Q69 proposal:** decide physical H2 concealment, preserving parental ignorance and the open need for a safe caregiver response. Continue plain text with Other/custom.
 
 ## Continuity
 
