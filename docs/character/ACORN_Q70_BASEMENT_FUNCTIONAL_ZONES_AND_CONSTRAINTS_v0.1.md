@@ -1,5 +1,7 @@
 # Q70 — Acorn's Secret Basement: Functional Zones and Continuity Constraints v0.1
 
+> **Q71 subsequent direct approval (2026-11-08):** H2 access now includes **B broad shallow stairs**, **C quiet mechanical lift**, **E Rudy sometimes helps**, **F combination**. The original 'access undecided' statements below are historically superseded at the method-category level only; exact entrance mechanics and actual safety remain OPEN. [Q71 decision](../decisions/Q71_QUIET_MECHANICAL_LIFT_STAIRS_AND_RUDY_ASSIST_B_C_E_F_APPROVED.md) · [Q71 design consistency](ACORN_Q71_QUIET_BASEMENT_ACCESS_CONSTRAINTS_v0.1.md).
+
 **Status:** TEXT-ONLY world design based on [Q70 approved A–G](../decisions/Q70_BASEMENT_ALL_SEVEN_USES_APPROVED.md). No diagrams beyond textual functional inventory, no images, scenes, actual software, construction instructions or gameplay.
 
 ## Approved functions, not exact room placements
@@ -40,4 +42,4 @@ These are **seven compatible uses**, not seven separately approved walled rooms 
 
 ## Proposed next design question Q71 (not approved)
 
-A plain-text selection about *safe entry/exit* and how H2 stays concealed. Illustrative choices: a shallow slope, a broad short staircase, a cub-accessible mechanical platform, a combination, or custom. Specific hardware, locks, lift power, camouflage, caregiver emergency fallback and structural details require explicit user choices, not assumptions.
+**Q71 completed:** broad shallow stairs + quiet mechanical platform + occasional Rudy help + combination. **Q72 proposed:** under-bed floorboard entrance concealment and simple cub-usable operation. Still no approved lift power, access mechanism, safe clearance or emergency fallback.
