@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Proposed Roadmap Pivot After Q61
 
+> **Q64 subsequent progress (2026-11-08):** Directly approved **A+B+D+E+F+G+H** personal comfort objects/habits (special plush, blanket, Mama scent, secret nook, physical self-soothing, attachment and changeable favorites). **C gaming-possession comfort not approved.** See [Q64 decision](decisions/Q64_COMFORT_OBJECTS_AND_PRIVATE_HABITS_APPROVED.md) and [written room dependencies](character/ACORN_Q64_COMFORT_HABITS_AND_ROOM_DEPENDENCIES_v0.1.md). Next design choice is bedroom/sleep versus gaming-space arrangement, not original stream incidents; proposed full roadmap remains noncanonical.
+
 > **Q63 progress (2026-11-08):** The owner directly approved **F+G > E > A > B > C > D** as Acorn's contextual comfort preference (situation-dependent and initial resistance > toys/solitude > Mama > Mommy > Rudy > Millie). See [Q63 decision](decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) and [cast refresher](character/CAST_REFRESH_Q63_v0.1.md). This specifies relationship priorities but **does not approve any particular private memories, comfort objects or incidents**. Next proposed character-first question Q64 can address actual objects/habits; plain text only.
 
 > **Progress update after Q62 (2026-11-08):** User directly approved **all seven A–G off-camera emotional patterns**, now recorded in [Q62 approved decision](decisions/Q62_ACORN_OFF_CAMERA_EMOTIONAL_BEHAVIOR_A_TO_G_APPROVED.md) and [Q62 written analysis](character/ACORN_Q62_EMOTION_MODEL_AND_DEPENDENCIES_v0.1.md). This completes the *general-capacities* part of the first proposed foundation workstream; specific relationship behavior, triggers and comfort objects remain open. The overall roadmap order still describes a recommendation, **not a formally adopted schedule**. User explicitly requested **no more interactive UI/forms due to lag**; future interview steps are short plain text with Other/custom.
@@ -29,7 +31,7 @@ Jumping straight into his earliest broadcasts would make the writer invent **una
 
 ### Recommended first actionable question
 
-**Q62 and Q63 COMPLETED:** All seven emotional behavior patterns A–G and then F+G > E > A > B > C > D contextual comfort ranking. **Q64 PROPOSED:** decide actual favorite comfort objects/habits or spatial bedroom basics with Other/custom plain text. This deepens but never replaces Q45 traits or assumes a fixed event.
+**Q62–64 COMPLETED:** Seven off-camera emotional capacities; F+G > E > A > B > C > D comfort preferences; Q64 A+B+D+E+F+G+H soothing-object and hiding types. **Q65 PROPOSED:** decide spatial relationship between Acorn's sleep/play room and gaming/streaming room, with plain-text Other/custom. Exact object designs, floorplan and family incidents stay open.
 
 **Don't turn this into an endless interview:** cap each subtopic to a few decisions with real consequences. After the personality and relationship foundations, move efficiently to the actual room/setup and community origin. A later written first-stream chronology is a better outcome than hundreds of inconsequential UI questions.
 
