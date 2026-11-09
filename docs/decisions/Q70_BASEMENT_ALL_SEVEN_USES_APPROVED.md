@@ -1,5 +1,7 @@
 # Q70 — Acorn's Secret Excavated Basement: ALL A+B+C+D+E+F+G APPROVED
 
+> **Q71 later direct approval (2026-11-08):** User selected **B+C+E+F** for H2 access: **wide shallow cub-scale stairs**, **quiet-operating mechanical lift**, **Rudy sometimes assists**, **combined use**. Q71 A ramp and Q71 D independently redundant access/escape routes NOT selected. Exact quiet-lift machinery, how the floorboards open, and emergency feasibility remain OPEN. See [Q71 decision](Q71_QUIET_MECHANICAL_LIFT_STAIRS_AND_RUDY_ASSIST_B_C_E_F_APPROVED.md) and [Q71 continuity spec](../character/ACORN_Q71_QUIET_BASEMENT_ACCESS_CONSTRAINTS_v0.1.md). All original Q70 uses unchanged.
+
 **Recorded:** November 8, 2026  
 **Direct user response:** “A+B+C+D+E+F+G ALL”.  
 **Authority:** Direct user selection of all seven Q70 basement-use/design choices.  
