@@ -1,5 +1,7 @@
 # Acorn — Off-Camera Emotional Behavior Model v0.1 (Q62)
 
+> **Q64 subsequent approval (2026-11-08):** A+B+D+E+F+G+H comfort capacities now directly approved: especially beloved plush, baby blanket, Mama-associated scent, private nook, physical self-soothing, attachment/possessiveness and changing favorites. **C (gaming items as soothing objects) NOT selected**. See [Q64 decision](../decisions/Q64_COMFORT_OBJECTS_AND_PRIVATE_HABITS_APPROVED.md) and [Q64 comfort/room dependency brief](ACORN_Q64_COMFORT_HABITS_AND_ROOM_DEPENDENCIES_v0.1.md). Older “specific objects OPEN” remains true only for exact object identities/colors, not object classes.
+
 > **Q63 subsequent direct approval (2026-11-08):** Owner ranked comfort tendencies **F+G > E > A > B > C > D**, meaning contextual person-choice and sometimes initially resisting support are joint top priorities; then toys/solitude; then Mama > Mommy > Rudy > Millie as general person preference. See [Q63 decision](../decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) and [cast refresher](CAST_REFRESH_Q63_v0.1.md). Earlier Q63 hypothetical choices below are superseded; no exact conditional algorithm or numeric weights approved.
 
 **Status:** Written design analysis of **approved Q62 A–G**, not approval of every illustrative hypothesis.  
@@ -55,6 +57,6 @@ All six bullets are **design planning**, not extra lore.
 
 ## Next interview in plain text, not UI
 
-**Q63 COMPLETED:** F+G > E > A > B > C > D approved. **Next Q64 suggestion:** identify the actual comfort objects and private routines or choose a bedroom/physical-environment design topic; written plain-text choices with Other/custom. Do not infer any particular toy or room layout without owner approval.
+**Q63 and Q64 COMPLETED:** F+G > E > A > B > C > D comfort preference from Q63; Q64 A+B+D+E+F+G+H object/soothing/hiding types, C not selected. **Next Q65 suggestion:** decide sleep/play versus gaming/streaming room relationship, then private nook and spatial details. Exact toy/plush name, blanket color, floorplan and events remain OPEN. Plain-text choices with Other/custom.
 
 **Roadmap:** This is the first completed character/emotion work item from the [proposed character-first sequencing](../ROADMAP_PRE_STREAM_FOUNDATIONS_Q61_PROPOSED.md). That full sequence is **still a recommendation**, not a formally approved fixed schedule.
