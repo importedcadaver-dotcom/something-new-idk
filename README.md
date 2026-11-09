@@ -1,12 +1,18 @@
 # Bear Cub Streamer — World Bible
 
-**Current documentation status: R2 written design/research/paper QA completed after R1, November 8, 2026. New hardware and governance choices remain OWNER-UNAPPROVED.**  
+**Current documentation status: R2 P1+P3 / F2 / G1 and Mommy sometimes unreasonably strict DIRECTLY APPROVED; R3 audience/staff working draft and 24 paper tests COMPLETED, November 8, 2026. No scenes or game.**  
 **Work type:** Fictional worldbuilding and canon audit **ONLY**. The owner chose **world bible first** (Q38). No final playable/narrative format, game code, image, animation, acting, historical scene or fictional clock advancement has been authorized.
 
 ## Start here — current source of truth
 
+- **[APPROVED R2 DIRECT CHOICE: P1+P3, F2, G1, Mommy sometimes unreasonably strict](docs/decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md)** — precise original answer and canon limits; supersedes older undecided/recommended combinations.
+- **[CURRENT R2 INTEGRATED APPROVED BASELINE v0.2](docs/streaming/ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md)** — chosen dual-paw/adaptive controller, fictional Twitch-like bear platform, G1 care and Mommy strictness reconciled.
+- **[NEW R3 audience/staff/early-fame causal model v0.1](docs/streaming/ACORN_R3_AUDIENCE_STAFF_EARLY_FAME_SYSTEM_v0.1.md)** — proposed audience categories, staff role separation and known viral causal anchors; not new first broadcasts.
+- **[NEW R3 official moderation/community comparative research](docs/research/R3_MODERATION_COMMUNITY_PLATFORM_REFERENCES_2026-11-08.md)** — Twitch/YouTube feature references, not automatic F2 rules.
+- **[NEW R3 24 paper tests](docs/reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md)** — consistency checks, no software or enacted audience incidents.
+
 - **[R2 — Bear-operable Fortnite studio and streaming workflow v0.1](docs/streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md)** — written physical-controller alternatives, capture/mic/TTS workflow and platform concerns; recommendations are not new approved equipment.
-- **[R2 — Channel autonomy and caregiving/moderation policy options](docs/streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md)** — G1/G2/G3 alternatives, none selected.
+- **[R2 — Channel autonomy and caregiving/moderation policy options](docs/streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md)** — HISTORICAL alternatives; G1 is NOW selected by direct user approval, G2/G3 not selected.
 - **[R2 — Official adaptive gaming, Epic and Twitch reference research](docs/research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md)** — external facts separated from fiction canon.
 - **[R2 — 22 scenario paper tests](docs/reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md)** — design consistency with true Fortnite, Acorn rights and family knowledge, not physical testing.
 
@@ -38,14 +44,15 @@
 | Acorn's personality, baby voice, emotional preferences and appearance | **Many direct decisions approved** Q44–55 and Q62–64 |
 | Stream-screen modes, overlay, chat and TTS | **Design approved** Q47 and Q57–61; no real physical gear, code or renders |
 | Three-room suite, privacy and H1/H2 hideouts | **Deep written canon** Q65–75; physically plausible construction/safety and family secrecy still unresolved |
-| Ordinary Acorn/family routine, caregiver vs channel agency | **R1 paper packet complete; R2 drafted care/stream policy alternatives, still OPEN to owner approval** |
-| Actual bear-operable Fortnite streaming workstation/platform | **R2 candidate workflow/spec prepared**, controller family/platform identity still need owner selection and physical feasibility validation |
-| Early audience, staff/moderation roles and first stream outline | **Not yet established as canon** |
+| Ordinary Acorn/family routine, caregiver vs channel agency | **R1 paper packet complete; R2 G1 APPROVED**, with serious-danger thresholds and routine refusal details still OPEN |
+| Actual bear-operable Fortnite streaming workstation/platform | **P1+P3 controller family and F2 platform APPROVED**; exact hardware/platform law and physical feasibility OPEN |
+| Early audience, staff/moderation roles and first stream outline | **R3 working role/growth model + 24 paper tests complete**, exact initial discovery, staff identities and first-stream history unapproved |
 | Unified final bible review and signoff | **Not completed** |
 | Visuals, narrative scenes, simulation, game development | **Not started and not authorized** |
 
 ## Latest approvals, protected rather than re-interviewed
 
+- **[R2 latest approved choice](docs/decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md):** **P1+P3** combined broad dual-forepaw/adaptive controls, **F2** fictional Twitch-like platform governed by bear-world laws, **G1** ordinary Acorn channel control + routine negotiation + proportionate serious-danger intervention; **Mommy is sometimes unreasonably strict**, not always and not automatically authorized to seize ordinary stream editing.
 - **[Q65](docs/decisions/Q65_BEDROOM_SUITE_D_APPROVED.md)–[Q67](docs/decisions/Q67_PRIVATE_HALLWAY_C_APPROVED.md):** Acorn has sleeping, play and gaming/streaming spaces connected by a private hallway; siblings ask before entering/touching private property, while parental care/emergency authority remains.
 - **[Q68](docs/decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md)–[Q70](docs/decisions/Q70_BASEMENT_ALL_SEVEN_USES_APPROVED.md):** H1 is parent-built hallway bookshelf retreat directly across from studio, known to parents. H2 is luxurious excavated basement under sleeping-room bed/floorboards, mainly built by Rudy and unnamed polar girlfriend with Acorn helping, **unknown to both parents**, with all Q70 A–G use types.
 - **[Q71](docs/decisions/Q71_QUIET_MECHANICAL_LIFT_STAIRS_AND_RUDY_ASSIST_B_C_E_F_APPROVED.md)–[Q75](docs/decisions/Q75_BROAD_PAW_FRIENDLY_MANUAL_HATCH_LEVER_B_APPROVED.md):** Wide shallow stairs, quiet mechanical lift, under-bed partly hollowed passage, concealed paw-pressure automatic floorboard hatch and broad manual lever operated by Acorn/Rudy/girlfriend. **Only outer gap to get UNDER bed is cramped; basement hatch is NOT cramped.** Nothing certifies real-world engineering safety.
@@ -53,9 +60,9 @@
 ## Current recommended order
 
 1. **R1 (WRITTEN DRAFT COMPLETE):** Character-led day-in-life, independent family behavior and caregiver-vs-channel authority framework. **Owner has not approved newly suggested behavioral rules.**
-2. **R2 (WRITTEN DRAFT COMPLETE):** Bear-compatible Fortnite control concepts, camera/audio/TTS flow, real-world service research, 22 QA paper cases, and owner-unapproved options F1–F3, P1–P3, G1–G3.
-3. **R3 (NEXT RECOMMENDED):** Community/staff origins and early fame causality, without inventing actual viewer identities or first-stream history; R2's important owner choices remain OPEN in parallel.
-4. **R4:** Biology/timeline, dynasty power, character knowledge and **targeted H2 secrecy/safety paper audit**.
+2. **R2 (APPROVED HIGH-LEVEL CHOICES):** P1+P3/F2/G1 and Mommy's strict-sometimes trait user-approved; written studio workflow and 22 earlier paper tests remain nonphysical, with detailed settings OPEN.
+3. **R3 (WRITTEN DRAFT COMPLETE):** Audience/staff categories, early-fame causal hypotheses, primary-source moderation research and 24 conceptual tests. Specific origin/story/personnel facts await user approval.
+4. **R4 (NEXT RECOMMENDED):** Biology/timeline, dynasty power, character knowledge and **targeted H2 secrecy/safety paper audit**. R3's missing initial discovery source may alternatively be decided first.
 5. **R5:** Proposal for earliest broadcast chronology *only with owner approval of history details*.
 6. **R6:** Consolidated working bible and explicit final owner acceptance.
 7. **R7:** Separate future decision whether to do art, interactive story, simulation or game.
