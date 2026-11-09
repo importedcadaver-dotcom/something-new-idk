@@ -1,5 +1,7 @@
 # Acorn — Q64 Comfort Objects, Private Habits & Bedroom Design Dependencies v0.1
 
+> **Q65 subsequent direct decision (2026-11-08):** Owner selected **D**, a connected personal suite with **sleeping room, playroom and gaming/streaming studio**. See [Q65 approval](../decisions/Q65_BEDROOM_SUITE_D_APPROVED.md) and [Q65 written architecture constraints](ACORN_Q65_CONNECTED_SUITE_DESIGN_CONSTRAINTS_v0.1.md). This resolves the basic room-zoning choice, NOT internal connections, floors, layout, furniture, private nook location or technology.
+
 **Status:** TEXT-ONLY synthesis of directly approved [Q64 A+B+D+E+F+G+H](../decisions/Q64_COMFORT_OBJECTS_AND_PRIVATE_HABITS_APPROVED.md). **Q64 C unselected.** Proposed spatial and behavior interpretations are marked as such; no new details are automatic canon.
 
 ## Confirmed object and behavior classes
@@ -44,4 +46,4 @@
 - This file creates **no visual art, screenplay, enacted scene, game, code, copyrighted content or fictional-time movement**.
 - Interview questions are **plain text only**, with Other/custom.
 
-**Proposed Q65:** A single consequential choice: sleep and gaming/streaming room relationship (same, separate, adjoining or hybrid), with Other/custom. Further furniture and actual hiding spot placement may follow only after owner choice.
+**Q65 COMPLETED:** Connected three-zone suite approved (sleeping, playroom, dedicated studio). **Q66 proposed:** privacy and access rules for these connected spaces, especially Acorn's secret hiding spot and who may enter in an emergency; exact physical details still open. Plain-text choices and Other/custom.
