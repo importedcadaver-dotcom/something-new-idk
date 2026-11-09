@@ -1,5 +1,7 @@
 # Acorn's Q66 Suite Privacy and Access Specification v0.1
 
+> **Q67 subsequent approval (2026-11-08):** Owner chose **C**, a **short PRIVATE HALLWAY connecting sleeping, play and gaming rooms**, permitting access between any two without passing through the third. See [Q67 decision and text-only schematic](../decisions/Q67_PRIVATE_HALLWAY_C_APPROVED.md). The diagram is topology only; exact doors, orientation, corridor geometry and Q64 secret nook position still OPEN. Q66 privacy and emergency access rules still apply.
+
 **Status:** Text-only interpretation of [Q66 direct approval B+C+D+E+F](../decisions/Q66_SUITE_PRIVACY_ACCESS_B_C_D_E_F_APPROVED.md). Everything not directly selected is an OPEN design item, not new canon. **Q66 A was not selected.**
 
 ## Approved zones and ordinary access
@@ -29,17 +31,9 @@ No choice about exact door count, keypad/lock or security system; caregiver surv
 
 Q66 option **A** (*general family entry*) unselected; parent care/emergency access appears in independently selected **B**. Q65 option **D** (three-zone connected suite) remains the governing architecture. Q58 default middle-left webcam refers to the **on-broadcast overlay** and is **not** a physical placement plan for the studio.
 
-## Next interview (PROPOSED Q67)
+## Q67 completed; next Q68 proposed
 
-Ask for **relative connectivity/topology** of sleeping room, playroom and studio in one connected suite, preserving privacy hierarchy and cub accessibility. Distinct short textual choices can include:
-
-- Linear chain, ideally privacy-focused sleeping → play → studio (order itself hypothetical until picked)
-- Playroom as a central hub connecting bedroom and studio
-- Sleeping room with a private short passage to playroom, studio off a secondary branch
-- More spread-out small suite with short passage/corridor, all still internal
-- Other/custom
-
-Do not pretend a text choice creates a validated architectural floorplan. Follow with details like hidden nook location and room function. Only **plain-text interview** (no lag-inducing controls).
+**Q67 C approved:** one short private internal hallway connects all three rooms without forcing passage through the others. **Q68 proposed:** Choose Acorn's personal hidden-nook location (sleeping room, playroom, hallway, studio, other/custom); no particular exact nook, door, or visible-camera arrangement is yet canon. Continue plain-text interview only.
 
 ## Continuity
 
