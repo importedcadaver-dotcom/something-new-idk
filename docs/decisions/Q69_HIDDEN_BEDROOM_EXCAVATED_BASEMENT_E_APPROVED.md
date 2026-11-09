@@ -1,5 +1,7 @@
 # Q69 — Concealed Excavated Basement Beneath Acorn's Bed (E + Custom APPROVED)
 
+> **Q70 subsequent direct approval (2026-11-08):** User approved **ALL A+B+C+D+E+F+G** for H2's uses: cozy plush-and-blanket den, private Acorn/Rudy/girlfriend clubhouse, hidden toys, television and games, Rudy's sometimes-parent-disapproved items, luxurious multiple functional areas, and gradual personalization. See [Q70 approved](Q70_BASEMENT_ALL_SEVEN_USES_APPROVED.md) and [Q70 written functional spec](../character/ACORN_Q70_BASEMENT_FUNCTIONAL_ZONES_AND_CONSTRAINTS_v0.1.md). This selects function classes and general contents, not sizes, exact inventories, the unknown item categories, or safe access mechanisms.
+
 **Recorded:** 2026-11-08  
 **Source — direct user response:** “E under his bed under the floorborads they basicly excavated a basement”.  
 **Approved:** **Q69 E (elaborate construction)**, **with the user's custom specificity overriding generic E descriptions**. No other Q69 multiple-choice alternative was selected.  
@@ -54,4 +56,4 @@
 
 ## Suggested next focus — not approved
 
-**Q70:** Decide **fictional concealment / entry behavior** for the secret under-bed floorboard access, or prioritize what the underground hideout is *used for* before choosing technical access. Any option must keep parental ignorance while identifying emergency-safety and physical-bear-access questions for later resolution. Do not render detailed construction plans or instructions.
+**Q70 COMPLETED:** All seven functions A+B+C+D+E+F+G selected. **Q71 PROPOSED:** Decide Acorn-safe under-bed entry and exit from H2 while preserving parental ignorance and keeping structural/emergency feasibility unresolved until addressed. No actual construction plan or instructions.
