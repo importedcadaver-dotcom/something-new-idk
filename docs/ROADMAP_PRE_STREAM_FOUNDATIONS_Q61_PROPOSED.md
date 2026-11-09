@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Proposed Roadmap Pivot After Q61
 
+> **Q68 latest direct decision (2026-11-08):** Two retreats now established, not a single undecided hiding place. **H1** parent-built hallway nook behind secret bookshelf door directly across from studio; **H2** secret sleeping-room nook built with Acorn, mainly Rudy and unnamed polar-bear girlfriend, **Mama and Mommy unaware**. See [Q68 approved](decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md) and [Q68 privacy/knowledge constraints](character/ACORN_Q68_DUAL_HIDEOUT_SPATIAL_AND_KNOWLEDGE_SPEC_v0.1.md). Next Q69 proposes H2 concealment details; other room design and caregiver emergency practicality remain unresolved. No story scene or game created.
+
 > **Q67 progress (2026-11-08):** User directly chose **C private hallway** connecting all three personal rooms without routing through the third, and requested a diagram. The [Q67 decision](decisions/Q67_PRIVATE_HALLWAY_C_APPROVED.md) includes a **text-only conceptual topological sketch**, not a final floorplan. Existing Q66 privacy is unchanged. Proposed Q68: choose which space contains Acorn's secret comforting hiding nook. No scene/image/code.
 
 > **Q66 subsequent progress (2026-11-08):** User approved **B+C+D+E+F** suite privacy, ordinary permission/knock, **Mama and Mommy care/emergency access**, playroom relative accessibility while **Rudy and Millie require permission**, sleeping privacy, Acorn studio guest control and protected nook with caregiver intervention when needed. See [Q66 direct approval](decisions/Q66_SUITE_PRIVACY_ACCESS_B_C_D_E_F_APPROVED.md) and [written room-access spec](character/ACORN_Q66_PRIVACY_AND_ACCESS_SPEC_v0.1.md). Q66 A open family walk-in NOT selected. Q67 proposed next: internal topology, not scenes or equipment.
@@ -37,7 +39,7 @@ Jumping straight into his earliest broadcasts would make the writer invent **una
 
 ### Recommended first actionable question
 
-**Q62–66 COMPLETED:** General emotional capacities, context/resistance comfort hierarchy, soothing objects/hiding, **Q65 three-room connected suite**, and **Q66 B+C+D+E+F room privacy and access**. **Q67 COMPLETED:** short private hallway gives independent access to sleeping room, playroom and studio. **Q68 PROPOSED:** choose secret hiding nook's location, then exact furnishings and cub-compatible equipment. All fictional first streams/incidents remain on hold.
+**Q62–66 COMPLETED:** General emotional capacities, context/resistance comfort hierarchy, soothing objects/hiding, **Q65 three-room connected suite**, and **Q66 B+C+D+E+F room privacy and access**. **Q67–68 COMPLETED:** hallway gives independent access to three main rooms; H1 bookshelf door faces studio from hallway and parents know it; H2 is secretly in sleep room, Acorn/Rudy/unnamed girlfriend built it, moms unaware. **Q69 PROPOSED:** bedroom refuge entrance design, with caregiver-safety implications identified but not decided. All fictional first streams/incidents remain on hold.
 
 **Don't turn this into an endless interview:** cap each subtopic to a few decisions with real consequences. After the personality and relationship foundations, move efficiently to the actual room/setup and community origin. A later written first-stream chronology is a better outcome than hundreds of inconsequential UI questions.
 
