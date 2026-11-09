@@ -4,6 +4,8 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 
 ## Current documentation (latest first)
 
+- [Q65 APPROVED — D, connected personal sleeping room, playroom and gaming/streaming studio](docs/decisions/Q65_BEDROOM_SUITE_D_APPROVED.md)
+- [Q65 connected three-zone suite design constraints (written, no floorplan)](docs/character/ACORN_Q65_CONNECTED_SUITE_DESIGN_CONSTRAINTS_v0.1.md)
 - [Q64 APPROVED — beloved plush, baby blanket, Mama scent, hiding nook, self-soothing, possessiveness and changing favorites](docs/decisions/Q64_COMFORT_OBJECTS_AND_PRIVATE_HABITS_APPROVED.md)
 - [Q64 written comfort-habits specification and bedroom design dependencies](docs/character/ACORN_Q64_COMFORT_HABITS_AND_ROOM_DEPENDENCIES_v0.1.md)
 - [Q63 APPROVED — F+G > E > Mama > Mommy > Rudy > Millie comfort hierarchy](docs/decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md)
@@ -91,3 +93,5 @@ Documentation-only repository for the fictional **Bear Cub Streamer** universe, 
 **Latest Q63 (2026-11-08):** User approved comfort preference **F+G > E > A > B > C > D** (context + sometimes initially refusing comfort top and tied; then comfort objects/retreat; then Mama > Mommy > Rudy > Millie as general named-person order). This is contextual, **not** an always-on rigid decision algorithm or a ranking of how much each parent matters. No grandmother comfort preference approved. [Q63 decision](docs/decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) and [full cast refresher](docs/character/CAST_REFRESH_Q63_v0.1.md) saved. Continue Q64 character-first interview in plain text, Other/custom. No images, scenes, gameplay or code.
 
 **Latest Q64 (2026-11-08):** User approved **A+B+D+E+F+G+H** for Acorn's comfort objects/private habits: special beloved plushie, baby blanket, familiar Mama scent, secret hiding nook, age-appropriate bodily self-soothing, possessiveness/attachment to toys, and changing favorite objects. **C gaming possessions as comfort objects NOT selected.** Object species, names, colors, exact room/hiding place, routines and incidents all remain OPEN. Q63 context/resistance/object/Mama/Mommy/Rudy/Millie hierarchy, Q62 emotions, Q47–61 streaming and Q48–55 anatomy unchanged. No images, scenes, gameplay or coding. Plain-text questions only (no laggy forms). Next proposed Q65: sleep-versus-gaming room relationship.
+
+**Latest Q65 (2026-11-08):** The user chose **D ONLY**: Acorn has a connected private bedroom suite with **sleeping room, playroom and gaming/streaming studio**. Actual size, internal adjacency/doors, furnishings, studio equipment, hiding-spot position, privacy/access rules and floorplan remain UNDECIDED. Q64 comfort objects, Q63 contextual comfort rank, Q62 emotional patterns, Q47–61 streamer rules and Q48–55 anatomical RIGHT red-cinnamon ear / FRONT LEFT light sock all persist. Plain-text choices only; next Q66 proposal: privacy/access. No images, scenes, gameplay or code.
