@@ -64,6 +64,8 @@
 
 ## 4. Explicitly OPEN / conditionally unresolved
 
+**Historical evidence / provenance:** Individual original user messages for **Q6–17** remain **incompletely recovered**. Q1–5 largely depend on previously reported excerpts; different source grades must remain visible. Neither this checkpoint nor any newly produced roadmap constitutes a recovered firsthand transcript or automatically certifies those earlier answers. Preserve original authority notes in [Verification and open decisions](VERIFICATION_AND_OPEN_DECISIONS.md).
+
 **Immediate character/stream foundations**
 - Current daily routine and child-care responses **without enforcing an assistant-invented schedule**.
 - Rudy/Millie/parents/girlfriend relationship-specific conflicts, privacy and safety responses; no new named past incident.
