@@ -47,26 +47,26 @@
 
 **Exit test: PASSED at paper-design level.** Sixteen counterfactual situations offer plausible, context-sensitive alternative responses without a mandatory script or an approved new historical event. **NOT RESOLVED:** exact routine-care priority, staff permissions and genuine-emergency override policy require owner approval, and H2 emergency rescue plausibility is still unverified. This is NOT an executed NPC test.
 
-### R2 — Physical streaming studio and bear-world platform/technical feasibility (WRITTEN v0.1 RESEARCH/SPEC/PAPER QA COMPLETE; owner decisions OPEN)
+### R2 — Physical streaming studio and bear-world platform/technical feasibility (P1+P3/F2/G1 + Mommy strict-sometimes APPROVED; detail work OPEN)
 
-**Written deliverables now available:** [R2 studio and bear-paw Fortnite workflow v0.1](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [R2 caregiver/channel governance options](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [official device/platform policy research](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [R2 22-scenario paper QA](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md). **This completes the written research/design/testing draft, not user approval of its P/F/G choices or physically validated equipment.** Planned scope:
+**LATEST DIRECT R2 CANON:** [P1+P3 combined controls, F2 bear-world Twitch-like platform, G1 care + Mommy sometimes unreasonably strict](decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md). [Current integrated R2 baseline v0.2](streaming/ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md). Earlier R2 v0.1 choices are historical proposals only and their statement that F/P/G are all unselected is superseded. **Written deliverables now available:** [R2 studio and bear-paw Fortnite workflow v0.1](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [R2 caregiver/channel governance options](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [official device/platform policy research](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [R2 22-scenario paper QA](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md). **This completes the written research/design/testing draft, not user approval of its P/F/G choices or physically validated equipment.** Planned scope:
 - A six-month, mostly quadrupedal chubby cub with large paws can plausibly play **actual Fortnite** through **bear-adapted controls**; exact devices and interface technologies remain choice-gated.
 - Video camera and mic *physical* setup, eye-level monitor, TTS/chat workflow, moderation input, stop/go live and staff assistance (distinct from Q58–61 stream-overlay positions).
 - Bear-only internet, possible fictional vs literal platform choice, no automatic import of unchanged real-world service age rules.
 - Who can intervene in *emergencies*, and limits preserving Acorn's genuine ordinary channel authority.
 - Image/audio rights, reaction material and age-appropriate content access remain open; Q57 references aren't past events.
 
-**Exit test: PASSED at conceptual paper level.** Acorn-input → genuine Fortnite → capture/on-screen overlays → moderated chat/TTS → Acorn pause/stop workflow is documented. **Blocked for final hardware/world law:** two-axis + auxiliary input feasibility; separate fictional bear internet game distribution; owner-approved safety/parent intervention boundaries. No device or runtime game built.
+**Exit test: PASSED at conceptual paper level.** Acorn-input → genuine Fortnite → capture/on-screen overlays → moderated chat/TTS → Acorn pause/stop workflow is documented. **Blocked for final detailed hardware/world law:** validating the approved P1+P3 physical dual-paw plus auxiliary action interface, F2 service naming/age/guardian rules, genuine Fortnite bear internet integration, G1 **specific serious-danger thresholds and routine-care dispute resolution** (NOT the broad G1 choice, which is approved). No device or runtime game built.
 
-### R3 — Audience, staff and early channel causality
+### R3 — Audience, staff and early channel causality (WRITTEN PROPOSED v0.1 COMPLETE; exact early history and identities OPEN)
 
-**Written relationship/role map**:
+**Written work now completed:** [R3 audience/staff/fame system v0.1](streaming/ACORN_R3_AUDIENCE_STAFF_EARLY_FAME_SYSTEM_v0.1.md), [official community/moderation research](research/R3_MODERATION_COMMUNITY_PLATFORM_REFERENCES_2026-11-08.md) and [24 paper tests](reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md). These preserve F2 and the approved 500–2,000 then 5,000–20,000 **concurrent** audience bounds, without inventing first viewers or events. Specific audience-origin drivers/people remain for user approval. Original intended scope:
 - Baseline discovery and regular viewer categories **as proposed roles**, not invented named audience canon.
 - Bear staff/moderation and fan-community boundaries; Acorn's ban and refusal authority.
 - Path to existing **500–2,000 concurrent before** and **5,000–20,000 after** the sole approved viral food incident; do not invent follower count or sponsors.
 - Threat models for donations, food deliveries, harassment, doxxing and child privacy; no unapproved actual event.
 
-**Exit test:** The known viral incident and current popularity follow from a potentially coherent progression, while chronology remains undated until owner chooses.
+**Exit test: PASSED as a proposed paper explanation only.** Direct causal link of viral food publicity to audience growth preserved, while possible pre-viral discovery routes are labeled hypothetical, not canon. No named mod or first stream written; governance and exact history remain OPEN.
 
 ### R4 — Integrated household/biology/dynasty continuity
 
@@ -120,6 +120,6 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 5. For historical voices, preserve exceptionally early reading + toddler judgment, independent sibling behavior and emotional nuance; no static mandatory emotional script.
 6. Keep any requested GitHub updates traceable and verify fetch-back. Old historical checkpoints should keep their original factual provenance rather than being erased.
 7. User-selected on-screen layout is **not** a room camera blueprint; users may revise any later proposal.
-8. The *next assistant substantive work* after prepared R2 concept work is **R3 audience discovery, staff roles and early popularity causality without new fictional incidents**, while F1/P1/G1 are **recommendations ONLY**. R4 targeted H2 plausibility remains later. Do **not** immediately ask Q76 about lever fittings.
+8. The *next assistant substantive work* after R3's written packet is **R4 paper biology/timeline/dynasty and H2 construction/parent-knowledge plausibility audit**, or an owner decision on first audience origin if desired. **P1+P3/F2/G1 ARE DIRECTLY APPROVED**, not mere old F1/P1/G1 recommendations. Do not restart mechanism micro-interviews. Do **not** immediately ask Q76 about lever fittings.
 
-**Roadmap status:** R0 complete; R1 written noncanonical design/tests complete; **R2 written documentation/research and 22 paper tests COMPLETE AS A DRAFT**, with controller **P1/P2/P3**, platform **F1/F2/F3** and governance **G1/G2/G3** options explicitly unapproved. **R3 audience/staff origin brief is recommended NEXT**, and any needed R2 choices may be bundled into one high-impact owner reply; R3–R7 are proposed future documentation work, not execution authorization.
+**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 recommended NEXT**; early audience source and specific mod powers still require owner approval. R4–R7 are planned documentation milestones, not authorization to enact scenes or implement software.
