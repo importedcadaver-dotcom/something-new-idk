@@ -1,5 +1,7 @@
 # R2 — Child Streamer Authority, Caregiving and Moderation Boundaries v0.1
 
+> **DIRECT OWNER APPROVAL SUPERCEDES PRIOR “NONE APPROVED” OPTIONS (2026-11-08):** **G1 SELECTED**: Acorn ordinary decisions, routine care generally negotiated, serious-danger parent interventions proportionate and temporary. Also **Mommy is sometimes UNREASONABLY STRICT** (not always; not unlimited channel power). **Controller P1+P3 combined and platform F2** are approved. G2/G3 and P2/F1/F3 not chosen. Earlier G1/G2/G3 listed as alternatives below are **historical**, with G1 now **canon**. [R2 decision](../decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md) · [integrated approved baseline](ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md). Exact emergency threshold/technical procedure and routine refusal resolution OPEN.
+
 **Date:** 2026-11-08  
 **Classification:** **PROPOSED SYSTEM RULES — NOT USER APPROVED.** Built from [Q47 channel autonomy](../decisions/Q47_STREAM_CONTENT_APPROVED.md), [Q60–61 chat/TTS](../decisions/Q61_CHAT_TTS_A_B_D_E_F_G_H_APPROVED.md), [Q66 private suite/care rights](../decisions/Q66_SUITE_PRIVACY_ACCESS_B_C_D_E_F_APPROVED.md), [R1 agency proposal](../character/ACORN_R1_CHARACTER_ROUTINE_FAMILY_AGENCY_SYSTEM_v0.1.md), and [R2 studio workflow](ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md). No new automatic parental control, platform rule, legal status or family incident is being adopted.
 
