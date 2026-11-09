@@ -1,5 +1,8 @@
 # Bear Cub Streamer — Current Canon Checkpoint v0.1 (Through Q75)
 
+> **R1 written design overlay, 2026-11-08:** [R1 routine and independent family agency framework](character/ACORN_R1_CHARACTER_ROUTINE_FAMILY_AGENCY_SYSTEM_v0.1.md) and [16 hypothetical paper QA cases](reviews/R1_CHARACTER_AGENCY_SCENARIO_PAPER_TESTS_v0.1.md) were authored following the project roadmap rebase. These documents **organize approved traits and propose, but do not approve, new behavior or caregiver override policies**. This checkpoint's direct approval list remains as through Q75. R2 physical equipment and parent/child channel-governance rules remain OPEN.
+
+
 **Date:** November 8, 2026  
 **Purpose:** One **authoritative-to-date reading guide** for the working world bible and Q44–75 decisions, without pretending this file itself supersedes users' original answers. This is a **working synthesis, NOT a user-signed final bible**, not new character lore or a new game spec.
 
