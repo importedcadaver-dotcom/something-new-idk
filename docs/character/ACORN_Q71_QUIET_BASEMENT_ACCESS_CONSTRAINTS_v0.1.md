@@ -1,5 +1,7 @@
 # Q71 — Quiet Under-Bed Basement Access: Character and Safety Consistency v0.1
 
+> **Q72 subsequent approval (2026-11-08):** User selected **A+D** hidden paw-open floorboard hatch, **crawl beneath partly hollowed bedframe**, **cramped ENTRANCE ONLY**, with larger transition to Q71 approved stairs and quiet mechanical lift. This updates earlier 'cover undecided' statements only at the choice-category level; exact actuation/geometry still OPEN. The natural spatial analogy is beaver **lodge/bank den**, *not* a dam or underwater access. [Q72 direct approval](../decisions/Q72_BEAVER_INSPIRED_CRAWL_ENTRY_A_D_APPROVED.md) · [wildlife research](../research/BEAVER_DEN_ENTRANCES_AND_ACORN_Q72_DESIGN_COMPARISON.md).
+
 **Status:** Written-only design interpretation of [direct Q71 B+C+E+F approval](../decisions/Q71_QUIET_MECHANICAL_LIFT_STAIRS_AND_RUDY_ASSIST_B_C_E_F_APPROVED.md). Nothing here is a mechanically functional design or a guarantee of legal/building or biological safety.
 
 ## Directly approved access functions
@@ -51,7 +53,7 @@ This is a **relationship sketch**, not a selection of parallel shafts, room posi
 
 ## Later decisions that could be useful — proposals only
 
-- **Q72 proposed:** The kind of hidden **floorboard/under-bed cover** and the simple, paw-usable way Acorn opens it. How it relates to B/C routes stays open.
+- **Q72 COMPLETED:** Concealed under-bed floorboard hatch, **paw-operable automatic opening**, partly hollowed bedframe and narrow crawl into roomier access. The exact trigger hardware and route/operability are still OPEN. **Q73 PROPOSED:** choose paw-operation/interface or prioritize a consistency/safety paper audit.
 - **Further:** How quiet is quiet in terms of *fictional perceptibility*, where stairs and lift physically sit, and safe access/evacuation while parents still do not know it exists.
 - **Factual plausibility paper audit:** Excavation, basic underground ventilation, egress, structural and concealment risks should not be labeled resolved by a story choice.
 
