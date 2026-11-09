@@ -1,5 +1,7 @@
 # Q73 — Hidden Hatch Paw-Pressure Activation + Manual Fallback (APPROVED A+E)
 
+> **Q74 subsequent direct approval (2026-11-08):** User selected **D — all three Acorn, Rudy and Rudy's unnamed polar-bear girlfriend can independently operate Q73's manual hatch fallback, with different degrees of ease**. Relative ease, how the fallback works and where the control sits remain OPEN. This does not create an extra emergency override or reveal H2 to parents. See [Q74 approved decision](Q74_MANUAL_HATCH_FALLBACK_ALL_THREE_D_APPROVED.md).
+
 **Recorded:** November 8, 2026  
 **Direct owner statement:** “no i ment the entrance to under his bed is cramped NOT the basement entrace is cramped A+E”.  
 **Selections:** **A — concealed paw-pressure spot** and **E — manual fallback**, and a **binding clarification/correction to Q72's spatial interpretation**.  
@@ -65,4 +67,4 @@
 
 Manual fallback details; paw-spot visibility and operation; quietness/maintenance of the hatch itself; exact room widths and soft/firm clearances; how cub safely enters/exits and how emergency rescue works when parents are unaware; plausibility of an undiscovered substantial excavation and lift in a staffed estate. No method, measurement, magical solution, dated incident, scene, illustration, code or gameplay is approved by Q73.
 
-**Proposed Q74:** choose whether to flesh out the manual fallback (what a cub can operate safely), or conduct a written consistency and safety audit before more room amenities. Continue in short **plain-text choices with Other/custom**, no interactive form.
+**Q74 COMPLETED:** D means Acorn/Rudy/unnamed polar-bear girlfriend can all manually operate the hatch, differently easily. **Proposed Q75:** choose the fictional physical style of manual control (not actual engineering) or conduct a written safety/consistency audit. Continue short plain-text choices with Other/custom.
