@@ -1,5 +1,7 @@
 # Q68 — Acorn Has Two Distinct Secret Hiding Spots (APPROVED)
 
+> **Q69 subsequent direct approval (2026-11-08):** Owner chose **E + custom**: the second **sleeping-room H2 is an excavated basement under Acorn's BED and FLOORBOARDS**; it is not a normal cupboard/crawlspace. Rudy and his unnamed polar-bear girlfriend did most of the building, Acorn participated, **both mothers still do NOT know**. See [Q69 approved basement decision](Q69_HIDDEN_BEDROOM_EXCAVATED_BASEMENT_E_APPROVED.md) and [Q69 spatial/knowledge specification](../character/ACORN_Q69_UNDER_BED_BASEMENT_SPATIAL_AND_CANON_SPEC_v0.1.md). This supersedes *only* the Q68 earlier statement that H2's entrance style was undecided; actual hidden opening mechanics remain open.
+
 **Recorded:** November 8, 2026  
 **Authority:** User's direct Q68 custom response. This is an affirmative new spatial/backstory decision, not a hypothetical option.  
 **Source response:** “he has multiple, one that his parents had built for him in the hallway directly across from the gaming studio behind a secret bookshelf door and then he and rudy (mostly rudy and rudys girlfriend) build a secret one that his parents dont know about in his sleeping room”  
@@ -67,4 +69,4 @@ The drawing is **explanatory, not measured or architecturally oriented**. The ha
 
 Hideout 2's entrance mechanism; hideouts' sizes, fittings, wiring, ventilation, emergency exits, whether either is soundproof, how they were funded, precise origin date, direct human labor involvement, whether Acorn's moms would approve of the second, any scene with its discovery, and exact family/emergency policy.
 
-**Next proposed Q69:** Choose the *secret bedroom nook's concealment mechanism and character-access boundaries*, with Other/custom. For safety consistency, later address how a caregiver could locate/reach Acorn during an emergency **without assuming the parents already know the spot**. Or prioritize design of both hideouts' distinct functions/interiors. No part of this proposal is canon until the user selects it.
+**Q69 completed:** E + under-bed/floorboards excavated basement approved. **Proposed Q70:** decide what Acorn uses H2 for, then separately decide physically safe access and emergency-discovery considerations. Do not assume his mothers know or that any unchosen furniture or secret-hatch mechanism exists.
