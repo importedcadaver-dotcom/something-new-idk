@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Character Reference / Cast Refresh v0.1 (through Q63)
 
+> **Q68 later canon addition (2026-11-08):** Rudy and his **unnamed polar-bear girlfriend** did **most of the work helping Acorn build a secret hideout in Acorn's sleeping room**, which **Mama and Mommy do not know exists**. This adds a concrete cooperation fact without naming girlfriend or approving any new scene, motive or tools. The parents separately had a hallway hideout built behind a secret bookshelf directly opposite Acorn's studio. See [Q68 decision](../decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md). The original Q63-era cast descriptions remain otherwise intact.
+
 **As of:** 2026-11-08  
 **Status:** Read-only synopsis of already approved/working cast details; Q63 relationship-based comfort ranking is the only newly recorded decision in this phase. **No new cast members, names, scenes or designs have been invented.**  
 **Primary working source:** [Canon Bible v1.1.1](../BEAR_CUB_STREAMER_CANON_BIBLE_v1.1.1.md) (working; not signed off). Later direct [Q44–45](../decisions/Q44_Q45_APPROVED.md), [Q46](../decisions/Q46_ACORN_VOICE_APPROVED.md), [Q48–55 visual canon](../ACORN_VISUAL_CANON_SHEET_v0.3.md), [Q62](../decisions/Q62_ACORN_OFF_CAMERA_EMOTIONAL_BEHAVIOR_A_TO_G_APPROVED.md) and [Q63](../decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) override older open notes.
