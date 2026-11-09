@@ -1,5 +1,7 @@
 # Acorn — Q64 Comfort Objects, Private Habits & Bedroom Design Dependencies v0.1
 
+> **Q68 subsequent direct approval (2026-11-08):** Acorn has **two approved separate retreat locations**, not one unplaced nook. **H1** behind a secret bookshelf door in the Q67 hallway across from studio, parents had it built; **H2** concealed in sleeping room, built with Rudy and unnamed girlfriend (mostly them), **parents unaware**. See [Q68 direct approval](../decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md). Q64 comfort objects remain unassigned to either hideout; their exact furnishings and H2 secret access remain open.
+
 > **Q65 subsequent direct decision (2026-11-08):** Owner selected **D**, a connected personal suite with **sleeping room, playroom and gaming/streaming studio**. See [Q65 approval](../decisions/Q65_BEDROOM_SUITE_D_APPROVED.md) and [Q65 written architecture constraints](ACORN_Q65_CONNECTED_SUITE_DESIGN_CONSTRAINTS_v0.1.md). This resolves the basic room-zoning choice, NOT internal connections, floors, layout, furniture, private nook location or technology.
 
 **Status:** TEXT-ONLY synthesis of directly approved [Q64 A+B+D+E+F+G+H](../decisions/Q64_COMFORT_OBJECTS_AND_PRIVATE_HABITS_APPROVED.md). **Q64 C unselected.** Proposed spatial and behavior interpretations are marked as such; no new details are automatic canon.
