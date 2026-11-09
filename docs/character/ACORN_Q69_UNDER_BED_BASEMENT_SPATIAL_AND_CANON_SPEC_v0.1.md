@@ -1,5 +1,7 @@
 # Q69 — Under-Bed Hidden Basement: Spatial, Character and Safety Design Spec v0.1
 
+> **Q70 later explicit approval (2026-11-08):** ALL **A+B+C+D+E+F+G** established H2 functions: soft cozy den, secret sibling/girlfriend clubhouse, hidden toys, TV and games, Rudy's sometimes-parent-disapproved items (unidentified), spacious luxurious distinct areas, and gradual redecoration/change. See [Q70 direct decision](../decisions/Q70_BASEMENT_ALL_SEVEN_USES_APPROVED.md) and [Q70 functional-zones brief](ACORN_Q70_BASEMENT_FUNCTIONAL_ZONES_AND_CONSTRAINTS_v0.1.md). Q69 historic statement that furnishings were not placed is now superseded in these *general classes*, not exact items or locations.
+
 **Authority:** [Direct Q69 E+custom approval](../decisions/Q69_HIDDEN_BEDROOM_EXCAVATED_BASEMENT_E_APPROVED.md), following Q68's [two-hideout decision](../decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md).  
 **Scope:** Text-only descriptive fiction-design system. **No construction plan**, engineering instructions, scene, gameplay, artwork, or program.
 
@@ -62,4 +64,4 @@ Keep Q44 toddler-equivalent cognition, Q45/Q62 emotional behavior, Q63 rankings,
 
 ## Next step proposal
 
-**Q70** could focus on **how Acorn uses the basement** (quiet retreat, play space, a place to keep possessions, time with Rudy, different uses by mood) before additional engineering. A separate later decision can establish **safe entry/access** while maintaining parental secrecy. The user can answer with combinations and **Other/custom**, plain text only.
+**Q70 COMPLETED:** all seven H2 use classes approved. **Q71 PROPOSED:** physical cub-safe entrance/descent/exit through under-bed floorboards; exact mechanism and emergency policy still require direct choices. Continue plain-text interview with **Other/custom**.
