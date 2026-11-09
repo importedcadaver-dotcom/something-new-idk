@@ -47,16 +47,16 @@
 
 **Exit test: PASSED at paper-design level.** Sixteen counterfactual situations offer plausible, context-sensitive alternative responses without a mandatory script or an approved new historical event. **NOT RESOLVED:** exact routine-care priority, staff permissions and genuine-emergency override policy require owner approval, and H2 emergency rescue plausibility is still unverified. This is NOT an executed NPC test.
 
-### R2 — Physical streaming studio and bear-world platform/technical feasibility
+### R2 — Physical streaming studio and bear-world platform/technical feasibility (WRITTEN v0.1 RESEARCH/SPEC/PAPER QA COMPLETE; owner decisions OPEN)
 
-**One written equipment and workflow spec** covering:
+**Written deliverables now available:** [R2 studio and bear-paw Fortnite workflow v0.1](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [R2 caregiver/channel governance options](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [official device/platform policy research](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [R2 22-scenario paper QA](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md). **This completes the written research/design/testing draft, not user approval of its P/F/G choices or physically validated equipment.** Planned scope:
 - A six-month, mostly quadrupedal chubby cub with large paws can plausibly play **actual Fortnite** through **bear-adapted controls**; exact devices and interface technologies remain choice-gated.
 - Video camera and mic *physical* setup, eye-level monitor, TTS/chat workflow, moderation input, stop/go live and staff assistance (distinct from Q58–61 stream-overlay positions).
 - Bear-only internet, possible fictional vs literal platform choice, no automatic import of unchanged real-world service age rules.
 - Who can intervene in *emergencies*, and limits preserving Acorn's genuine ordinary channel authority.
 - Image/audio rights, reaction material and age-appropriate content access remain open; Q57 references aren't past events.
 
-**Exit test:** A paper walk-through from Acorn wanting to play, through controls and live chat/TTS, to stopping or a caregiver interruption, without requiring human hands or invented powers. **No actual game setup build.**
+**Exit test: PASSED at conceptual paper level.** Acorn-input → genuine Fortnite → capture/on-screen overlays → moderated chat/TTS → Acorn pause/stop workflow is documented. **Blocked for final hardware/world law:** two-axis + auxiliary input feasibility; separate fictional bear internet game distribution; owner-approved safety/parent intervention boundaries. No device or runtime game built.
 
 ### R3 — Audience, staff and early channel causality
 
@@ -120,6 +120,6 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 5. For historical voices, preserve exceptionally early reading + toddler judgment, independent sibling behavior and emotional nuance; no static mandatory emotional script.
 6. Keep any requested GitHub updates traceable and verify fetch-back. Old historical checkpoints should keep their original factual provenance rather than being erased.
 7. User-selected on-screen layout is **not** a room camera blueprint; users may revise any later proposal.
-8. The *next assistant substantive work* after the prepared R1 paper framework is **R2 a grounded bear-operable streaming studio + governance workflow**, while keeping unresolved caretaker intervention boundaries labeled PROPOSED until user decides. R4 targeted H2 plausibility audit is a separate later focus. Do **not** immediately ask Q76 about lever fittings.
+8. The *next assistant substantive work* after prepared R2 concept work is **R3 audience discovery, staff roles and early popularity causality without new fictional incidents**, while F1/P1/G1 are **recommendations ONLY**. R4 targeted H2 plausibility remains later. Do **not** immediately ask Q76 about lever fittings.
 
-**Roadmap status:** R0 complete; **R1 written design packet and paper test suite COMPLETED AS NONCANONICAL DRAFTS**, pending any owner approval of policy. **R2 is recommended next**. R2–R7 remain proposed future documentation milestones, not scheduled or approved for implementation.
+**Roadmap status:** R0 complete; R1 written noncanonical design/tests complete; **R2 written documentation/research and 22 paper tests COMPLETE AS A DRAFT**, with controller **P1/P2/P3**, platform **F1/F2/F3** and governance **G1/G2/G3** options explicitly unapproved. **R3 audience/staff origin brief is recommended NEXT**, and any needed R2 choices may be bundled into one high-impact owner reply; R3–R7 are proposed future documentation work, not execution authorization.
