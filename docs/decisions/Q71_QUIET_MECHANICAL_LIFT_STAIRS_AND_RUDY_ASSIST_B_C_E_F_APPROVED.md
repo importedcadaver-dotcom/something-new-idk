@@ -1,5 +1,7 @@
 # Q71 — Acorn's Quiet Basement Lift, Wide Stairs, and Rudy's Help (B+C+E+F APPROVED)
 
+> **Q72 subsequent direct approval (2026-11-08):** Owner selected **A+D** plus a partly hollowed **under-bed bedframe**, an **under-bed crawl**, and a **concealed paw-activated floorboard hatch**. **Only the entrance is cramped**; it widens to spacious H2 access. Wildlife research identified **beaver lodge/bank den entry** (not a dam, no water) as the spatial model. The Q71 wide cub stairs + **QUIET lift** remain independently approved beyond the entrance. See [Q72 decision](Q72_BEAVER_INSPIRED_CRAWL_ENTRY_A_D_APPROVED.md) and [beaver comparison research](../research/BEAVER_DEN_ENTRANCES_AND_ACORN_Q72_DESIGN_COMPARISON.md). The access geometry, mechanisms and safety still need review.
+
 **Recorded:** 2026-11-08  
 **Direct user selection:** “B+E+F+C but like it gots to be quiet mechanical”  
 **Normalized direct approval:** **B+C+E+F**, with an explicit **quiet-operation requirement for the mechanical lift**.  
