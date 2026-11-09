@@ -157,7 +157,7 @@ The process must accommodate **non-events** (a parent passes by without noticing
 
 **Lower impact / acceptable to defer:** Plush identity, bedtime exact minute, particular cabinet contents, number of daily snacks, H2 lever force, precise sibling dispute frequency, narration format, first named chat member.
 
-**R1 working conclusion:** The approved cast and emotional canon are rich enough to make **multiple plausible reactions** intelligible. The remaining need is a consolidated governance choice and an R2 physical streaming system, **not another basement hatch option**.
+**R1 working conclusion:** The approved cast and emotional canon are rich enough to make multiple plausible reactions intelligible. The [R2 technical studio proposal](../streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md) and [governance choices](../streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md) have since been written; **they are not ratified canon**. There is no reason to return to basement hatch details now.
 
 ## 10. Completion and source integrity
 
