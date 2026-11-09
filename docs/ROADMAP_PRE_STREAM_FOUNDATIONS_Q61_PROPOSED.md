@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Proposed Roadmap Pivot After Q61
 
+> **Q65 subsequent progress (2026-11-08):** User selected **D: a connected Acorn suite comprising sleeping room, playroom, and gaming/streaming studio**. The [Q65 direct approval](decisions/Q65_BEDROOM_SUITE_D_APPROVED.md) and [Q65 written constraints](character/ACORN_Q65_CONNECTED_SUITE_DESIGN_CONSTRAINTS_v0.1.md) define functions but no geometry, doors, furniture, camera mount or access policy. Proposed next Q66: personal privacy and who may enter, especially sibling/guest boundaries and caregiver safety. Continue short plain-text questions with Other/custom.
+
 > **Q64 subsequent progress (2026-11-08):** Directly approved **A+B+D+E+F+G+H** personal comfort objects/habits (special plush, blanket, Mama scent, secret nook, physical self-soothing, attachment and changeable favorites). **C gaming-possession comfort not approved.** See [Q64 decision](decisions/Q64_COMFORT_OBJECTS_AND_PRIVATE_HABITS_APPROVED.md) and [written room dependencies](character/ACORN_Q64_COMFORT_HABITS_AND_ROOM_DEPENDENCIES_v0.1.md). Next design choice is bedroom/sleep versus gaming-space arrangement, not original stream incidents; proposed full roadmap remains noncanonical.
 
 > **Q63 progress (2026-11-08):** The owner directly approved **F+G > E > A > B > C > D** as Acorn's contextual comfort preference (situation-dependent and initial resistance > toys/solitude > Mama > Mommy > Rudy > Millie). See [Q63 decision](decisions/Q63_ACORN_COMFORT_PREFERENCE_RANKING_APPROVED.md) and [cast refresher](character/CAST_REFRESH_Q63_v0.1.md). This specifies relationship priorities but **does not approve any particular private memories, comfort objects or incidents**. Next proposed character-first question Q64 can address actual objects/habits; plain text only.
@@ -31,7 +33,7 @@ Jumping straight into his earliest broadcasts would make the writer invent **una
 
 ### Recommended first actionable question
 
-**Q62–64 COMPLETED:** Seven off-camera emotional capacities; F+G > E > A > B > C > D comfort preferences; Q64 A+B+D+E+F+G+H soothing-object and hiding types. **Q65 PROPOSED:** decide spatial relationship between Acorn's sleep/play room and gaming/streaming room, with plain-text Other/custom. Exact object designs, floorplan and family incidents stay open.
+**Q62–65 COMPLETED:** Seven emotional capacities, Q63 contextual comfort hierarchy, Q64 soothing-object/hiding classes, **Q65 D connected sleeping/playroom/studio suite**. **Q66 PROPOSED:** decide privacy/access boundaries for these rooms and hiding nook with Other/custom. Internal floorplan and hardware remain open; no first-stream incident is authorized.
 
 **Don't turn this into an endless interview:** cap each subtopic to a few decisions with real consequences. After the personality and relationship foundations, move efficiently to the actual room/setup and community origin. A later written first-stream chronology is a better outcome than hundreds of inconsequential UI questions.
 
