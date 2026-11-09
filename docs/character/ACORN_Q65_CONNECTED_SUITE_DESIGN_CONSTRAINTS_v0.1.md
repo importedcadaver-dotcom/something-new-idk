@@ -1,5 +1,7 @@
 # Acorn's Q65 Three-Zone Bedroom Suite — Written Design Constraints v0.1
 
+> **Q66 subsequent direct approval (2026-11-08):** Owner selected **B+C+D+E+F** for privacy/access. **Sleep room private; playroom relatively welcoming BUT siblings still ask; Acorn controls studio guests; private hiding nook with caregiver emergency access; Mama/ Mommy retain care/emergency access.** No lock, door/corridor or incident approved. See [Q66 approval](../decisions/Q66_SUITE_PRIVACY_ACCESS_B_C_D_E_F_APPROVED.md) and [Q66 written access spec](ACORN_Q66_PRIVACY_AND_ACCESS_SPEC_v0.1.md). Older “privacy undecided” statements below are now historical for the chosen policy, but exact access mechanisms remain OPEN.
+
 **Status:** Text-only planning, grounded in [Q65 direct approval D](../decisions/Q65_BEDROOM_SUITE_D_APPROVED.md). Room adjacency, furniture, privacy, access, camera hardware and floorplan **remain proposals**. No floorplan image, scene or actual game/environment was created.
 
 ## 1. The three approved personal spaces
@@ -33,13 +35,10 @@ No fourth personal suite room, bathroom, snack bar, lounge, toy aquarium, monito
 6. Original Q6–17 provenance remains incomplete, and official working canon bible v1.1.1 remains not fully signed off.
 7. No visual production/gameplay/source code/scene generation; keep future interviews **plain text** (user reports UI lag).
 
-## Proposed Q66 next owner choice — not an automatic decision
+## Q66 completed; proposed Q67 next decision
 
-Choose one privacy/access policy for sleeping/play/streaming rooms, with **Other/custom**:
-- A: Acorn's private space is respected, but Mama/parent/approved carers may enter for safety.
-- B: More restrictive access; siblings and guests must ask, caregiver response as in A.
-- C: Playroom welcoming; sleep room private; studio requires Acorn's agreement outside emergencies.
-- D: Context-based hybrid combining protected personal retreat with family access and developmental safety.
-These are proposed alternatives, not approved details. If the user chooses a combination, clarify only whether actual conflict arises; do not invent locks, cameras or concrete incidents.
+**Q66 DIRECTLY APPROVED:** B+C+D+E+F in the user's Q66 menu, not the shorter historical proposal menu above: **knocking/permission normally; Mama/ Mommy care/emergency access; comparatively welcoming playroom with sibling consent; private sleep room; Acorn controls studio guests; protected nook; context flexibility. Q66 A NOT selected.**
+
+**Q67 PROPOSED:** choose the relative connection of sleeping room, playroom and studio, with plain-text choices and Other/custom. Exact room adjacency, physical entrance, doors, technology and hiding-nook position remain unapproved.
 
 **No images, scenes, gameplay, audio or coding.**
