@@ -1,5 +1,7 @@
 # Q74 — Manual Hatch Fallback Usable by Acorn, Rudy and Rudy's Girlfriend (APPROVED D)
 
+> **Q75 subsequent direct approval (2026-11-08):** Owner chose **B**, a **broad, paw-friendly MANUAL LEVER** that releases the hidden H2 floorboard hatch without requiring the automatic system. **Acorn, Rudy and unnamed girlfriend can still all operate it**, exact ease ranking/force and lever placement remain OPEN. See [Q75 approved decision](Q75_BROAD_PAW_FRIENDLY_MANUAL_HATCH_LEVER_B_APPROVED.md). The cramped gap is only for getting UNDER the bed, NOT the hatch.
+
 **Recorded:** November 8, 2026  
 **Direct owner selection:** “d” (Q74 option D).  
 **Exactly approved:** **D — All three:** “Acorn, Rudy and his girlfriend can use it, with different levels of ease.”  
@@ -45,6 +47,6 @@ Not a scaled building plan; no real construction procedure.
 - Q44–65 emotional/developmental/streaming/appearance canon unchanged, including six-month-old mostly quadrupedal brown cub with characteristic **reddish-cinnamon anatomical RIGHT ear** and **light anatomical FRONT LEFT paw sock**; older Q6–17 evidentiary uncertainty persists.
 - Short **plain-text A–H + Other/custom** interview style remains required. No interactive-form UI.
 
-## Proposed Q75, not yet approved
+## Q75 completed; Q76 possible next step
 
-Define how manual opening feels/looks at a **fictional interface level** (e.g. large paw-friendly lever, pull ring, reachable press-bar, two-method combination, custom), or elect to do a paper safety/secret-construction consistency audit before choosing further mechanisms. Do not invent technical building instructions.
+**Q75 B approved:** broad paw-friendly manual lever releases hatch, operable by all three; exact mechanism/force/placement still OPEN. **Proposed Q76:** written safety/physical consistency and wealthy-estate secrecy audit, or further design of H2 use and furnishings. No technical building instructions.
