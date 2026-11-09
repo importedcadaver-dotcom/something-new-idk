@@ -1,5 +1,7 @@
 # Q67 — Acorn's Private Hallway (APPROVED C)
 
+> **Q68 subsequent direct approval (2026-11-08):** There are now **TWO approved distinct hiding places**. **H1's concealed bookshelf door is in the Q67 hallway DIRECTLY OPPOSITE THE GAMING STUDIO** (parents had H1 built). **H2 is in Acorn's sleeping room and was mainly built by Rudy and his unnamed polar girlfriend, with Acorn involved; both moms do NOT know H2**. See [Q68 direct decision](Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md) and [Q68 room/knowledge spec](../character/ACORN_Q68_DUAL_HIDEOUT_SPATIAL_AND_KNOWLEDGE_SPEC_v0.1.md). Q67's original “nook unassigned” and sketch are pre-Q68 historical statements; its illustrative geometry is not a final plan.
+
 **Recorded:** November 8, 2026  
 **Direct user response:** “C but show me like a diagram”.  
 **Explicitly approved option:** **C — Private hallway:** “A short personal hallway connects all three rooms, allowing Acorn to move between them without passing through another room.”  
@@ -44,6 +46,6 @@
 
 **Evidence limitation:** Q6–17 original answers not individually recovered. No new fictional backstory, specific stream, incident, timestamp, images, actual floorplan, gameplay or code.
 
-## Next proposed design interview (Q68, not approved)
+## Q68 completed; next proposed Q69
 
-**Where is Acorn's secret hiding nook within the suite?** Options could distinguish sleeping room, playroom, private hallway, studio or other/custom. All must respect Q66 caregiver safety exceptions and the still undecided exact architecture. Use **plain text** to avoid laggy forms.
+**Q68 approved TWO:** a parent-built hallway bookshelf retreat directly opposite studio and a second secret refuge built by Acorn/Rudy/Rudy's unnamed girlfriend in his sleeping room, **unbeknownst to Mama and Mommy**. See linked Q68 decision. **Q69 proposed**: choose concealment/entrance for secret bedroom refuge (no exact mechanism approved yet), plain-text Other/custom, while keeping future safety/caregiver-access details open.
