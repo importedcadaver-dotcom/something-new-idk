@@ -1,5 +1,7 @@
 # Acorn's Two Hidden Retreats — Spatial and Knowledge Specification v0.1
 
+> **Q69 subsequent direct approval (2026-11-08):** H2 is now specifically **a concealed EXCAVATED BASEMENT under Acorn's BED, accessed through/beneath sleeping-room FLOORBOARDS**, built mostly by Rudy and his unnamed polar-bear girlfriend, with Acorn involved. **Mama and Mommy still do not know H2.** Exact hatch and safe descent remain OPEN. See [Q69 decision](../decisions/Q69_HIDDEN_BEDROOM_EXCAVATED_BASEMENT_E_APPROVED.md) and [Q69 follow-on design spec](ACORN_Q69_UNDER_BED_BASEMENT_SPATIAL_AND_CANON_SPEC_v0.1.md). Historic 'entrance form unapproved' references below must be read as pre-Q69; the *specific mechanism* remains undecided.
+
 **Authority:** [Q68 direct user approval](../decisions/Q68_TWO_SECRET_HIDING_SPOTS_APPROVED.md). This file distinguishes **established facts** from unresolved technical design questions. No new fiction, visuals, gameplay, code or scenes.
 
 ## Established locations
@@ -57,6 +59,6 @@ No answer above is pre-approved.
 
 ## Proposed Q69 topic — plain text, Other/custom
 
-**H2 sleeping-room hiding-place construction style**: hidden panel under a bed, concealed wardrobe, false wall, recessed crawl space, or user's original idea. Treat names/entrance styles as proposals only until expressly selected; do not create a full architectural blueprint. Later choose who can access H1/H2 and safety consequences, while keeping Mama/Mommy unaware of H2 unless user explicitly changes that fact.
+**Q69 completed:** H2 is a secret excavated basement under bed/floorboards. **Q70 proposed:** clarify its intended social/personal uses, without pre-approving furnishings; safe access/construction feasibility and caregiver safety remain OPEN. Mama/Mommy's lack of knowledge unchanged.
 
 **Status:** design-only, no pictures, source code, gameplay, audio or narrated fictional scene.
