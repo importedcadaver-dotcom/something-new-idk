@@ -1,5 +1,8 @@
 # Bear Cub Streamer — Current Canon Checkpoint v0.1 (Through Q75)
 
+> **R2 later research and proposed technical layer, 2026-11-08:** [R2 bear-paw studio/game/stream concept](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [caregiving and moderation governance alternatives](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [real-world accessibility/age policies](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [22 paper acceptance tests](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md) were added. **None of the proposed physical hardware, platform F1–F3 or parent/staff intervention policies G1–G3 is owner-selected canon.** This checkpoint still catalogs direct approvals through Q75 only.
+
+
 > **R1 written design overlay, 2026-11-08:** [R1 routine and independent family agency framework](character/ACORN_R1_CHARACTER_ROUTINE_FAMILY_AGENCY_SYSTEM_v0.1.md) and [16 hypothetical paper QA cases](reviews/R1_CHARACTER_AGENCY_SCENARIO_PAPER_TESTS_v0.1.md) were authored following the project roadmap rebase. These documents **organize approved traits and propose, but do not approve, new behavior or caregiver override policies**. This checkpoint's direct approval list remains as through Q75. R2 physical equipment and parent/child channel-governance rules remain OPEN.
 
 
