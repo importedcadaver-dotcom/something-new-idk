@@ -1,6 +1,6 @@
-# Bear Cub Streamer — Current Status After Q75
+# Bear Cub Streamer — Current Status After Q75 (R1 Paper Draft Complete)
 
-**Snapshot date:** 2026-11-08  
+**Snapshot date:** 2026-11-08 (updated after R1 written design and paper test completion)  
 **Phase:** **DOCUMENTATION / WORLD BIBLE ONLY**. No gameplay, coding, generated art, scene writing, first-broadcast reenactment or fictional time advancement.  
 **Canon source:** [Post-Q75 approved canon checkpoint](POST_Q75_CANON_CHECKPOINT_v0.1.md).  
 **Audit:** [Project-wide audit](POST_Q75_PROJECT_WIDE_CANON_AND_ROADMAP_AUDIT_2026-11-08.md).  
@@ -8,6 +8,8 @@
 **Preserved older version of THIS file:** [Historical Q59–75 chronological status log](ROADMAP_STATUS_HISTORICAL_THROUGH_Q75_2026-11-08.md). Its old “Q59 latest / Q60 upcoming / Q66 proposed” wording was valid at earlier checkpoints, **not a description of current project state**.
 
 ## Current executive judgment
+
+> **Latest R1 written result:** [Acorn routine/family agency design v0.1](character/ACORN_R1_CHARACTER_ROUTINE_FAMILY_AGENCY_SYSTEM_v0.1.md) and [16 scenario paper tests v0.1](reviews/R1_CHARACTER_AGENCY_SCENARIO_PAPER_TESTS_v0.1.md) are now committed. They map personality, routine contexts, autonomous relative motives, ordinary channel/room authority vs care and emergency uncertainty, knowledge boundaries and possible consequences. **They are not new canon, played events, executed software or owner-approved intervention rules.** Main remaining high-impact decision: routine-care negotiation vs genuine emergency intervention; R2 physical stream workflow is next recommended.
 
 The project goal is a **coherent, character-driven fictional world bible** centered on Acorn HoneyDweller, a six-month-old wealthy baby brown bear gaming/lifestyle streamer. Medium and implementation decisions come **only after a separate owner approval**.
 
@@ -23,8 +25,8 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 | Workstream | Evidence available | Actual next dependency | Priority |
 |---|---|---|---|
 | Central premise / bear society | Canon bible v1.1.1 + multiple audits | Clarify remaining governance and character implications; maintain bear-only internet and separate Cynthia/Audrey powers | P1 |
-| Character appearance/voice/personality | Q44–55 and Q62–64 approved | Integrate context-dependent behavior into family/streaming ordinary routine, without mandatory scripting | P0 |
-| Acorn's family/social context | Roles and core dynamics established | Current knowledge, motives, care boundaries, ordinary situations; later chronology | P0 |
+| Character appearance/voice/personality | Q44–55/Q62–64 approved; **R1 character response matrix written** | Owner review if proposing new rules; do not script compulsory responses | R1 paper draft complete |
+| Acorn's family/social context | **R1 independently motivated seven-role cast matrix + 16 hypothetical paper tests completed** | Formal care/emergency boundaries and specific history OPEN | R1 paper draft complete |
 | Broadcast on-screen layout | Q47/Q57–61 approved | Don't overdesign overlay until physical setup exists | Deferred detailing |
 | Physical studio / platform / real Fortnite | References and intent established, few real hardware choices | Cub-safe paw controls, camera, mic, TTS, staff execution, platform identity/child safety rules | P0 |
 | Audience and support cast | Viewer categories and viral incident established; counts 500–2,000 before, 5,000–20,000 after | Staff/moderator roles, discovery model, named first viewers only if user approves | P1 |
@@ -47,9 +49,9 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 
 ## Milestone handoff order
 
-1. **R0 — CURRENTLY COMPLETE:** Document-level post-Q75 audit, condensed canon checkpoint, current roadmap, cleanup of README and status with archived originals.
-2. **R1 — RECOMMENDED NEXT:** One integrated **Acorn ordinary day, independent family interactions and care-vs-channel authority** paper design packet. No fixed schedule or enacted scenes.
-3. **R2:** Bear-operable real-game streaming setup and compatible child-safety/platform workflow.
+1. **R0 — COMPLETE:** Post-Q75 audit, condensed canon checkpoint and revised roadmap.
+2. **R1 — WRITTEN DESIGN DRAFT COMPLETE:** Character daily-life contexts, independent family motives, care/stream autonomy matrix and 16 paper tests (no owner-signed new governance rules).
+3. **R2 — NEXT RECOMMENDED:** Bear-operable real-game streaming setup and compatible child-safety/platform workflow; request a high-impact owner decision only where essential.
 4. **R3:** Audience, moderation, staff and bear-only internet origins, with established viral incident kept in correct relative order.
 5. **R4:** Chronology/corporate/social system continuity and a focused H2 plausibility paper audit.
 6. **R5:** Optional proposed written first-stream historical outline for later targeted owner approvals, not an automatically canonized episode.
@@ -58,7 +60,7 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 
 ## Checkpoints and next-use rules
 
-**Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R1**, not Q76's bed furniture. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
+**Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R2**, following the completed written R1 draft, not Q76's bed furniture. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
 
 **Status confidence:** This snapshot is grounded in the repository documents explicitly inspected for the post-Q75 audit; it is **not** a claim that every nested file has been individually re-reviewed or that final bible completeness, actual engineering or a playable experience has been verified.
 
