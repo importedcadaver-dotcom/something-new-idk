@@ -1,6 +1,6 @@
 # Bear Cub Streamer — Current Canon Checkpoint v0.1 (Through Q75)
 
-> **R2 later research and proposed technical layer, 2026-11-08:** [R2 bear-paw studio/game/stream concept](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [caregiving and moderation governance alternatives](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [real-world accessibility/age policies](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [22 paper acceptance tests](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md) were added. **None of the proposed physical hardware, platform F1–F3 or parent/staff intervention policies G1–G3 is owner-selected canon.** This checkpoint still catalogs direct approvals through Q75 only.
+> **HISTORICAL R2 OPTIONS (SUPERSEDED FOR P1+P3, F2 AND G1):** [R2 bear-paw studio/game/stream concept](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [caregiving and moderation governance alternatives](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [real-world accessibility/age policies](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [22 paper acceptance tests](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md) were added. **At the time these R2 v0.1 proposals were drafted, none had yet been owner-selected; the later direct user selection P1+P3/F2/G1 and Mommy strict-sometimes now supersedes that historical status.** See the NEW approved R2 section below.
 
 
 > **R1 written design overlay, 2026-11-08:** [R1 routine and independent family agency framework](character/ACORN_R1_CHARACTER_ROUTINE_FAMILY_AGENCY_SYSTEM_v0.1.md) and [16 hypothetical paper QA cases](reviews/R1_CHARACTER_AGENCY_SCENARIO_PAPER_TESTS_v0.1.md) were authored following the project roadmap rebase. These documents **organize approved traits and propose, but do not approve, new behavior or caregiver override policies**. This checkpoint's direct approval list remains as through Q75. R2 physical equipment and parent/child channel-governance rules remain OPEN.
@@ -55,6 +55,16 @@
 | [Q75 B](decisions/Q75_BROAD_PAW_FRIENDLY_MANUAL_HATCH_LEVER_B_APPROVED.md) | Manual fallback is a **broad paw-friendly lever** independently usable by Acorn | No real engineering feasibility approved |
 
 **Priority information boundary:** H1 **known** to the two moms; H2 **explicitly unknown** to them. This does not abolish Q66 caregiver care/emergency responsibilities, but no one may claim guaranteed emergency rescue or magically inform the parents. Some other relatives' H2 knowledge is merely **NOT ESTABLISHED**, not confirmed absent.
+
+## 2A. Subsequent direct R2 APPROVED canon (newer than Q75)
+
+**[Direct source — R2 selection](decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md)** · [Current integrated R2 baseline v0.2](streaming/ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md).
+
+- **Controller:** **P1+P3 together** — Acorn's own Fortnite inputs via TWO broad directional controls for front paws PLUS customized adaptive switches/sticks/action inputs. Not only P3, not P1 alone; no specific proven mechanical mapping or head-tracking P2 chosen.
+- **Platform:** **F2** fictionalized, recognizable Twitch-like streaming service with DIFFERENT fictional bear-world legal and age rules. No literal real Twitch account nor fixed brand/service name approved. Real Fortnite game access via bear internet still needs design.
+- **Caregiving:** **G1** Acorn-first ordinary channel control, generally negotiated routine care, temporary proportionate caregiver intervention for genuine serious danger; threshold and implementation OPEN. No automatic unlimited parent ban/editor control, no compulsory G2 schedule or G3 blanket routine-care override.
+- **Mommy trait:** **Mommy is sometimes UNREASONABLY STRICT** (direct owner custom). This coexists with her being a loving/involved mother, generous at other times, skilled Fortnite player who never intentionally loses, legitimate CEO. The fact she may be unreasonable does not automatically assign unilateral editorial authority or create any specific past punishment, public argument, scene or timeline.
+- **R3 after R2:** [Audience, staff and early fame system v0.1](streaming/ACORN_R3_AUDIENCE_STAFF_EARLY_FAME_SYSTEM_v0.1.md), [official service feature comparison](research/R3_MODERATION_COMMUNITY_PLATFORM_REFERENCES_2026-11-08.md), [24 paper QA checks](reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md) are PROPOSED working documentation. User has not chosen source of original pre-viral viewers, any named staff/first chatter or a new event. Q6–17 primary-answer gap remains.
 
 ## 3. Knowledge-specific guardrails for potential scenes (scenes themselves NOT authorized)
 
