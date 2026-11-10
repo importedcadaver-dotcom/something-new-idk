@@ -1,5 +1,8 @@
 # Bear Cub Streamer — Current Canon Checkpoint v0.1 (Through Q75)
 
+> **R5 PROPOSED HISTORY DOCUMENTS ADDED 2026-11-09 (NOT NEW CANON):** [Reviewable earliest broadcasts outline v0.1](streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md) and [24 conditional paper timeline tests](reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md). **No first public stream format, private test, date, staff member or viewer has been canonized**. The only approved milestones remain **R3 D=A+B+C initial audience** of 500–2,000 concurrent, the later food incident with platform warning/no sponsor and associated growth to 5,000–20,000 concurrent. R2 P1+P3/F2/G1 and Mommy's sometimes unreasonable strictness remain intact. R6 working bible review next; R4 H2 risk still OPEN.
+
+
 > **R4 AUDIT LAYER 2026-11-09 (NOT NEW CANON):** [R4 timeline/biology/corporate crime and secret H2 feasibility review](reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md), [30 paper scenario checks](reviews/R4_HONEYDWELLER_CONTINUITY_PAPER_TESTS_v0.1.md), and [official comparison research](research/R4_BEAR_BIOLOGY_EXCAVATION_SAFETY_RESEARCH_2026-11-09.md). **No user-approved facts removed**; R4 specifically flags as UNRESOLVED the large teen-built H2's excavation, staff/parent concealment and safe rescue, the adult age curve, Rudy exact age and Audrey/Cynthia chronology details. The latest DIRECT user canon remains R3 D=A+B+C plus R2 P1+P3/F2/G1 and Mommy's sometimes unreasonable strictness.
 
 
