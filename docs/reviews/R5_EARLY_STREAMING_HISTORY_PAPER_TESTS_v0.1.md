@@ -1,7 +1,9 @@
 # R5 — Early Acorn Stream History: 24 Paper Timeline Tests v0.1
 
+> **POST-TEST DIRECT OWNER APPROVAL 2026-11-09:** **R5 option A now canon:** first public stream was **Fortnite-first**, because Acorn wanted to play Fortnite and genuinely tried streaming his own gameplay. R5-T02 is updated below to PASS **for that limited direction only**, not any particular Fortnite match/outcome. All other unapproved narrative details remain UNKNOWN under [no invented canon policy](../PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md). [R5 decision](../decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md) · [approved-only R5 v0.2](../streaming/ACORN_R5_APPROVED_ONLY_FIRST_STREAM_AND_AUDIENCE_CANON_v0.2.md).
+
 **Date:** November 9, 2026.  
-**Status:** Counterfactual chronology/continuity checks only. **No live streams were enacted or canonized, no game was launched, no storyboard/movie/script was authored, and no fictional time progressed.**  
+**Status:** Counterfactual chronology/continuity checks only. **No actual live stream was enacted or performed, no game was launched, no storyboard/movie/script was authored, and no fictional time progressed. The direct user separately canonized only the general FIRST-stream Fortnite-first direction.**  
 **Primary companion:** [R5 reviewable outline](../streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md). Authority: [R3 A+B+C direct approval](../decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md), [R2 user choices](../decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md), [R4 timeline audit](R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md), [Q47 approved stream content](../decisions/Q47_STREAM_CONTENT_APPROVED.md).
 
 **PASS** means no canon conflict for the hypothetical claim; **OPEN** means requires a user decision; **FAIL** means a test claim must not be represented as canon. These results are paper reasoning, NOT implementation, empirical QA or approval of a hypothetical episode.
@@ -9,9 +11,9 @@
 | ID | Paper claim or hypothetical | Verdict / constraint |
 |---|---|---|
 | **R5-T01** | An initial channel/broadcast existed before the well-known later food incident | **PASS as a necessary relative inference** from established pre-viral viewers; exact origin not approved |
-| **R5-T02** | Acorn's very FIRST broadcast was definitely a Fortnite match | **OPEN**: authentic Fortnite gaming is canon, but first stream content is unchosen |
-| **R5-T03** | The first broadcast was definitely Just Chatting or toy play | **OPEN** for same reason; Q47 allows formats generally without selecting the first |
-| **R5-T04** | First stream was a specific mix of Fortnite, family and toys | **OPEN**: R5 mixed outline proposed, not approved event |
+| **R5-T02** | Acorn's first public stream was Fortnite-first: he wanted to play and genuinely tried streaming his own Fortnite gameplay | **PASS: newly DIRECTLY APPROVED R5 A**. A specific match, mode, score, result, actions, guest or footage is still UNKNOWN |
+| **R5-T03** | The first broadcast was primarily Just Chatting or toy play **instead of** being Fortnite-first | **FAIL if represented as the chosen debut direction**: R5 A was selected. Other content appearing at some point was not specified |
+| **R5-T04** | The Fortnite-first broadcast definitely included family members or toys alongside gameplay | **OPEN / NOT APPROVED**: R5 A does not establish any guests or extra activities, even if other content is possible in general Q47 |
 | **R5-T05** | A privately rehearsed test stream occurred with Mommy | **OPEN**: possible, unestablished first test and attendance |
 | **R5-T06** | Pre-viral discovery combined wealthy HoneyDweller fame, organic genuine Fortnite/chaotic cub personality and family media connections | **PASS**: **R3 direct D=A+B+C**; no exact share ranking |
 | **R5-T07** | Only family fame built 500–2,000 regular pre-viral viewers; gaming and promotion did not contribute | **FAIL**: violates D = all A+B+C |
@@ -46,10 +48,10 @@
 **EG09** G1 caregiver routine negotiations / proportionate serious danger can coexist with Mommy sometimes being excessively strict; neither writes a recorded scolding scene.  
 **EG10** The H2 basement stays unknown to both moms; Q73 geometry correction **only outer gap UNDER bed cramped**. No hidden footage or family discovery invented.  
 **EG11** R4 older T−17 Audrey succession, two litters and teen-equivalent Rudy keep relative age arithmetic; don't date stream events prematurely.  
-**EG12** “R5 outline complete” does not mean owner ratified a first broadcast, universe bible is final, software exists or fictional time advanced.
+**EG12** “R5 outline complete” plus direct approval of **A Fortnite-first** does not ratify any detailed first-broadcast episode, finalize the universe bible, create software or advance fictional time.
 
 ## Result
 
-**24 paper tests prepared.** The **CANON timeline anchors** are compatible with a coherent channel progression. The **details of first launch/first public stream, producer history, platform age law and exact elapsed durations are still OPEN**. The outline intentionally gives alternatives without changing history. Paper results can be checked again when a first-broadcast direction is explicitly selected.
+**24 paper tests prepared.** The **CANON timeline anchors** are compatible with a coherent channel progression. The **first public stream's Fortnite-first direction is APPROVED**; launch date, exact gameplay, producer history, platform age law, guest list and elapsed durations are still OPEN. The outline intentionally gives alternatives without changing history. Paper results can be checked again when a first-broadcast direction is explicitly selected.
 
 **Next (roadmap):** R6 is a **working v2 bible candidate and comprehensive owner-review checklist**, not automatic canon freeze; alternatively the user may select a single R5 first-public-stream direction if they want one recorded before R6.
