@@ -1,6 +1,6 @@
-# Bear Cub Streamer — Current Status After Q75 (R3 Origin D=A+B+C Approved)
+# Bear Cub Streamer — Current Status After Q75 (R4 Written Audit Complete)
 
-**Snapshot date:** 2026-11-08 (updated after direct P1+P3/F2/G1 + Mommy-strictness approval and R3 written audience/moderation work)  
+**Snapshot date:** 2026-11-09 (updated after R4 biology/family/secret-basement paper audit)  
 **Phase:** **DOCUMENTATION / WORLD BIBLE ONLY**. No gameplay, coding, generated art, scene writing, first-broadcast reenactment or fictional time advancement.  
 **Canon source:** [Post-Q75 approved canon checkpoint](POST_Q75_CANON_CHECKPOINT_v0.1.md).  
 **Audit:** [Project-wide audit](POST_Q75_PROJECT_WIDE_CANON_AND_ROADMAP_AUDIT_2026-11-08.md).  
@@ -8,6 +8,8 @@
 **Preserved older version of THIS file:** [Historical Q59–75 chronological status log](ROADMAP_STATUS_HISTORICAL_THROUGH_Q75_2026-11-08.md). Its old “Q59 latest / Q60 upcoming / Q66 proposed” wording was valid at earlier checkpoints, **not a description of current project state**.
 
 ## Current executive judgment
+
+> **LATEST R4 DOCUMENTATION RESULT 2026-11-09:** [R4 household/biology/dynasty and H2 feasibility audit](reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md), [30 conceptual continuity tests](reviews/R4_HONEYDWELLER_CONTINUITY_PAPER_TESTS_v0.1.md) and [official biological/excavation safety comparisons](research/R4_BEAR_BIOLOGY_EXCAVATION_SAFETY_RESEARCH_2026-11-09.md) committed. **No demonstrated logical conflict between directly approved user facts**; but high-priority physical/temporal **OPEN gaps** remain: teen-led luxury H2 construction under staffed estate and parent ignorance, safe emergency egress, and adult development/age/genealogy. NO cure or new lore approved. **R5 earliest-stream history outline NEXT as a noncanonical draft**, not an enacted first broadcast.
 
 > **LATEST DIRECT R3 DECISION, 2026-11-09:** User chose **D = A+B+C** for the **initial pre-viral 500–2,000 concurrent audience**: HoneyDweller family fame/wealth, organic interest in genuine Fortnite plus Acorn's adorable chaotic personality, and the family's media connections helping promote him. **All three required; contributions unquantified**. The later infamous food incident still causes the jump to **5,000–20,000 concurrent**. Names/campaign specifics/first-viewer details OPEN. [Direct decision](decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md). R4 remains next recommended documentation work.
 
@@ -30,14 +32,14 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 
 | Workstream | Evidence available | Actual next dependency | Priority |
 |---|---|---|---|
-| Central premise / bear society | Canon bible v1.1.1 + multiple audits | Clarify remaining governance and character implications; maintain bear-only internet and separate Cynthia/Audrey powers | P1 |
+| Central premise / bear society | Canon bible v1.1.1 + **R4 cross-system audit completed** | Adult-development model and Cynthia/Audrey chronology details remain OPEN | R4 paper complete |
 | Character appearance/voice/personality | Q44–55/Q62–64 approved; **R1 character response matrix written** | Owner review if proposing new rules; do not script compulsory responses | R1 paper draft complete |
 | Acorn's family/social context | **R1 independently motivated seven-role cast matrix + 16 hypothetical paper tests completed** | Formal care/emergency boundaries and specific history OPEN | R1 paper draft complete |
 | Broadcast on-screen layout | Q47/Q57–61 approved | Don't overdesign overlay until physical setup exists | Deferred detailing |
 | Physical studio / platform / real Fortnite | **R2 P1+P3 hybrid / F2 fictional bear Twitch-like platform / G1 caregiving DIRECTLY APPROVED** | Physical fit and switch actions, F2 age/law/name, staff threshold details OPEN | R2 choices approved; detail spec open |
 | Audience and support cast | **R3 direct origin A+B+C approved**, plus staff/fan role draft and 24 paper cases; 500–2,000 before and 5,000–20,000 after are established concurrency | Relative contributions, promotion specifics, exact first mod and F2 escalation rights OPEN | R3 origin approved; other system details proposed |
 | Suite and two hideouts | Q65–75 direct decisions | Keep canon frozen; targeted feasibility/secrecy check only | P1 *audit*; microhardware deferred |
-| Family chronology + corporation/crime | Pre-Q44 bible and systems audit | Rudy/mothers' actual ages, T−17 legitimate CEO succession, unknown old/new clandestine org relationships | P1 |
+| Family chronology + corporation/crime | **R4 timeline + corporation/crime separation audit complete** | Rudy/mothers' actual ages, developmental curve, T−17 transfer relationship to murders, secret group history OPEN | R4 paper complete |
 | Full bible integration/signoff | Existing v1.1.1 draft plus current checkpoint | Consolidated v2 working candidate, owner review, knowledge/provenance regression | P1 |
 | Art/story/game | None authorized | Separate owner decision AFTER world bible | Not started |
 
@@ -59,14 +61,14 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 2. **R1 — WRITTEN DESIGN DRAFT COMPLETE:** Character daily-life contexts, independent family motives, care/stream autonomy matrix and 16 paper tests (no owner-signed new governance rules).
 3. **R2 — USER CANON APPROVED (HIGH LEVEL):** P1+P3 input family, F2 bear Twitch-like platform, G1 caregiving, and Mommy sometimes unreasonably strict; physical/policy specifics remain OPEN.
 4. **R3 — ORIGIN CANON APPROVED / DESIGN DRAFT COMPLETE:** D=A+B+C family recognition + organic Fortnite/cub appeal + family media promotion for pre-viral audience; support roles and 24 paper cases still proposals.
-5. **R4 — NEXT RECOMMENDED:** Chronology/corporate/social system continuity and a focused H2 plausibility paper audit.
-6. **R5:** Optional proposed written first-stream historical outline for later targeted owner approvals, not an automatically canonized episode.
+5. **R4 — WRITTEN AUDIT COMPLETE:** Timeline and genealogy, dynasty vs criminal authority, H2 safety/secrecy/knowledge, 30 paper tests; unresolved risks explicitly retained.
+6. **R5 — NEXT RECOMMENDED:** A **noncanonical reviewable outline** of earliest channel chronology and audience origins, without first-stream enactment, dates or new historical incidents automatically approved.
 7. **R6:** Unified v2 **working** canon bible, verification tests and owner signoff.
 8. **R7:** Only if the owner separately selects future art, story, simulation or game implementation.
 
 ## Checkpoints and next-use rules
 
-**Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R4**, following the written R3 draft, not Q76's bed furniture. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
+**Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R5 noncanonical early-channel outline**, following the R4 written paper audit, not Q76's bed furniture. Major H2 plausibility gaps must remain visible in the final bible. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
 
 **Status confidence:** This snapshot is grounded in the repository documents explicitly inspected for the post-Q75 audit; it is **not** a claim that every nested file has been individually re-reviewed or that final bible completeness, actual engineering or a playable experience has been verified.
 
