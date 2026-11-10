@@ -1,5 +1,7 @@
 # R3 — Acorn Audience, Staff and Early Fame Paper Acceptance Tests v0.1
 
+> **DIRECT DECISION UPDATE 2026-11-09:** R3 origin **D = A+B+C** is now owner-approved. Initial family fame, **organic Fortnite/baby-cub personality discovery**, and family media connections ALL contributed to pre-viral 500–2,000 concurrent viewers, with relative amounts and concrete events OPEN. Therefore **R3-T03's earlier “unselected” interpretation is superseded**; **A alone** would now be incomplete, and a **combined explanation is required**. No change to the old hypothetical test's historic provenance. [Approval](../decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md).
+
 **Date:** November 8, 2026  
 **Status:** **Conceptual paper test suite only**. Hypothetical conditions are NOT historical broadcasts, viewer identities, real software execution, game development, publicity metrics or newly canonized events.  
 **Inputs:** [R3 proposal](../streaming/ACORN_R3_AUDIENCE_STAFF_EARLY_FAME_SYSTEM_v0.1.md), [direct R2 decision](../decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md), [R2 integrated baseline](../streaming/ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md), [Q47](../decisions/Q47_STREAM_CONTENT_APPROVED.md), [Q58–61](../decisions/Q61_CHAT_TTS_A_B_D_E_F_G_H_APPROVED.md), [canon checkpoint](../POST_Q75_CANON_CHECKPOINT_v0.1.md). External [moderation references](../research/R3_MODERATION_COMMUNITY_PLATFORM_REFERENCES_2026-11-08.md) are comparative, not F2 features by fiat.
@@ -10,7 +12,7 @@
 |---|---|---|
 | **R3-T01** | Character's **pre-viral** channel has 1,000 concurrent viewers | **PASS**, within approved 500–2,000. **DO NOT** infer exactly 1,000 was an actual measured past day or stable average |
 | **R3-T02** | Character's **post-viral** channel has 10,000 concurrent viewers | **PASS**, within approved 5,000–20,000; no actual sample date, peak or follower conversion |
-| **R3-T03** | Proposed source of the initial 500–2,000 is only celebrity dynasty curiosity | **OPEN**, potentially plausible but unselected; alternative gaming/cub appeal could matter |
+| **R3-T03** | Proposed source of the initial 500–2,000 is only celebrity dynasty curiosity | **FAIL under newly approved R3 D**: family fame A is a contributor, but the approved origin REQUIRES **B organic Fortnite/cub discovery** and **C family media promotion** as well. Relative shares OPEN |
 | **R3-T04** | Viral food scandal boosts viewers after the historically established incident | **PASS**: the *existence and direction* of this causal effect is directly approved; exact rates/media names UNCHOSEN |
 | **R3-T05** | A draft assigns a named first viewer, first mod and brand deal to his first stream | **FAIL**: names, first-stream event and sponsor history absent; no such history approved |
 | **R3-T06** | Some viewers are affectionate, some gaming-critical and others harassing | **PASS**: existing fan ecosystem has many distinct types, none necessarily present every stream |
@@ -36,6 +38,7 @@
 ## Especially risky silent assumptions
 
 - **Viewer range ≠ follower range**; two known concurrent ranges must not become average peak subscriber counts.
+- **NEW DIRECT CANON:** Initial 500–2,000 concurrent viewers result from **A family fame + B organic gaming/cub appeal + C family media connections**, without any approved split, named campaign or first viewer.
 - The **known single past incident** is already approved; R3 may analyze its *effects* but not invent camera transcript, first chatter who clipped it, old timestamp or media outlet.
 - Acorn's **P1+P3** controller and **F2** platform and **G1** caregiver policy are now direct canon; F1/P2/G3 are **unchosen options**, not equally live “pending” selected choices.
 - Mommy **sometimes unreasonably strict**, not “always cruel” and not automatically a legal channel admin; at the same time **G1** does not claim she always acts calmly or never overreaches.
