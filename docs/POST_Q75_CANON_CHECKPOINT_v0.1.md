@@ -1,5 +1,8 @@
 # Bear Cub Streamer — Current Canon Checkpoint v0.1 (Through Q75)
 
+> **CURRENT CONSOLIDATED REVIEW ARTIFACT — R6 2026-11-09:** [World Bible v2.0 WORKING CANDIDATE](BEAR_CUB_STREAMER_WORLD_BIBLE_v2.0_WORKING_CANDIDATE.md) and [35-condition source/canon regression review](reviews/R6_V2_WORKING_BIBLE_SOURCE_AND_CANON_REGRESSION_2026-11-09.md). **This historical checkpoint remains reference evidence**, but the new candidate collects later direct R2/R3/R5 decisions in one document, preserves all UNKNOWN details and **is NOT final-approved**. The user specifically prohibited inventing unapproved story facts; see [binding policy](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md). H2 rescue/excavation realism and incomplete original Q6–17 evidence remain OPEN.
+
+
 > **LATEST DIRECT R5 OWNER CHOICE + DOCUMENTATION REQUIREMENT 2026-11-09:** [R5 A first public Fortnite-first stream approval](decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md) — Acorn **wanted to play Fortnite and genuinely tried streaming his own gameplay on the FIRST public stream**. All match/date/age/guest/first-viewer/hardware-at-launch details UNKNOWN. **User forbids invented unapproved information in documents**: [Evidence policy](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md). Use [R5 approved-only v0.2](streaming/ACORN_R5_APPROVED_ONLY_FIRST_STREAM_AND_AUDIENCE_CANON_v0.2.md) for present history, not hypothetical v0.1 examples. R2/R3 approvals unchanged.
 
 
