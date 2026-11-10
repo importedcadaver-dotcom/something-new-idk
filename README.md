@@ -1,9 +1,12 @@
 # Bear Cub Streamer — World Bible
 
-**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 and Mommy sometimes-unreasonably-strict APPROVED; R3 D=A+B+C pre-viral audience origin APPROVED; R4 family/biology/dynasty/H2 paper audit and 30 paper cases COMPLETE. R5 proposed next. No scenes or game.**  
+**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 and Mommy sometimes-unreasonably-strict APPROVED; R3 D=A+B+C early audience origin APPROVED; R4 audit complete; R5 proposed early-broadcast chronology and 24 paper tests COMPLETE. First public stream NOT yet canon. R6 working-bible review next. No scenes or game.**  
 **Work type:** Fictional worldbuilding and canon audit **ONLY**. The owner chose **world bible first** (Q38). No final playable/narrative format, game code, image, animation, acting, historical scene or fictional clock advancement has been authorized.
 
 ## Start here — current source of truth
+
+- **[NEW R5 early-channel historical OUTLINE v0.1 — not yet approved events](docs/streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md)** — proposed private-test/first-public-broadcast possibilities, directly approved A+B+C initial audience drivers, pre-viral viewership, one known food incident and post-viral current scale; no invented past scenes.
+- **[NEW R5 24 paper timeline and source-integrity tests](docs/reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md)** — what can be inferred versus what still requires user approval; not software, footage or enacted gameplay.
 
 - **[NEW R4 HoneyDweller timeline, biology, corporate/crime and secret-basement plausibility audit](docs/reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md)** — comprehensive paper consistency review; preserves approved canon, labels missing explanations. NOT engineering certification.
 - **[NEW R4 30 counterfactual continuity tests](docs/reviews/R4_HONEYDWELLER_CONTINUITY_PAPER_TESTS_v0.1.md)** — pass/open/fail examples for chronology, genealogy, H2 rescue/secrecy and newest R2/R3 approvals. NOT runtime tests or enacted scenes.
@@ -70,8 +73,8 @@
 2. **R2 (APPROVED HIGH-LEVEL CHOICES):** P1+P3/F2/G1 and Mommy's strict-sometimes trait user-approved; written studio workflow and 22 earlier paper tests remain nonphysical, with detailed settings OPEN.
 3. **R3 (ORIGIN APPROVED; WRITTEN DRAFT COMPLETE):** A+B+C initial audience growth directly approved. Audience/staff categories, other early-fame causal hypotheses, research and 24 tests remain a design draft; named first viewers and precise events open.
 4. **R4 (WRITTEN AUDIT COMPLETE):** Timeline, two litters, 17-year company transfer, separate Cynthia network, H1/H2 knowledge and underground feasibility checked; genuine explanation gaps remain.
-5. **R5 (NEXT RECOMMENDED):** Proposal for earliest broadcast chronology **as a reviewable, noncanonical outline only**, using approved R3 A+B+C audience origin and later viral incident; no enacted first broadcast.
-6. **R6:** Consolidated working bible and explicit final owner acceptance.
+5. **R5 (WRITTEN OUTLINE COMPLETE, NOT CANON EPISODES):** Relative channel milestones, four **unapproved** first-public-stream concept options, A+B+C original audience, known viral incident and later audience. 24 paper tests completed.
+6. **R6 (NEXT RECOMMENDED):** Consolidated working v2 bible candidate and explicit owner review; R4 plausibility gaps and unapproved first-stream history remain visible.
 7. **R7:** Separate future decision whether to do art, interactive story, simulation or game.
 
 **Do not continue with automatic Q76–Q90 minor hatch/furniture choices.** The basement decisions are protected but *paused for now*. No approved facts are deleted by reprioritizing work.
