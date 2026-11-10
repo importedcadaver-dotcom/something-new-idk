@@ -1,9 +1,13 @@
 # Bear Cub Streamer — World Bible
 
-**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 + Mommy strict-sometimes APPROVED; R3 D=A+B+C PRE-VIRAL AUDIENCE ORIGIN APPROVED, R3 24-paper-test design draft complete. R4 next. No scenes or game.**  
+**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 and Mommy sometimes-unreasonably-strict APPROVED; R3 D=A+B+C pre-viral audience origin APPROVED; R4 family/biology/dynasty/H2 paper audit and 30 paper cases COMPLETE. R5 proposed next. No scenes or game.**  
 **Work type:** Fictional worldbuilding and canon audit **ONLY**. The owner chose **world bible first** (Q38). No final playable/narrative format, game code, image, animation, acting, historical scene or fictional clock advancement has been authorized.
 
 ## Start here — current source of truth
+
+- **[NEW R4 HoneyDweller timeline, biology, corporate/crime and secret-basement plausibility audit](docs/reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md)** — comprehensive paper consistency review; preserves approved canon, labels missing explanations. NOT engineering certification.
+- **[NEW R4 30 counterfactual continuity tests](docs/reviews/R4_HONEYDWELLER_CONTINUITY_PAPER_TESTS_v0.1.md)** — pass/open/fail examples for chronology, genealogy, H2 rescue/secrecy and newest R2/R3 approvals. NOT runtime tests or enacted scenes.
+- **[NEW R4 real-world brown/polar-bear and excavation/rescue source comparison](docs/research/R4_BEAR_BIOLOGY_EXCAVATION_SAFETY_RESEARCH_2026-11-09.md)** — NPS/FWS/OSHA/ICC sources used only as comparisons, not newly selected bear law.
 
 - **[NEW DIRECT APPROVED R3 ORIGIN D=A+B+C](docs/decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md)** — family fame, organic Fortnite/cub personality discovery, and family media promotion all contributed to the 500–2,000 pre-viral concurrent audience; proportions and specific first events unselected.
 
@@ -42,10 +46,10 @@
 
 | Workstream | Current status |
 |---|---|
-| Premise, cast, world, family/business/crime | Extensive **working documentation**, incomplete and still subject to final audit |
+| Premise, cast, world, family/business/crime | Extensive working lore and **R4 written continuity audit complete**, exact ages and knowledge/timeline details still OPEN |
 | Acorn's personality, baby voice, emotional preferences and appearance | **Many direct decisions approved** Q44–55 and Q62–64 |
 | Stream-screen modes, overlay, chat and TTS | **Design approved** Q47 and Q57–61; no real physical gear, code or renders |
-| Three-room suite, privacy and H1/H2 hideouts | **Deep written canon** Q65–75; physically plausible construction/safety and family secrecy still unresolved |
+| Three-room suite, privacy and H1/H2 hideouts | Q65–75 protected; **R4 high-priority physical/secrecy risk audit complete**; construction safety, rescue and how moms remained unaware still UNRESOLVED |
 | Ordinary Acorn/family routine, caregiver vs channel agency | **R1 paper packet complete; R2 G1 APPROVED**, with serious-danger thresholds and routine refusal details still OPEN |
 | Actual bear-operable Fortnite streaming workstation/platform | **P1+P3 controller family and F2 platform APPROVED**; exact hardware/platform law and physical feasibility OPEN |
 | Early audience, staff/moderation roles and first stream outline | **R3 D=A+B+C early audience drivers APPROVED**, role/growth model + 24 paper tests complete; specific campaigns, staff identities and first-stream history still OPEN |
@@ -65,8 +69,8 @@
 1. **R1 (WRITTEN DRAFT COMPLETE):** Character-led day-in-life, independent family behavior and caregiver-vs-channel authority framework. **Owner has not approved newly suggested behavioral rules.**
 2. **R2 (APPROVED HIGH-LEVEL CHOICES):** P1+P3/F2/G1 and Mommy's strict-sometimes trait user-approved; written studio workflow and 22 earlier paper tests remain nonphysical, with detailed settings OPEN.
 3. **R3 (ORIGIN APPROVED; WRITTEN DRAFT COMPLETE):** A+B+C initial audience growth directly approved. Audience/staff categories, other early-fame causal hypotheses, research and 24 tests remain a design draft; named first viewers and precise events open.
-4. **R4 (NEXT RECOMMENDED):** Biology/timeline, dynasty power, character knowledge and **targeted H2 secrecy/safety paper audit**. R3's missing initial discovery source may alternatively be decided first.
-5. **R5:** Proposal for earliest broadcast chronology *only with owner approval of history details*.
+4. **R4 (WRITTEN AUDIT COMPLETE):** Timeline, two litters, 17-year company transfer, separate Cynthia network, H1/H2 knowledge and underground feasibility checked; genuine explanation gaps remain.
+5. **R5 (NEXT RECOMMENDED):** Proposal for earliest broadcast chronology **as a reviewable, noncanonical outline only**, using approved R3 A+B+C audience origin and later viral incident; no enacted first broadcast.
 6. **R6:** Consolidated working bible and explicit final owner acceptance.
 7. **R7:** Separate future decision whether to do art, interactive story, simulation or game.
 
