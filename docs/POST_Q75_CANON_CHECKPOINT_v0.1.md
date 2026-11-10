@@ -1,5 +1,7 @@
 # Bear Cub Streamer — Current Canon Checkpoint v0.1 (Through Q75)
 
+> **LATEST DIRECT R3 AUDIENCE CANON 2026-11-09:** The user approved **D = A+B+C** as the pre-viral **500–2,000 concurrent-viewer audience origin**: HoneyDweller family fame, organic discovery of Acorn's genuine Fortnite gaming/adorable chaotic personality, and assistance from family media connections. **All three contributed; proportions, campaign specifics, first viewer, first stream and timing remain UNCHOSEN.** This latest approval supersedes earlier R3 “initial drivers open” wording, but NOT the separate later approved food incident causing growth to 5,000–20,000 concurrent. [R3 direct decision](decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md).
+
 > **HISTORICAL R2 OPTIONS (SUPERSEDED FOR P1+P3, F2 AND G1):** [R2 bear-paw studio/game/stream concept](streaming/ACORN_R2_BEAR_OPERABLE_STUDIO_AND_STREAMING_WORKFLOW_v0.1.md), [caregiving and moderation governance alternatives](streaming/R2_CHANNEL_CAREGIVING_MODERATION_GOVERNANCE_OPTIONS_v0.1.md), [real-world accessibility/age policies](research/R2_ACCESSIBLE_GAMING_REAL_PLATFORM_RULES_RESEARCH_2026-11-08.md), and [22 paper acceptance tests](reviews/R2_STREAM_STUDIO_AND_GOVERNANCE_PAPER_TESTS_v0.1.md) were added. **At the time these R2 v0.1 proposals were drafted, none had yet been owner-selected; the later direct user selection P1+P3/F2/G1 and Mommy strict-sometimes now supersedes that historical status.** See the NEW approved R2 section below.
 
 
@@ -65,6 +67,10 @@
 - **Caregiving:** **G1** Acorn-first ordinary channel control, generally negotiated routine care, temporary proportionate caregiver intervention for genuine serious danger; threshold and implementation OPEN. No automatic unlimited parent ban/editor control, no compulsory G2 schedule or G3 blanket routine-care override.
 - **Mommy trait:** **Mommy is sometimes UNREASONABLY STRICT** (direct owner custom). This coexists with her being a loving/involved mother, generous at other times, skilled Fortnite player who never intentionally loses, legitimate CEO. The fact she may be unreasonable does not automatically assign unilateral editorial authority or create any specific past punishment, public argument, scene or timeline.
 - **R3 after R2:** [Audience, staff and early fame system v0.1](streaming/ACORN_R3_AUDIENCE_STAFF_EARLY_FAME_SYSTEM_v0.1.md), [official service feature comparison](research/R3_MODERATION_COMMUNITY_PLATFORM_REFERENCES_2026-11-08.md), [24 paper QA checks](reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md) are PROPOSED working documentation. User has not chosen source of original pre-viral viewers, any named staff/first chatter or a new event. Q6–17 primary-answer gap remains.
+
+## 2B. Subsequent direct R3 audience-origin APPROVAL
+
+- [R3 approved D=A+B+C source](decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md): **A** HoneyDweller family celebrity and extreme wealth attracted attention; **B** organic viewers discovered his genuine Fortnite playing and adorable chaotic cub reactions; **C** family media connections promoted his channel. This **combined, non-equal-by-default mix** accounts for his earlier **500–2,000 concurrent** viewers. The separate existing food incident boosted concurrency to 5,000–20,000. No numeric contributions, first broadcaster, specific campaign, new scandal, sponsor or staff individual selected.
 
 ## 3. Knowledge-specific guardrails for potential scenes (scenes themselves NOT authorized)
 
