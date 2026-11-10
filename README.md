@@ -1,9 +1,12 @@
 # Bear Cub Streamer — World Bible
 
-**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 + Mommy sometimes unreasonably strict APPROVED; R3 D=A+B+C early audience origin APPROVED; R5 A FIRST PUBLIC STREAM FORTNITE-FIRST APPROVED. The exact debut event details remain UNKNOWN. R6 working-bible review next. NO INVENTED CANON. No scenes or game.**  
+**Current documentation status, November 9, 2026: R6 unified world bible v2.0 WORKING CANDIDATE and 35-condition source/continuity review complete, awaiting OWNER APPROVAL. R2 P1+P3/F2/G1 + Mommy sometimes unreasonably strict, R3 D=A+B+C, and R5 A Fortnite-first remain DIRECTLY APPROVED; all other unresolved details stay UNKNOWN. NO INVENTED CANON, scenes or game.**  
 **Work type:** Fictional worldbuilding and canon audit **ONLY**. The owner chose **world bible first** (Q38). No final playable/narrative format, game code, image, animation, acting, historical scene or fictional clock advancement has been authorized.
 
 ## Start here — current source of truth
+
+- **[CURRENT REVIEW DOCUMENT — UNIFIED WORLD BIBLE v2.0 WORKING CANDIDATE](docs/BEAR_CUB_STREAMER_WORLD_BIBLE_v2.0_WORKING_CANDIDATE.md)** — consolidates explicitly approved newer decisions, evidence-graded earlier records, character/family/stream/suite/dynasty knowledge and UNKNOWN gaps. **NOT yet signed off or frozen.**
+- **[R6 35-condition source and canon regression review](docs/reviews/R6_V2_WORKING_BIBLE_SOURCE_AND_CANON_REGRESSION_2026-11-09.md)** — 35 paper/document checks and 44 resolved source-document paths; no runtime/engineering/forensic historical verification.
 
 - **[MANDATORY DOCUMENTATION RULE: do NOT invent unapproved information](docs/PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md)** — record only grounded approved facts as canon; unresolved details stay UNKNOWN, old proposals are not approvals.
 - **[NEW R5 DIRECT APPROVAL A — FIRST PUBLIC STREAM WAS FORTNITE-FIRST](docs/decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md)** — Acorn wanted to play Fortnite and genuinely tried streaming his gameplay. Nothing else about the first broadcast is established by this answer.
@@ -79,7 +82,7 @@
 3. **R3 (ORIGIN APPROVED; WRITTEN DRAFT COMPLETE):** A+B+C initial audience growth directly approved. Audience/staff categories, other early-fame causal hypotheses, research and 24 tests remain a design draft; named first viewers and precise events open.
 4. **R4 (WRITTEN AUDIT COMPLETE):** Timeline, two litters, 17-year company transfer, separate Cynthia network, H1/H2 knowledge and underground feasibility checked; genuine explanation gaps remain.
 5. **R5 (A APPROVED; OTHERS UNKNOWN):** Fortnite-first debut direction directly selected; approved-only v0.2 consolidates it alongside the established A+B+C pre-viral audience and later single viral incident. Earlier options remain historical proposals, not canonical episodes.
-6. **R6 (NEXT RECOMMENDED):** Consolidated working v2 bible and explicit owner review **under mandatory no-invented-facts rule**; R4 safety gaps and all unspecified first-stream details remain UNKNOWN.
+6. **R6 (WORKING DRAFT + DOCUMENT QA COMPLETE; OWNER SIGNOFF PENDING):** Unified v2 working bible and 35-condition review published. R4 H2 safety and first-stream-specific details remain UNKNOWN; **do not call v2 frozen or approved without the owner's explicit acceptance**.
 7. **R7:** Separate future decision whether to do art, interactive story, simulation or game.
 
 **Do not continue with automatic Q76–Q90 minor hatch/furniture choices.** The basement decisions are protected but *paused for now*. No approved facts are deleted by reprioritizing work.
