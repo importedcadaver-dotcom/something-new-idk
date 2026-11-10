@@ -1,6 +1,6 @@
-# Bear Cub Streamer — Current Status After Q75 (R4 Written Audit Complete)
+# Bear Cub Streamer — Current Status After Q75 (R5 Review Outline Written)
 
-**Snapshot date:** 2026-11-09 (updated after R4 biology/family/secret-basement paper audit)  
+**Snapshot date:** 2026-11-09 (updated after R5 early-channel chronology outline and 24 paper tests)  
 **Phase:** **DOCUMENTATION / WORLD BIBLE ONLY**. No gameplay, coding, generated art, scene writing, first-broadcast reenactment or fictional time advancement.  
 **Canon source:** [Post-Q75 approved canon checkpoint](POST_Q75_CANON_CHECKPOINT_v0.1.md).  
 **Audit:** [Project-wide audit](POST_Q75_PROJECT_WIDE_CANON_AND_ROADMAP_AUDIT_2026-11-08.md).  
@@ -8,6 +8,8 @@
 **Preserved older version of THIS file:** [Historical Q59–75 chronological status log](ROADMAP_STATUS_HISTORICAL_THROUGH_Q75_2026-11-08.md). Its old “Q59 latest / Q60 upcoming / Q66 proposed” wording was valid at earlier checkpoints, **not a description of current project state**.
 
 ## Current executive judgment
+
+> **LATEST R5 DOCUMENTATION RESULT 2026-11-09:** [Early broadcast history REVIEW OUTLINE](streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md) and [24 proposed-history paper tests](reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md) committed. These clearly separate an unselected potential private test/first public format from **R3 DIRECT APPROVED A+B+C initial discovery and 500–2,000 PRE-VIRAL CONCURRENCY**, the one established food incident with warning/no sponsor, and **5,000–20,000 POST-VIRAL CONCURRENCY**. **No new episode, named viewer/staff, date, stream transcript or first-broadcast event approved.** R6 working unified canon bible review is recommended next; R4 H2 emergency/structural/secrecy gaps remain OPEN.
 
 > **LATEST R4 DOCUMENTATION RESULT 2026-11-09:** [R4 household/biology/dynasty and H2 feasibility audit](reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md), [30 conceptual continuity tests](reviews/R4_HONEYDWELLER_CONTINUITY_PAPER_TESTS_v0.1.md) and [official biological/excavation safety comparisons](research/R4_BEAR_BIOLOGY_EXCAVATION_SAFETY_RESEARCH_2026-11-09.md) committed. **No demonstrated logical conflict between directly approved user facts**; but high-priority physical/temporal **OPEN gaps** remain: teen-led luxury H2 construction under staffed estate and parent ignorance, safe emergency egress, and adult development/age/genealogy. NO cure or new lore approved. **R5 earliest-stream history outline NEXT as a noncanonical draft**, not an enacted first broadcast.
 
@@ -62,13 +64,13 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 3. **R2 — USER CANON APPROVED (HIGH LEVEL):** P1+P3 input family, F2 bear Twitch-like platform, G1 caregiving, and Mommy sometimes unreasonably strict; physical/policy specifics remain OPEN.
 4. **R3 — ORIGIN CANON APPROVED / DESIGN DRAFT COMPLETE:** D=A+B+C family recognition + organic Fortnite/cub appeal + family media promotion for pre-viral audience; support roles and 24 paper cases still proposals.
 5. **R4 — WRITTEN AUDIT COMPLETE:** Timeline and genealogy, dynasty vs criminal authority, H2 safety/secrecy/knowledge, 30 paper tests; unresolved risks explicitly retained.
-6. **R5 — NEXT RECOMMENDED:** A **noncanonical reviewable outline** of earliest channel chronology and audience origins, without first-stream enactment, dates or new historical incidents automatically approved.
-7. **R6:** Unified v2 **working** canon bible, verification tests and owner signoff.
+6. **R5 — WRITTEN OUTLINE COMPLETE (NOT CANON HISTORY):** Possible launch/test/first broadcast placeholders, approved A+B+C initial audience and separate known viral event, with 24 paper regression checks; no new episode created.
+7. **R6 — NEXT RECOMMENDED:** Unified v2 **working** canon bible candidate, verification tests and later explicit owner signoff (not automatic).
 8. **R7:** Only if the owner separately selects future art, story, simulation or game implementation.
 
 ## Checkpoints and next-use rules
 
-**Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R5 noncanonical early-channel outline**, following the R4 written paper audit, not Q76's bed furniture. Major H2 plausibility gaps must remain visible in the final bible. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
+**Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R6 unified working canon bible draft/review**, following R5's written noncanonical timeline. Any owner-selected first-public-stream direction could be added separately before final signoff. Major H2 plausibility gaps must remain visible in the final bible. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
 
 **Status confidence:** This snapshot is grounded in the repository documents explicitly inspected for the post-Q75 audit; it is **not** a claim that every nested file has been individually re-reviewed or that final bible completeness, actual engineering or a playable experience has been verified.
 
