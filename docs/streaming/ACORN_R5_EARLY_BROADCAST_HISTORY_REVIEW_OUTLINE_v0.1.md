@@ -1,5 +1,7 @@
 # R5 — Acorn's Early Channel History: Reviewable Outline v0.1
 
+> **SUPERSEDED WHERE DEBUT CONTENT WAS OPEN — R5 A APPROVED 2026-11-09.** The user directly chose **A: Fortnite-first** — Acorn wanted to play Fortnite and genuinely tried streaming his own gameplay. This is the ONLY newly approved first-public-broadcast fact. Exact match, performance, date, age, guests, first viewers, first hardware and other incident details remain UNKNOWN. **This v0.1 document is a historical set of noncanonical options, not a source of approved first-episode details.** Use [R5 approved-only v0.2](ACORN_R5_APPROVED_ONLY_FIRST_STREAM_AND_AUDIENCE_CANON_v0.2.md), [direct R5 approval](../decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md), and [no invented canon policy](../PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md).
+
 **Prepared:** November 9, 2026  
 **Status:** **PROPOSED NONCANONICAL CHRONOLOGY OUTLINE**, with explicit protected canon anchors. No first broadcast, original viewer, first moderator, character dialogue, invented viral event, date, video, image, gameplay, or passage of in-world time is created. No owner signoff on R5's unchosen detail options is implied by permission to continue the roadmap.
 
@@ -77,7 +79,7 @@ The precise gap between stages is **OPEN**: no weekly schedule, forced daily for
 - **R4:** At T=0 Acorn and Millie are six actual months; Rudy is teen-equivalent but actual age open; Audrey assumed no new birth/CEO chronology from content. Stream history does not create dates that conflict with her **T−17 ACTUAL YEARS** succession.
 - **Existing one viral event:** WARNING only, not permanent ban, sponsorship not attached then; before/after 500–2,000 and 5,000–20,000 **CONCURRENT** viewer bands. Not follower counts, view totals or a fabricated exact peak.
 
-## 3. Candidate earliest-public-broadcast concepts — all require selection
+## 3. Historical first-public-broadcast option set — A SELECTED, others NOT APPROVED
 
 These are **abstract outline directions**, not fictional scenes, episode transcripts, approved date or performed event.
 
@@ -91,7 +93,7 @@ These are **abstract outline directions**, not fictional scenes, episode transcr
 
 **IMPORTANT:** R3 **D=A+B+C audience-origin choice does NOT automatically select R5-D mixed first-stream content**. These are separate questions that happen to use the same letter.
 
-**Working editorial suggestion (NOT APPROVED):** Offer **A or D** as a plausible starting *concept*, because Acorn's real Fortnite playing and spontaneous content are both central. No need to decide now merely to finish the written outline. Family media promotion A+C can exist even if the debut is independently motivated.
+**Decision superseding the historical suggestion:** User chose **A Fortnite-first only**. Acorn wanted to play Fortnite and genuinely tried streaming his own gameplay. **B, C and D have NOT been selected as alternate debut formats**, and no specific additional content, events or dialogue has been approved. The original option table above remains for provenance only; do not transfer its unselected example details to canon.
 
 ## 4. Staff/viewer relationship genesis — proposed roles, no invented people
 
@@ -113,7 +115,7 @@ These are **abstract outline directions**, not fictional scenes, episode transcr
 
 | Priority | Owner-controlled missing detail | Safe handling for world-bible integration |
 |---|---|---|
-| **H1 — high** | General **first public broadcast identity/content** (A/B/C/D/Other above) | Keep a **choice-gated placeholder** in the bible rather than pretending episode exists |
+| **H1 — DIRECTLY APPROVED** | **R5 A Fortnite-first:** Acorn wanted to play Fortnite and genuinely tried streaming his gameplay | Record this exact direction as canon, with EVERY specific episode detail still UNKNOWN |
 | **H2 — high** | F2 childhood account legal structure while G1 preserves Acorn's creative control | Record as open governance; no current-world literal Twitch minor account |
 | **H3 — high** | How Acorn's intended actual P1+P3 controller was or was not available at channel launch | Distinguish current planned interface from early historical hardware; no retroactive implementation |
 | **H4 — medium** | Who managed earliest staff moderation/production and who helped launch | Preserve established types only; don't invent named hire or confirmed event |
@@ -132,7 +134,7 @@ These are **abstract outline directions**, not fictional scenes, episode transcr
 - [x] Channel authority, G1 care, F2 law uncertainty, P1+P3 *current concept*, family emotional/knowledge rules, and stream spontaneity preserved.
 - [x] No named first audience member, staff hire, title, day, brand, footage, crime discovery, additional scandal or sponsorship has been invented.
 - [x] Paper regression tests independently inspect chronology and evidence boundaries [R5 tests](../reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md).
-- [ ] **User approval pending** on any particular R5 debut direction. This is **NOT a blocker** to keeping the world-bible working draft honest.
+- [ ] **R5 A owner-approved after v0.1 drafting.** First public stream is **Fortnite-first** only; detailed incidents, hardware, people, date and context are **still NOT APPROVED**. See v0.2.
 - [ ] R6 future integration, full source reconciliation and final owner signoff still pending.
 
-**Result:** **R5 proposed outline complete**, not an approved fictional broadcast history, simulated story, playable game or final canon bible. Next roadmap work is **R6 consolidated v2 working canon bible candidate** with historical placeholders and unresolved R4 H2 risks clearly visible, unless user instead chooses a first-broadcast concept.
+**Result after direct selection:** **R5 A first-public-broadcast direction approved**; the rest of the outline remains noncanonical. No actual episode, specific Fortnite match, named viewer/staff, simulated story, playable game or final canon bible was created. Next roadmap work is **R6 consolidated v2 working canon bible candidate** with historical placeholders and unresolved R4 H2 risks clearly visible, unless user instead chooses a first-broadcast concept.
