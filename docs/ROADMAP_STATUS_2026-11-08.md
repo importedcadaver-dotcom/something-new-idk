@@ -1,6 +1,6 @@
-# Bear Cub Streamer — Current Status After Q75 (R5 A Approved; Strict Evidence Rule)
+# Bear Cub Streamer — Current Status After Q75 (R6 v2 Working Candidate for Owner Review)
 
-**Snapshot date:** 2026-11-09 (updated after R5 A direct approval and no-invented-canon user directive)  
+**Snapshot date:** 2026-11-09 (updated after R6 v2 working bible + 35-paper-check source review)  
 **Phase:** **DOCUMENTATION / WORLD BIBLE ONLY**. No gameplay, coding, generated art, scene writing, first-broadcast reenactment or fictional time advancement.  
 **Canon source:** [Post-Q75 approved canon checkpoint](POST_Q75_CANON_CHECKPOINT_v0.1.md).  
 **Audit:** [Project-wide audit](POST_Q75_PROJECT_WIDE_CANON_AND_ROADMAP_AUDIT_2026-11-08.md).  
@@ -8,6 +8,8 @@
 **Preserved older version of THIS file:** [Historical Q59–75 chronological status log](ROADMAP_STATUS_HISTORICAL_THROUGH_Q75_2026-11-08.md). Its old “Q59 latest / Q60 upcoming / Q66 proposed” wording was valid at earlier checkpoints, **not a description of current project state**.
 
 ## Current executive judgment
+
+> **R6 LATEST 2026-11-09:** [Unified World Bible v2.0 WORKING CANDIDATE](BEAR_CUB_STREAMER_WORLD_BIBLE_v2.0_WORKING_CANDIDATE.md) is committed, with a [35-condition canon/source review](reviews/R6_V2_WORKING_BIBLE_SOURCE_AND_CANON_REGRESSION_2026-11-09.md). This is **NOT a signed-off edition**: earlier Q1–5 evidence is excerpt-grade H and Q6–17 original individual messages remain incomplete, later direct approvals are cited, and all unchosen details remain UNKNOWN. The review confirmed **44 distinct local source paths resolve**, not that every historical claim was independently reverified. **NEXT ACTION is explicit owner review or targeted corrections; do not mark approved/frozen automatically.** R4 H2 structural/rescue/parent-ignorance realism remains OPEN.
 
 > **LATEST DIRECT R5 CANON + USER DOCUMENTATION RULE:** [First public broadcast A Fortnite-first approval](decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md) states **Acorn wanted to play Fortnite and genuinely tried streaming his own gameplay in his very first public stream**. No date, exact match, age at launch, guest or first-viewer history selected. Owner explicitly directed that documents **MUST NOT invent unapproved information**. See [mandatory evidence policy](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md), [approved-only R5 source checkpoint v0.2](streaming/ACORN_R5_APPROVED_ONLY_FIRST_STREAM_AND_AUDIENCE_CANON_v0.2.md). Earlier hypothetical R5 options are not approved scenes. **R6 working bible under source checking is next.**
 
@@ -67,12 +69,12 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 4. **R3 — ORIGIN CANON APPROVED / DESIGN DRAFT COMPLETE:** D=A+B+C family recognition + organic Fortnite/cub appeal + family media promotion for pre-viral audience; support roles and 24 paper cases still proposals.
 5. **R4 — WRITTEN AUDIT COMPLETE:** Timeline and genealogy, dynasty vs criminal authority, H2 safety/secrecy/knowledge, 30 paper tests; unresolved risks explicitly retained.
 6. **R5 — APPROVED FIRST-STREAM DIRECTION:** Owner directly selected **A Fortnite-first**; exact episode details UNKNOWN. Approved-only history v0.2 and older proposal notes available; no scenes performed.
-7. **R6 — NEXT RECOMMENDED:** Unified v2 **working** canon bible candidate, verification tests and later explicit owner signoff (not automatic).
+7. **R6 — WORKING CANDIDATE + DOCUMENT TESTS COMPLETE, OWNER SIGNOFF PENDING:** Source-graded v2 unified bible and 35 conditions checked. No invented details, no automatic approval.
 8. **R7:** Only if the owner separately selects future art, story, simulation or game implementation.
 
 ## Checkpoints and next-use rules
 
-**HIGHEST PRIORITY: No invented canon in documents.** [Direct user documentation evidence rule](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md): cite approved facts, leave UNKNOWN unresolved, don't promote old speculative paper cases into history. **Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive design unit is **R6 unified working canon bible draft/review**, following R5's written noncanonical timeline. The owner **has already chosen R5 A Fortnite-first**; other episode details still require future explicit approval. Major H2 plausibility gaps must remain visible in the final bible. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
+**HIGHEST PRIORITY: No invented canon in documents.** [Direct user documentation evidence rule](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md): cite approved facts, leave UNKNOWN unresolved, don't promote old speculative paper cases into history. **Preserve every explicitly approved fact; do not reopen Q65–75 by default.** “Next question number” is not an automatic reason for another minor hardware decision. The correct next substantive action is **OWNER REVIEW of the R6 unified working canon bible** (with targeted corrections or explicit final signoff); the v2 draft has now been written. The owner **has already chosen R5 A Fortnite-first**; other episode details still require future explicit approval. Major H2 plausibility gaps must remain visible in the final bible. The user prefers **short plain-text A/B/C plus Other/custom only when needed**; avoid large interactive forms.
 
 **Status confidence:** This snapshot is grounded in the repository documents explicitly inspected for the post-Q75 audit; it is **not** a claim that every nested file has been individually re-reviewed or that final bible completeness, actual engineering or a playable experience has been verified.
 
