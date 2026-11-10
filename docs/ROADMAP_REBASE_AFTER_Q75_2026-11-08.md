@@ -78,13 +78,13 @@
 
 **Exit test: PASSED as a qualified document-level consistency review.** No demonstrated direct-approval logical contradictions; **major P0 H2 construction/structural/safety/emergency rescue explanations remain UNRESOLVED**, as do adult development curve, parentage, exact Rudy age and past corporate/criminal chronology. Paper tests do NOT certify real engineering or fix secrets.
 
-### R5 — Earliest broadcasts/history: outline only after prerequisites
+### R5 — Earliest broadcasts/history: outline only after prerequisites (WRITTEN REVIEW OUTLINE + 24 PAPER TESTS COMPLETE; HISTORICAL DETAILS NOT CANON)
 
-**Deliverable:** An explicit, reviewable **proposed early-channel chronology outline** identifying: possible first private test, first public stream, early staff/viewer roles, gradual improvement, already-known viral event and aftermath. **This is not automatically permission to invent a canonical first-stream event.**
+**Written deliverables:** [R5 reviewable early streaming timeline v0.1](streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md) and [24 source-integrity/chronology paper cases](reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md). They distinguish **hypothetical private test and first-public-stream directions** from binding R3 D=A+B+C pre-viral origin, 500–2,000 concurrency, the sole established viral food incident, and 5,000–20,000 later concurrency. **No new history was approved by drafting the outline.**
 
 **Guardrail:** Acorn's normal voice/skills and feelings at each age must be consistent; no named audience member, incident, date or dialogue is canon without later direct approval.
 
-**Exit test:** User can approve/reject the outline as a whole or targeted details, then references can be merged into the bible without creating a played scene.
+**Exit test: PASSED for documentary outline and provenance guards.** An owner can choose first-public-stream direction later without invented dates, participant names or episodes. **Not yet passed as approved canon chronology:** first stream content, date, exact launch/setup and viewer/staff identities remain OPEN. No acted scene, playable demo or first-stream recording.
 
 ### R6 — Unified canon bible revision and owner review
 
@@ -120,6 +120,6 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 5. For historical voices, preserve exceptionally early reading + toddler judgment, independent sibling behavior and emotional nuance; no static mandatory emotional script.
 6. Keep any requested GitHub updates traceable and verify fetch-back. Old historical checkpoints should keep their original factual provenance rather than being erased.
 7. User-selected on-screen layout is **not** a room camera blueprint; users may revise any later proposal.
-8. The *next assistant substantive work* after R4's completed written audit is **R5 a REVIEWABLE hypothetical early-broadcast chronology outline**, not an enacted/canon first stream. R4 documents flag H2 safety/secrecy as high priority but do NOT choose how to fix it. **P1+P3/F2/G1**, Mommy's sometimes unreasonable strictness and R3 **D=A+B+C** pre-viral audience origin remain DIRECTLY APPROVED. Do not restart mechanism micro-interviews or auto-retcon H2.
+8. The *next assistant substantive work* after R5's NONCANONICAL written early-stream outline is **R6 consolidated working v2 canon bible and owner review**. No R5 first-broadcast option is user-approved yet. R4 H2 safety/secrecy remains a marked high-priority gap; R2 **P1+P3/F2/G1**, Mommy sometimes unreasonable strictness, and R3 **D=A+B+C** are DIRECTLY approved and must persist. No scenes or game, no hatch micro-interviews.
 
-**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 integrated written audit and 30 paper cases COMPLETE**, with H2 structural/secrecy/cub emergency rescue remains OPEN; R3 A+B+C origin approved, exact first viewer/staff unknown. **R5 is next recommended only as a reviewable NONCANONICAL chronology outline**, followed by R6 unified bible owner review. R5–R7 remain proposed documentation stages; no enacted scene or game permitted.
+**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 integrated written audit and 30 paper cases COMPLETE**, with H2 structural/secrecy/cub emergency rescue remains OPEN; R3 A+B+C origin approved, exact first viewer/staff unknown. **R5 noncanonical outline + 24 scenario paper tests COMPLETE** with first-public-stream format/chronology still unselected. **R6 consolidated working bible candidate is NEXT recommended**, not immediate final canon freeze. R7 is a separately owner-selected future medium; no enacted scene or game permitted.
