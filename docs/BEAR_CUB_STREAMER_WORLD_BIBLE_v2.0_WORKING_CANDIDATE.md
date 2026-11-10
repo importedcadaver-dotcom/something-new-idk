@@ -275,4 +275,6 @@ This v2 document is **not owner-approved just because it is stored in GitHub**. 
 8. Regression tests documented separately; missing actual-world engineering and runtime tests not misrepresented.
 9. **Explicit owner signoff before calling this "final canon," "frozen", or "Edition 2.0 approved."**
 
+**Review interaction preference (earlier user instruction):** For necessary future owner choices, ask **one consequential plain-text question at a time**, with A/B/C/Other/custom if relevant; **do not use a large interactive form** or force an interview about micro-details. This is a workflow preference, **not fictional canon**.
+
 **Disposition:** **R6 WORKING CANDIDATE PREPARED FOR REVIEW, NOT FROZEN.** The user must expressly approve a future edition if they want it finalized. There is no mandatory further multi-question interview to read or use this reference.
