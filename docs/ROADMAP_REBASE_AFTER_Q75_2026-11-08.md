@@ -6,6 +6,7 @@
 
 ## Outcome and anti-drift rule
 
+> **NEW OWNER DOCUMENTATION DIRECTIVE 2026-11-09:** Never make up unapproved information in project documents. Record only sourced user-approved facts in canon; unknowns stay **UNKNOWN / NOT APPROVED**. Even plausible specific scenes, new names or missing technical methods must not be invented to complete a document. Research and proposals stay separate, if explicitly requested. [Binding documentation policy](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md).
 **Outcome:** One coherent, character-driven and evidence-labeled **world bible** about Acorn (“Muffin”) HoneyDweller, the wealthy baby brown-bear gaming streamer, his autonomous family, audience and bear-dominated society. The final draft must allow credible hypothetical events and family reactions without inventing unsupported memories, private knowledge, technology, or chronology.
 
 **Stop doing:** Endless A/B/C interviews about one hatch, one toy, individual hinge materials, webcam pixel offsets or every minute of Acorn's day. **Q65–75 are complete and preserved.** Do not ask Q76 about a basement hinge or lever merely because it is the next number.
@@ -78,13 +79,13 @@
 
 **Exit test: PASSED as a qualified document-level consistency review.** No demonstrated direct-approval logical contradictions; **major P0 H2 construction/structural/safety/emergency rescue explanations remain UNRESOLVED**, as do adult development curve, parentage, exact Rudy age and past corporate/criminal chronology. Paper tests do NOT certify real engineering or fix secrets.
 
-### R5 — Earliest broadcasts/history: outline only after prerequisites (WRITTEN REVIEW OUTLINE + 24 PAPER TESTS COMPLETE; HISTORICAL DETAILS NOT CANON)
+### R5 — Earliest broadcasts/history (A FORTNITE-FIRST DIRECTLY APPROVED; APPROVED-ONLY v0.2 CURRENT)
 
-**Written deliverables:** [R5 reviewable early streaming timeline v0.1](streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md) and [24 source-integrity/chronology paper cases](reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md). They distinguish **hypothetical private test and first-public-stream directions** from binding R3 D=A+B+C pre-viral origin, 500–2,000 concurrency, the sole established viral food incident, and 5,000–20,000 later concurrency. **No new history was approved by drafting the outline.**
+**NEW DIRECT OWNER CHOICE 2026-11-09:** [R5 A Fortnite-first approval](decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md). Acorn **wanted to play Fortnite and genuinely tried streaming his own gameplay on his very first public stream**. The owner also required **no invented unapproved facts**. [Current approved-only R5 history v0.2](streaming/ACORN_R5_APPROVED_ONLY_FIRST_STREAM_AND_AUDIENCE_CANON_v0.2.md) takes priority over older hypothetical examples. **Older written deliverables:** [R5 reviewable early streaming timeline v0.1](streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md) and [24 source-integrity/chronology paper cases](reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md). They distinguish **hypothetical private test and first-public-stream directions** from binding R3 D=A+B+C pre-viral origin, 500–2,000 concurrency, the sole established viral food incident, and 5,000–20,000 later concurrency. **No new history was approved by drafting the outline.**
 
 **Guardrail:** Acorn's normal voice/skills and feelings at each age must be consistent; no named audience member, incident, date or dialogue is canon without later direct approval.
 
-**Exit test: PASSED for documentary outline and provenance guards.** An owner can choose first-public-stream direction later without invented dates, participant names or episodes. **Not yet passed as approved canon chronology:** first stream content, date, exact launch/setup and viewer/staff identities remain OPEN. No acted scene, playable demo or first-stream recording.
+**Exit test: PASSED for documentary outline and provenance guards.** An owner can choose first-public-stream direction later without invented dates, participant names or episodes. **Direct approved debut content:** **Fortnite-first**, with Acorn genuinely trying to stream his own gameplay. **Still UNKNOWN:** specific match/outcome, date, exact launch/setup, age at debut, other content, viewers and staff identities. No acted scene, playable demo or first-stream recording.
 
 ### R6 — Unified canon bible revision and owner review
 
@@ -113,6 +114,8 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 
 ## Process safeguards
 
+**Highest-priority new safeguard:** [No invented unapproved information rule](PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md). R6 must ground every canon claim in exact approved evidence or preserve uncertainty. Do not import hypothetical R1–R5 paper-test events into the v2 bible.
+
 1. Treat Q65–75 as an **approved frozen-for-now submodule**, not as discarded lore. Only the user may reopen or change direct choices.
 2. **Never add a fictional scene or advance in-world time** merely to illustrate a test; label hypothetical tests clearly.
 3. **Never silently upgrade** a recommendation, source summary, unchosen menu option, or external wildlife fact to original user approval.
@@ -120,6 +123,6 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 5. For historical voices, preserve exceptionally early reading + toddler judgment, independent sibling behavior and emotional nuance; no static mandatory emotional script.
 6. Keep any requested GitHub updates traceable and verify fetch-back. Old historical checkpoints should keep their original factual provenance rather than being erased.
 7. User-selected on-screen layout is **not** a room camera blueprint; users may revise any later proposal.
-8. The *next assistant substantive work* after R5's NONCANONICAL written early-stream outline is **R6 consolidated working v2 canon bible and owner review**. No R5 first-broadcast option is user-approved yet. R4 H2 safety/secrecy remains a marked high-priority gap; R2 **P1+P3/F2/G1**, Mommy sometimes unreasonable strictness, and R3 **D=A+B+C** are DIRECTLY approved and must persist. No scenes or game, no hatch micro-interviews.
+8. The *next assistant substantive work* after R5's NONCANONICAL written early-stream outline is **R6 consolidated working v2 canon bible and owner review**. R5 **A Fortnite-first** is now DIRECTLY user-approved; **no other first-broadcast details** approved. R4 H2 safety/secrecy remains a marked high-priority gap; R2 **P1+P3/F2/G1**, Mommy sometimes unreasonable strictness, and R3 **D=A+B+C** are DIRECTLY approved and must persist. No scenes or game, no hatch micro-interviews.
 
-**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 integrated written audit and 30 paper cases COMPLETE**, with H2 structural/secrecy/cub emergency rescue remains OPEN; R3 A+B+C origin approved, exact first viewer/staff unknown. **R5 noncanonical outline + 24 scenario paper tests COMPLETE** with first-public-stream format/chronology still unselected. **R6 consolidated working bible candidate is NEXT recommended**, not immediate final canon freeze. R7 is a separately owner-selected future medium; no enacted scene or game permitted.
+**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 integrated written audit and 30 paper cases COMPLETE**, with H2 structural/secrecy/cub emergency rescue remains OPEN; R3 A+B+C origin approved, exact first viewer/staff unknown. **R5 A Fortnite-first direct approval RECORDED**, plus approved-only v0.2; early chronology and event specifics remain UNKNOWN. Older speculative outline + 24 tests are historical analysis only. **R6 consolidated working bible candidate is NEXT recommended**, not immediate final canon freeze. R7 is a separately owner-selected future medium; no enacted scene or game permitted.
