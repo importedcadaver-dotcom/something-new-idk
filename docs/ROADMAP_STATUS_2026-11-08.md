@@ -1,4 +1,4 @@
-# Bear Cub Streamer — Current Status After Q75 (R2 Canon Choices Approved; R3 Paper Draft Complete)
+# Bear Cub Streamer — Current Status After Q75 (R3 Origin D=A+B+C Approved)
 
 **Snapshot date:** 2026-11-08 (updated after direct P1+P3/F2/G1 + Mommy-strictness approval and R3 written audience/moderation work)  
 **Phase:** **DOCUMENTATION / WORLD BIBLE ONLY**. No gameplay, coding, generated art, scene writing, first-broadcast reenactment or fictional time advancement.  
@@ -8,6 +8,8 @@
 **Preserved older version of THIS file:** [Historical Q59–75 chronological status log](ROADMAP_STATUS_HISTORICAL_THROUGH_Q75_2026-11-08.md). Its old “Q59 latest / Q60 upcoming / Q66 proposed” wording was valid at earlier checkpoints, **not a description of current project state**.
 
 ## Current executive judgment
+
+> **LATEST DIRECT R3 DECISION, 2026-11-09:** User chose **D = A+B+C** for the **initial pre-viral 500–2,000 concurrent audience**: HoneyDweller family fame/wealth, organic interest in genuine Fortnite plus Acorn's adorable chaotic personality, and the family's media connections helping promote him. **All three required; contributions unquantified**. The later infamous food incident still causes the jump to **5,000–20,000 concurrent**. Names/campaign specifics/first-viewer details OPEN. [Direct decision](decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md). R4 remains next recommended documentation work.
 
 > **LATEST CANON AUTHORITY:** [Direct user choice R2 P1+P3 controls, F2 fictional Twitch-like bear platform, G1 care authority and Mommy sometimes UNREASONABLY STRICT](decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md). [Integrated R2 baseline v0.2](streaming/ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md). **R3 written design completed:** [audience/staff growth model](streaming/ACORN_R3_AUDIENCE_STAFF_EARLY_FAME_SYSTEM_v0.1.md), [official real-world moderation research](research/R3_MODERATION_COMMUNITY_PLATFORM_REFERENCES_2026-11-08.md), [24 paper scenario tests](reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md). **R3 suggestions are NOT new audience history**. R4 biology/dynasty/H2 plausibility audit recommended NEXT.
 
@@ -33,7 +35,7 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 | Acorn's family/social context | **R1 independently motivated seven-role cast matrix + 16 hypothetical paper tests completed** | Formal care/emergency boundaries and specific history OPEN | R1 paper draft complete |
 | Broadcast on-screen layout | Q47/Q57–61 approved | Don't overdesign overlay until physical setup exists | Deferred detailing |
 | Physical studio / platform / real Fortnite | **R2 P1+P3 hybrid / F2 fictional bear Twitch-like platform / G1 caregiving DIRECTLY APPROVED** | Physical fit and switch actions, F2 age/law/name, staff threshold details OPEN | R2 choices approved; detail spec open |
-| Audience and support cast | **R3 staff/fan role map and 24 paper QA cases complete**; 500–2,000 before and 5,000–20,000 after are established concurrency | How pre-viral audience formed, exact first mod and F2 escalation rights OPEN | R3 paper draft complete |
+| Audience and support cast | **R3 direct origin A+B+C approved**, plus staff/fan role draft and 24 paper cases; 500–2,000 before and 5,000–20,000 after are established concurrency | Relative contributions, promotion specifics, exact first mod and F2 escalation rights OPEN | R3 origin approved; other system details proposed |
 | Suite and two hideouts | Q65–75 direct decisions | Keep canon frozen; targeted feasibility/secrecy check only | P1 *audit*; microhardware deferred |
 | Family chronology + corporation/crime | Pre-Q44 bible and systems audit | Rudy/mothers' actual ages, T−17 legitimate CEO succession, unknown old/new clandestine org relationships | P1 |
 | Full bible integration/signoff | Existing v1.1.1 draft plus current checkpoint | Consolidated v2 working candidate, owner review, knowledge/provenance regression | P1 |
@@ -56,7 +58,7 @@ The project goal is a **coherent, character-driven fictional world bible** cente
 1. **R0 — COMPLETE:** Post-Q75 audit, condensed canon checkpoint and revised roadmap.
 2. **R1 — WRITTEN DESIGN DRAFT COMPLETE:** Character daily-life contexts, independent family motives, care/stream autonomy matrix and 16 paper tests (no owner-signed new governance rules).
 3. **R2 — USER CANON APPROVED (HIGH LEVEL):** P1+P3 input family, F2 bear Twitch-like platform, G1 caregiving, and Mommy sometimes unreasonably strict; physical/policy specifics remain OPEN.
-4. **R3 — WRITTEN DESIGN DRAFT COMPLETE:** Audience/staff roles, external source comparisons and 24 paper cases, no new past incidents/people canonized.
+4. **R3 — ORIGIN CANON APPROVED / DESIGN DRAFT COMPLETE:** D=A+B+C family recognition + organic Fortnite/cub appeal + family media promotion for pre-viral audience; support roles and 24 paper cases still proposals.
 5. **R4 — NEXT RECOMMENDED:** Chronology/corporate/social system continuity and a focused H2 plausibility paper audit.
 6. **R5:** Optional proposed written first-stream historical outline for later targeted owner approvals, not an automatically canonized episode.
 7. **R6:** Unified v2 **working** canon bible, verification tests and owner signoff.
