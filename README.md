@@ -1,11 +1,15 @@
 # Bear Cub Streamer — World Bible
 
-**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 and Mommy sometimes-unreasonably-strict APPROVED; R3 D=A+B+C early audience origin APPROVED; R4 audit complete; R5 proposed early-broadcast chronology and 24 paper tests COMPLETE. First public stream NOT yet canon. R6 working-bible review next. No scenes or game.**  
+**Current documentation status, November 9, 2026: R2 P1+P3/F2/G1 + Mommy sometimes unreasonably strict APPROVED; R3 D=A+B+C early audience origin APPROVED; R5 A FIRST PUBLIC STREAM FORTNITE-FIRST APPROVED. The exact debut event details remain UNKNOWN. R6 working-bible review next. NO INVENTED CANON. No scenes or game.**  
 **Work type:** Fictional worldbuilding and canon audit **ONLY**. The owner chose **world bible first** (Q38). No final playable/narrative format, game code, image, animation, acting, historical scene or fictional clock advancement has been authorized.
 
 ## Start here — current source of truth
 
-- **[NEW R5 early-channel historical OUTLINE v0.1 — not yet approved events](docs/streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md)** — proposed private-test/first-public-broadcast possibilities, directly approved A+B+C initial audience drivers, pre-viral viewership, one known food incident and post-viral current scale; no invented past scenes.
+- **[MANDATORY DOCUMENTATION RULE: do NOT invent unapproved information](docs/PROJECT_DOCUMENTATION_NO_INVENTED_CANON_RULES.md)** — record only grounded approved facts as canon; unresolved details stay UNKNOWN, old proposals are not approvals.
+- **[NEW R5 DIRECT APPROVAL A — FIRST PUBLIC STREAM WAS FORTNITE-FIRST](docs/decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md)** — Acorn wanted to play Fortnite and genuinely tried streaming his gameplay. Nothing else about the first broadcast is established by this answer.
+- **[CURRENT R5 approved-only streaming history v0.2](docs/streaming/ACORN_R5_APPROVED_ONLY_FIRST_STREAM_AND_AUDIENCE_CANON_v0.2.md)** — source-linked facts and clearly UNKNOWN fields; no speculative first-episode details.
+
+- **[HISTORICAL R5 proposal outline v0.1](docs/streaming/ACORN_R5_EARLY_BROADCAST_HISTORY_REVIEW_OUTLINE_v0.1.md)** — older speculative choices; **A is now selected** and unselected options are NOT canon. Use R5 v0.2 for current approved history.
 - **[NEW R5 24 paper timeline and source-integrity tests](docs/reviews/R5_EARLY_STREAMING_HISTORY_PAPER_TESTS_v0.1.md)** — what can be inferred versus what still requires user approval; not software, footage or enacted gameplay.
 
 - **[NEW R4 HoneyDweller timeline, biology, corporate/crime and secret-basement plausibility audit](docs/reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md)** — comprehensive paper consistency review; preserves approved canon, labels missing explanations. NOT engineering certification.
@@ -55,12 +59,13 @@
 | Three-room suite, privacy and H1/H2 hideouts | Q65–75 protected; **R4 high-priority physical/secrecy risk audit complete**; construction safety, rescue and how moms remained unaware still UNRESOLVED |
 | Ordinary Acorn/family routine, caregiver vs channel agency | **R1 paper packet complete; R2 G1 APPROVED**, with serious-danger thresholds and routine refusal details still OPEN |
 | Actual bear-operable Fortnite streaming workstation/platform | **P1+P3 controller family and F2 platform APPROVED**; exact hardware/platform law and physical feasibility OPEN |
-| Early audience, staff/moderation roles and first stream outline | **R3 D=A+B+C early audience drivers APPROVED**, role/growth model + 24 paper tests complete; specific campaigns, staff identities and first-stream history still OPEN |
+| Early audience, staff/moderation roles and first stream outline | **R3 D=A+B+C early audience approved; R5 A Fortnite-first debut approved.** Specific first-stream match, date, other actions/participants, staff identities and campaigns remain UNKNOWN |
 | Unified final bible review and signoff | **Not completed** |
 | Visuals, narrative scenes, simulation, game development | **Not started and not authorized** |
 
 ## Latest approvals, protected rather than re-interviewed
 
+- **[R5 newest direct choice](docs/decisions/R5_FIRST_PUBLIC_STREAM_A_FORTNITE_FIRST_APPROVED.md):** **A Fortnite-first**: Acorn wanted to play Fortnite and genuinely tried streaming his own gameplay as his first public broadcast. No match, score, date, guest, first viewer or incident details are established.
 - **[R3 newest approval](docs/decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md):** All three initial audience sources **A family fame + B organic Fortnite/cub charm + C HoneyDweller family media promotion**, different unspecified contributions; later food incident publicity caused post-viral growth.
 - **[R2 latest approved choice](docs/decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md):** **P1+P3** combined broad dual-forepaw/adaptive controls, **F2** fictional Twitch-like platform governed by bear-world laws, **G1** ordinary Acorn channel control + routine negotiation + proportionate serious-danger intervention; **Mommy is sometimes unreasonably strict**, not always and not automatically authorized to seize ordinary stream editing.
 - **[Q65](docs/decisions/Q65_BEDROOM_SUITE_D_APPROVED.md)–[Q67](docs/decisions/Q67_PRIVATE_HALLWAY_C_APPROVED.md):** Acorn has sleeping, play and gaming/streaming spaces connected by a private hallway; siblings ask before entering/touching private property, while parental care/emergency authority remains.
@@ -73,8 +78,8 @@
 2. **R2 (APPROVED HIGH-LEVEL CHOICES):** P1+P3/F2/G1 and Mommy's strict-sometimes trait user-approved; written studio workflow and 22 earlier paper tests remain nonphysical, with detailed settings OPEN.
 3. **R3 (ORIGIN APPROVED; WRITTEN DRAFT COMPLETE):** A+B+C initial audience growth directly approved. Audience/staff categories, other early-fame causal hypotheses, research and 24 tests remain a design draft; named first viewers and precise events open.
 4. **R4 (WRITTEN AUDIT COMPLETE):** Timeline, two litters, 17-year company transfer, separate Cynthia network, H1/H2 knowledge and underground feasibility checked; genuine explanation gaps remain.
-5. **R5 (WRITTEN OUTLINE COMPLETE, NOT CANON EPISODES):** Relative channel milestones, four **unapproved** first-public-stream concept options, A+B+C original audience, known viral incident and later audience. 24 paper tests completed.
-6. **R6 (NEXT RECOMMENDED):** Consolidated working v2 bible candidate and explicit owner review; R4 plausibility gaps and unapproved first-stream history remain visible.
+5. **R5 (A APPROVED; OTHERS UNKNOWN):** Fortnite-first debut direction directly selected; approved-only v0.2 consolidates it alongside the established A+B+C pre-viral audience and later single viral incident. Earlier options remain historical proposals, not canonical episodes.
+6. **R6 (NEXT RECOMMENDED):** Consolidated working v2 bible and explicit owner review **under mandatory no-invented-facts rule**; R4 safety gaps and all unspecified first-stream details remain UNKNOWN.
 7. **R7:** Separate future decision whether to do art, interactive story, simulation or game.
 
 **Do not continue with automatic Q76–Q90 minor hatch/furniture choices.** The basement decisions are protected but *paused for now*. No approved facts are deleted by reprioritizing work.
