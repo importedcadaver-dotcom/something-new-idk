@@ -68,15 +68,15 @@
 
 **Exit test: PASSED at paper level.** Direct user's R3 D now approves **three contributing pre-viral growth drivers A+B+C**; the later viral food publicity causing post-event audience growth is separately approved. Specific first events, identities and contribution shares remain OPEN. No named mod or first stream written; governance and exact history remain OPEN.
 
-### R4 — Integrated household/biology/dynasty continuity
+### R4 — Integrated household/biology/dynasty continuity (WRITTEN PAPER AUDIT + 30 TESTS COMPLETE; OPEN ISSUES RETAINED)
 
-**Written consistency pass**:
+**Written deliverables:** [R4 integrated family/biology/dynasty/H2 audit](reviews/R4_HONEYDWELLER_TIMELINE_BIOLOGY_DYNASTY_H2_CONSISTENCY_v0.1.md), [30 R4 paper continuity tests](reviews/R4_HONEYDWELLER_CONTINUITY_PAPER_TESTS_v0.1.md), [official external natural-history and excavation/rescue reference note](research/R4_BEAR_BIOLOGY_EXCAVATION_SAFETY_RESEARCH_2026-11-09.md). No scenes or build, no automatic new world canon. **Original R4 scope reviewed:**
 - Test timeline: **T−17 actual years Audrey CEO/controller succession**, two litters, Rudy teen equivalent, 6-month twins, 4:1 developmental rate, 80–120 year lifespan.
 - Maintain legitimate Audrey control separate from Cynthia's secret group, former-role relationship unknown and mothers' suspicion not knowledge of murders.
 - Household knowledge and security: H1 known; H2 unknown to moms; actual facts for Millie/Grandma/staff remain unknown, not invented. Check practical plausibility of the undiscovered excavation, including age and physical constraints; **no detailed construction methods**.
 - Preserve girlfriend's extraordinary polar-bear family/litter count without choosing whether ~30 includes her.
 
-**Exit test:** All approved facts are compatible at declared levels; unchosen ages and events stay OPEN, and any true clash is presented to user instead of automatically retconned.
+**Exit test: PASSED as a qualified document-level consistency review.** No demonstrated direct-approval logical contradictions; **major P0 H2 construction/structural/safety/emergency rescue explanations remain UNRESOLVED**, as do adult development curve, parentage, exact Rudy age and past corporate/criminal chronology. Paper tests do NOT certify real engineering or fix secrets.
 
 ### R5 — Earliest broadcasts/history: outline only after prerequisites
 
@@ -120,6 +120,6 @@ Could be prose story, in-chat interactive simulation, visual art, desktop game o
 5. For historical voices, preserve exceptionally early reading + toddler judgment, independent sibling behavior and emotional nuance; no static mandatory emotional script.
 6. Keep any requested GitHub updates traceable and verify fetch-back. Old historical checkpoints should keep their original factual provenance rather than being erased.
 7. User-selected on-screen layout is **not** a room camera blueprint; users may revise any later proposal.
-8. The *next assistant substantive work* after R3's written packet is **R4 paper biology/timeline/dynasty and H2 construction/parent-knowledge plausibility audit**, or an owner decision on first audience origin if desired. **P1+P3/F2/G1 ARE DIRECTLY APPROVED**, not mere old F1/P1/G1 recommendations. Do not restart mechanism micro-interviews. Do **not** immediately ask Q76 about lever fittings.
+8. The *next assistant substantive work* after R4's completed written audit is **R5 a REVIEWABLE hypothetical early-broadcast chronology outline**, not an enacted/canon first stream. R4 documents flag H2 safety/secrecy as high priority but do NOT choose how to fix it. **P1+P3/F2/G1**, Mommy's sometimes unreasonable strictness and R3 **D=A+B+C** pre-viral audience origin remain DIRECTLY APPROVED. Do not restart mechanism micro-interviews or auto-retcon H2.
 
-**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 recommended NEXT**; early audience **A+B+C mix now approved** while origin details and moderator powers still require owner approval. R4–R7 are planned documentation milestones, not authorization to enact scenes or implement software.
+**Roadmap status:** R0 complete; R1 proposed paper design/tests complete; **R2 P1+P3/F2/G1 and Mommy strict-sometimes owner-approved**, with physical details/laws OPEN; **R3 noncanonical written audience/staff model, external moderation research and 24 paper QA cases complete**. **R4 integrated written audit and 30 paper cases COMPLETE**, with H2 structural/secrecy/cub emergency rescue remains OPEN; R3 A+B+C origin approved, exact first viewer/staff unknown. **R5 is next recommended only as a reviewable NONCANONICAL chronology outline**, followed by R6 unified bible owner review. R5–R7 remain proposed documentation stages; no enacted scene or game permitted.
