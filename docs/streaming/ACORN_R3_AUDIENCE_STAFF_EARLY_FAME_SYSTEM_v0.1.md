@@ -1,5 +1,7 @@
 # R3 — Acorn's Audience, Staff, Moderation and Early-Fame Causal Design v0.1
 
+> **DIRECT R3 USER CANON UPDATE, November 9, 2026:** User chose **D = A+B+C** for initial **pre-viral** audience growth: **A** extremely wealthy/famous HoneyDweller family drew attention; **B** organic discovery of Acorn's real Fortnite gameplay and adorable, chaotic baby personality; **C** existing family media connections helped promote him. All three contributed **in differing, unquantified proportions** to his **500–2,000 concurrent** pre-food-incident viewers. This supersedes any older text below saying the combination was only a hypothesis; what remains unknown is each share, how media promotion happened, people, dates and first historical episodes. [Direct owner decision](../decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md). The later known food incident then boosted concurrency to 5,000–20,000, no sponsor during that event.
+
 **Date:** November 8, 2026  
 **Phase:** **DOCUMENTATION-ONLY SYSTEM SYNTHESIS / PROPOSAL**, not new events, cast members, named viewers, specific first-stream history, account setup, game implementation, scene, art, soundtrack or clock progression.  
 **Current approved R2 base:** [P1+P3 / F2 / G1 and Mommy's sometimes unreasonable strictness](ACORN_R2_APPROVED_P1_P3_F2_G1_INTEGRATED_BASELINE_v0.2.md), with direct authority in [R2 decision](../decisions/R2_USER_APPROVED_P1_PLUS_P3_F2_G1_MOMMY_SOMETIMES_UNREASONABLY_STRICT.md).  
@@ -106,8 +108,8 @@ Public audience ↔ subsequent clip/publicity consequences (ONLY
 
 | Phase | Directly approved fact | **Possible explanatory mechanisms, NOT canon** | What must remain OPEN |
 |---|---|---|---|
-| **A. Channel prehistory/launch** | At some point Acorn came to own and control a channel before famous viral event. Genuine gaming/social content established, but initial broadcast history unknown. | Existing family prestige, self-directed novelty, gaming-related discoverability, early cute-baby clips, initial peer/family attention could explain awareness | Exact first stream, who made account, first username, platform launch date, why earliest viewer arrived |
-| **B. Established pre-viral audience** | **500–2,000 concurrent** before the food incident | A combination of reputation, spontaneous content, sympathetic cub fans, real-game novelty or wealth curiosity might sustain this | Which driver actually dominated, community moderators and timeline |
+| **A. Channel prehistory/launch** | Initial audience origin is now **APPROVED A+B+C**: HoneyDweller family fame drew attention; Acorn's actual Fortnite play and adorable/chaotic personality attracted organic viewers; family media connections helped promote his channel. | Exact individual first encounters / channel creation details remain hypothetical, not proved by D | Exact first stream, who made account, first username, dates, any particular media promotion, which viewer arrived first |
+| **B. Established pre-viral audience** | **500–2,000 concurrent** before the food incident, from **approved combined A+B+C drivers** | Relative importance of family status, organic gaming/cub appeal and family media connections is not established; all three have an actual role | Proportions, exact promotion means, first moderator and timeline |
 | **C. ONE verified food incident** | Acorn knowingly defecated on food under pressure to eat; audience publicity ensued; platform warning only; no sponsor during episode; mothers horrified, Rudy laughed, Cynthia critical. | The incident is a public attention catalyst; the precise media/clip/social sharing chain is not approved | Any on-screen live transcript, clip captions, sponsor response, media name, exact date |
 | **D. Post-viral current scale** | **5,000–20,000 concurrent** presently | Viral discovery may bring both new admirers and hostile curiosity, changing the composition and moderation workload | Percentage of new trolls, retention/loyalty, how quickly growth happened, exact follower count |
 | **E. Future possibilities** | No additional episode has been approved after current checkpoint | Audience may become protective, more parasocial, more critical, or less interested; staff may need scale | Future scandal, creator collaboration, named sponsor, strict-Mommy broadcast conflict all unapproved |
@@ -117,7 +119,8 @@ Public audience ↔ subsequent clip/publicity consequences (ONLY
 ### Distinguish cause types
 
 - **Approved direct causal link:** viral food publicity **increased** concurrent viewership.
-- **Proposed plausible contributors:** extreme family wealth, Acorn's genuine gameplay and unusual baby streamer presence, availability of production staff, spontaneous content and bear-world fandom social dynamics.
+- **Approved initial audience contributors (direct R3 D):** **A** HoneyDweller family fame/wealth; **B** organic discovery of authentic Fortnite streams and adorable chaotic cub personality; **C** family media connections providing promotion. Different, unspecified contributions; no invented campaign, first viewer or numeric attribution.
+- **Other still-proposed factors:** exact producer tactics, any particular family promotional event and fan referral mechanics; do not convert these hypotheses into historical fact.
 - **Not evidenced as actual past events:** a certain clip goes viral on another bear platform, a first moderator is hired, a celebrity raids him, Mommy publicly scolds him, Rudy smuggles named contraband into H2, or the estate gets doxxed.
 
 ## 6. Moderation and TTS under load: protect both safety and Acorn's authority
@@ -178,7 +181,7 @@ Acorn responds, ignores, bans/unbans ordinary users, or ends stream
 ## 9. Key R3 open decisions — bundle, do not create 20 questions
 
 **HIGH impact / owner choice recommended before claiming final history:**
-1. **How did Acorn first attract enough attention for 500–2,000 concurrent viewers?** Potentially family fame, game skill and authentic cub personality, media promotion, or combination. Select *drivers*, not first scene.
+1. **COMPLETED via DIRECT R3 D:** Initial **500–2,000 concurrent** audience grew through **combined A+B+C**: HoneyDweller family fame + organic real Fortnite/adorable chaotic personality interest + family media promotion. Relative shares and concrete first discovery/campaign details OPEN. [Direct selection](../decisions/R3_INITIAL_AUDIENCE_GROWTH_A_B_C_COMBINED_D_APPROVED.md).
 2. **What kind of first moderator/producer relationship was involved?** Roles and responsibility arrangement, not names/ages yet; still no actual first encounter.
 3. **How does F2 handle a very young celebrity's platform safety and age/guardian status while G1 preserves ordinary self-rule?** Must not just paste Twitch real legal framework.
 4. **How strongly does Mommy's occasional excessive strictness spill into channel-adjacent routines?** Behavioral tendency already canon; frequency/trigger and family response OPEN.
@@ -199,4 +202,4 @@ Acorn responds, ignores, bans/unbans ordinary users, or ends stream
 9. Future interpersonal conflicts are conditional, not new past reality.
 10. R3 is documentation only, not a completed episode, playable feature or frozen world bible.
 
-**R3 writing conclusion:** The already-approved premise supports a large, potentially divided audience and serious behind-the-scenes staff complexity. **We can explain plausible structures without claiming we know precisely how Acorn's channel began**. [Paper tests](../reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md) audit boundaries. The next roadmap workstream is **R4 integrated family/biology/dynasty and H2 secrecy/physical feasibility**, unless the user chooses to approve one of R3's high-impact origin/governance questions first.
+**R3 writing conclusion (updated after direct D):** The user now approves the **three-source A+B+C origin of Acorn's pre-viral audience**, without specifying who the first viewer was, relative percentages or how the family media promotion occurred. The rest of the audience/staff system remains a proposed work packet, not secretly approved historical scenes. [Paper tests](../reviews/R3_AUDIENCE_STAFF_EARLY_FAME_PAPER_TESTS_v0.1.md) audit boundaries. The next roadmap workstream is **R4 integrated family/biology/dynasty and H2 secrecy/physical feasibility**, unless the user chooses to approve one of R3's high-impact origin/governance questions first.
